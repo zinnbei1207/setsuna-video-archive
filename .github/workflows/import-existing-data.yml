@@ -5,7 +5,10 @@ on:
   push:
     branches: [main]
     paths:
-      - 'scripts/import_existing_data.py'
+      - 'scripts/import_existing_data_v2.py'
+      - 'data/import-2026.b64'
+      - 'data/import-2025.b64'
+      - 'data/import-other.b64'
       - '.github/workflows/import-existing-data.yml'
 
 permissions:
@@ -22,7 +25,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Generate archive JSON
-        run: python scripts/import_existing_data.py
+        run: python scripts/import_existing_data_v2.py
       - name: Commit archive data
         run: |
           git config user.name "github-actions[bot]"
