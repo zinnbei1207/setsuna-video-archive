@@ -2,6 +2,11 @@ name: Update TimeTree events
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/fetch_timetree.py'
+      - '.github/workflows/update-timetree.yml'
   schedule:
     - cron: '17 */6 * * *'
 
