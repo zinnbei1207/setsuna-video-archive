@@ -7,6 +7,8 @@ CALENDAR_ID = "setsuna"
 BASE = f"https://timetreeapp.com/api/v2/public_calendars/{CALENDAR_ID}/public_events"
 HEADERS = {
     "Accept": "application/json",
+    "Content-Type": "application/json",
+    "X-Timetreea": "web/2.1.0/en",
     "User-Agent": "Mozilla/5.0 SetsunaVideoArchive/1.0",
 }
 
@@ -22,7 +24,7 @@ def main():
     cursor = None
     guard = 0
     while guard < 50:
-        params = {"from": "0"}
+        params = {"from": 0}
         if cursor:
             params["cursor"] = cursor
         data = get_json(BASE + "?" + urllib.parse.urlencode(params))
