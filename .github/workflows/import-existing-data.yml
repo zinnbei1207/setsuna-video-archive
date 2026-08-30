@@ -1,0 +1,36 @@
+name: Import existing archive data
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/import_existing_data.py'
+      - '.github/workflows/import-existing-data.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate archive JSON
+        run: python scripts/import_existing_data.py
+      - name: Commit archive data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/videos-2026.json data/videos-2025.json data/videos-other.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Import 503 existing archive records"
+            git push
+          fi
