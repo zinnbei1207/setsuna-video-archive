@@ -20773,6 +20773,65 @@
       "_calendar_id": "setsuna"
     },
     {
+      "id": "3045526378986015593",
+      "public_calendar_id": 1000504002,
+      "public_calendar_label": {
+        "label_id": 5,
+        "public_calendar_id": 1000504002,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
+        "created_at": 1739887373969
+      },
+      "title": "【idolpack】🎤17:05~17:30📸18:00~19:00",
+      "headline": "",
+      "note": "【idolpack】\n\n🗓9/6(日)\n📍南堀江ビレボア\n🎫前方2500円 /一般1000円 \n(入場時1ドリンク必須)\n\n🎤17:05-17:30 \n📸18:00-19:00 \n\n🔗 ticketdive.com/event/ip0906\n\n #永遠のセツナLIVE情報",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/7139/2026-09-01/0-1788223035142.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/7139/2026-09-01/0-1788223035142.jpg"
+          }
+        ],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 2171169,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1788652800000,
+      "end_at": 1788652800000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1788739199000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/setsuna/3045526378986015593",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1788223035947,
+      "display_updated_at": 1788223035947,
+      "updated_at": 1788223035948,
+      "created_at": 1788223035948,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "永遠のセツナ",
+      "_calendar_id": "setsuna"
+    },
+    {
       "id": "2979137522716313995",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
@@ -53048,26 +53107,31 @@
       "id": "3037234417968469452",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『アイドル好きで何がわるい』",
       "headline": "",
-      "note": "",
+      "note": "🗓9月2日(水)\n『アイドル好きで何がわるい』\n📍FANJ twice\n⏱OPEN 17:30/ START 17:45\n💰優先：¥2,000 (+1D)\n一般：¥0 (+2D)\n🎫https://t-dv.com/IdolSuki0902\n【9/1 18:00〜9/2 20:50】\n\n🎤18:30〜18:45\n📸18:55〜19:45\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/295b/2026-09-01/0-1788249387679.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/295b/2026-09-01/0-1788249387679.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -53089,8 +53153,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787234557165,
-      "display_updated_at": 1787234573245,
-      "updated_at": 1787234573246,
+      "display_updated_at": 1788249388487,
+      "updated_at": 1788249388488,
       "created_at": 1787234557166,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -53243,7 +53307,7 @@
       },
       "title": "【京都】『京コレDream festa!』",
       "headline": "",
-      "note": "🗓9月6日(日)\n『京コレDream festa!』\n📍ローム・スクエア\n(ロームシアター京都)\n⏱START 10:00\n💰観覧無料！\n\n🎤10:20〜10:35\n📸10:35〜11:25\n\n#SerenadeLIVE情報",
+      "note": "🗓9月6日(日)\n『京コレDream festa!』\n📍ローム・スクエア\n(ロームシアター京都)\n⏱START 10:00\n💰観覧無料！\n\n🎤10:20〜10:35\n📸10:35〜11:20\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
@@ -53279,8 +53343,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787627560577,
-      "display_updated_at": 1787627560577,
-      "updated_at": 1787627560578,
+      "display_updated_at": 1788248997458,
+      "updated_at": 1788248997459,
       "created_at": 1787627560578,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -56395,28 +56459,28 @@
       },
       "title": "『IDOL TRIBE』",
       "headline": "",
-      "note": "『IDOL TRIBE』\n\n2026年9月5日(土)\n📍うえほんまちハイハイタウン\n\n🔔Mell Bell出演 / 15:40-16:00\n📸特典会 / 16:05-17:05 (並行物販B)\n\n観覧無料\n前方PASS(1000円)\n撮影PASS(1000円)\n応援ブレスレット(1000円)",
+      "note": "『IDOL TRIBE』\n\n2026年9月5日(土)\n📍うえほんまちハイハイタウン\n\n🔔Mell Bell出演 / 15:40-16:00\n📸特典会 / 16:05-17:05 (並行物販A)\n\n観覧無料\n前方PASS(1000円)\n撮影PASS(1000円)\n応援ブレスレット(1000円)",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/1997/2026-09-01/0-1788229770186.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/1997/2026-09-01/0-1788229770186.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/98ee/2026-09-01/0-1788246417023.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/98ee/2026-09-01/0-1788246417023.jpg"
           }
         ],
         "overview": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/d3ef/2026-09-01/0-1788229771320.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d3ef/2026-09-01/0-1788229771320.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/86fd/2026-09-01/0-1788246417792.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/86fd/2026-09-01/0-1788246417792.jpg"
           },
           {
-            "url": "https://attachments.timetreeapp.com/public_event/3de9/2026-09-01/0-1788229772473.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/3de9/2026-09-01/0-1788229772473.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/4af7/2026-09-01/0-1788246418567.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/4af7/2026-09-01/0-1788246418567.jpg"
           },
           {
-            "url": "https://attachments.timetreeapp.com/public_event/8975/2026-09-01/0-1788229773355.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/8975/2026-09-01/0-1788229773355.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/ec58/2026-09-01/0-1788246419278.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/ec58/2026-09-01/0-1788246419278.jpg"
           }
         ]
       },
@@ -56444,8 +56508,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1786694550135,
-      "display_updated_at": 1788229774101,
-      "updated_at": 1788229774101,
+      "display_updated_at": 1788246419919,
+      "updated_at": 1788246419920,
       "created_at": 1786694550135,
       "interest_count": 0,
       "public_calendar_hashtags": [],
