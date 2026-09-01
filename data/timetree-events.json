@@ -20773,65 +20773,6 @@
       "_calendar_id": "setsuna"
     },
     {
-      "id": "3045526378986015593",
-      "public_calendar_id": 1000504002,
-      "public_calendar_label": {
-        "label_id": 5,
-        "public_calendar_id": 1000504002,
-        "name": "ライブ",
-        "color": 2171169,
-        "order": 2,
-        "updated_at": 1772261467216,
-        "created_at": 1739887373969
-      },
-      "title": "【idolpack】🎤17:05~17:30📸18:00~19:00",
-      "headline": "",
-      "note": "【idolpack】\n\n🗓9/6(日)\n📍南堀江ビレボア\n🎫前方2500円 /一般1000円 \n(入場時1ドリンク必須)\n\n🎤17:05-17:30 \n📸18:00-19:00 \n\n🔗 ticketdive.com/event/ip0906\n\n #永遠のセツナLIVE情報",
-      "link_url": "",
-      "overview": "",
-      "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/7139/2026-09-01/0-1788223035142.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/7139/2026-09-01/0-1788223035142.jpg"
-          }
-        ],
-        "overview": []
-      },
-      "videos": [],
-      "status": 1,
-      "color": 2171169,
-      "location_name": "",
-      "location_address": null,
-      "location_access": null,
-      "location_url": null,
-      "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
-      "all_day": true,
-      "start_at": 1788652800000,
-      "end_at": 1788652800000,
-      "start_timezone": "UTC",
-      "end_timezone": "UTC",
-      "recurrences": null,
-      "until_at": 1788739199000,
-      "region_timezone": "Asia/Tokyo",
-      "period_closed": null,
-      "period_note": null,
-      "url": "https://timetr.ee/p/setsuna/3045526378986015593",
-      "attachment": {},
-      "parent_id": "",
-      "publish_at": 1788223035947,
-      "display_updated_at": 1788223035947,
-      "updated_at": 1788223035948,
-      "created_at": 1788223035948,
-      "interest_count": 0,
-      "public_calendar_hashtags": [],
-      "campaign": null,
-      "_group": "永遠のセツナ",
-      "_calendar_id": "setsuna"
-    },
-    {
       "id": "2979137522716313995",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
@@ -38685,7 +38626,7 @@
       "display_updated_at": 1788088550057,
       "updated_at": 1788088550058,
       "created_at": 1787583013398,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -38744,7 +38685,7 @@
       "display_updated_at": 1787662509091,
       "updated_at": 1787662509092,
       "created_at": 1787583027128,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -56452,25 +56393,43 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『IDOL TRIBE』",
       "headline": "",
-      "note": "",
+      "note": "『IDOL TRIBE』\n\n2026年9月5日(土)\n📍うえほんまちハイハイタウン\n\n🔔Mell Bell出演 / 15:40-16:00\n📸特典会 / 16:05-17:05 (並行物販B)\n\n観覧無料\n前方PASS(1000円)\n撮影PASS(1000円)\n応援ブレスレット(1000円)",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/1997/2026-09-01/0-1788229770186.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/1997/2026-09-01/0-1788229770186.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/d3ef/2026-09-01/0-1788229771320.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d3ef/2026-09-01/0-1788229771320.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/3de9/2026-09-01/0-1788229772473.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/3de9/2026-09-01/0-1788229772473.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/8975/2026-09-01/0-1788229773355.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/8975/2026-09-01/0-1788229773355.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "上本町ハイハイタウン",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.66554,
+      "location_lon": 135.518907,
       "all_day": true,
       "start_at": 1788566400000,
       "end_at": 1788566400000,
@@ -56485,8 +56444,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1786694550135,
-      "display_updated_at": 1786694550135,
-      "updated_at": 1786694550135,
+      "display_updated_at": 1788229774101,
+      "updated_at": 1788229774101,
       "created_at": 1786694550135,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -56606,6 +56565,70 @@
       "display_updated_at": 1785140139321,
       "updated_at": 1785140139321,
       "created_at": 1784621074680,
+      "interest_count": 1,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "MellBell",
+      "_calendar_id": "mellbell_0719"
+    },
+    {
+      "id": "3045239234601517294",
+      "public_calendar_id": 1006291040,
+      "public_calendar_label": {
+        "label_id": 10,
+        "public_calendar_id": 1006291040,
+        "name": "",
+        "color": 11766748,
+        "order": 1,
+        "updated_at": 1784985580350,
+        "created_at": 1784303552628
+      },
+      "title": "『🚨緊急🚨はっぴーすまいるᵕ̈*』",
+      "headline": "",
+      "note": "『🚨緊急🚨はっぴーすまいるᵕ̈*』\n\n2026年9月13日(日) \n📍ナンバーゲート\n\n🔔Mell Bell出演 / 11:25-11:50\n📸特典会 / 11:50-15-50\n\n🎫チケット\n￥2000-(D込) 当日￥2500-(D込)\nhttps://t-dv.com/Smile913",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/5e66/2026-08-31/0-1788188804331.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5e66/2026-08-31/0-1788188804331.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/9f23/2026-08-31/0-1788188805064.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/9f23/2026-08-31/0-1788188805064.jpg"
+          }
+        ]
+      },
+      "videos": [],
+      "status": 1,
+      "color": 11766748,
+      "location_name": "#G8「NUMBER GATE」",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": 34.668794,
+      "location_lon": 135.498817,
+      "all_day": true,
+      "start_at": 1789257600000,
+      "end_at": 1789257600000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1789343999000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/mellbell_0719/3045239234601517294",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1788188805669,
+      "display_updated_at": 1788188805669,
+      "updated_at": 1788188805670,
+      "created_at": 1788188805670,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
