@@ -38644,7 +38644,7 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "⭐️動員重要LIVE‼️Zepp Namba 🎤18:30〜18:50📸19:00〜20:00",
+      "title": "Zepp Namba",
       "headline": "",
       "note": "",
       "link_url": "",
@@ -38656,12 +38656,7 @@
             "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/8ad0/2026-08-30/0-1788088549556.jpg"
           }
         ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/e568/2026-09-02/0-1788334073930.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/e568/2026-09-02/0-1788334073930.jpg"
-          }
-        ]
+        "overview": []
       },
       "videos": [],
       "status": 1,
@@ -38687,8 +38682,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787583013398,
-      "display_updated_at": 1788334074609,
-      "updated_at": 1788334074610,
+      "display_updated_at": 1788088550057,
+      "updated_at": 1788088550058,
       "created_at": 1787583013398,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -53312,22 +53307,17 @@
       },
       "title": "【大阪】『Zepp de LIVE』",
       "headline": "",
-      "note": "‼️🩵動員重要ライブ🩵‼️\n\n🗓9月5日(土)\n『Zepp de LIVE』\n📍ZeppNamba\n⏱OPEN 11:00 / START 11:30\n💰前方：5000円\n一般：2000円 \n(入場時1ドリンク必須)\n🎫https://t-dv.com/zeppdelive0905\n【8/30 22:00〜】\n\n🎤19:10〜19:30\n📸20:20〜21:20（終演後）\n\n🩵お目当て特典🩵\n前方：お目当て券1枚+1P\n一般：1P\n+\n推しと10秒動画であっち向いてほい！\n勝てば+写メ1枚無料！\n(上記の10秒動画は前方・一般関係なく付きます)\n\n#SerenadeLIVE情報",
+      "note": "‼️🩵動員重要ライブ🩵‼️\n\n🗓9月5日(土)\n『Zepp de LIVE』\n📍ZeppNamba\n⏱OPEN 11:00 / START 11:30\n💰前方：5000円\n一般：2000円 \n(入場時1ドリンク必須)\n🎫https://t-dv.com/zeppdelive0905\n【8/30 22:00〜】\n\nタイムテーブルは後日解禁..🩵\n\n🩵お目当て特典🩵\n前方：お目当て券1枚+1P\n一般：1P\n+\n推しと10秒動画であっち向いてほい！\n勝てば+写メ1枚無料！\n(上記の10秒動画は前方・一般関係なく付きます)\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/c001/2026-09-02/0-1788349922545.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c001/2026-09-02/0-1788349922545.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/c97c/2026-08-30/0-1788099196022.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c97c/2026-08-30/0-1788099196022.jpg"
           }
         ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/7e88/2026-09-02/0-1788349926430.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/7e88/2026-09-02/0-1788349926430.jpg"
-          }
-        ]
+        "overview": []
       },
       "videos": [],
       "status": 1,
@@ -53353,8 +53343,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1788066257062,
-      "display_updated_at": 1788349927141,
-      "updated_at": 1788349927142,
+      "display_updated_at": 1788144129485,
+      "updated_at": 1788144129486,
       "created_at": 1788066257063,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -56929,60 +56919,6 @@
       "display_updated_at": 1787279457012,
       "updated_at": 1787279457013,
       "created_at": 1787279457013,
-      "interest_count": 0,
-      "public_calendar_hashtags": [],
-      "campaign": null,
-      "_group": "MellBell",
-      "_calendar_id": "mellbell_0719"
-    },
-    {
-      "id": "3046580091095188438",
-      "public_calendar_id": 1006291040,
-      "public_calendar_label": {
-        "label_id": 10,
-        "public_calendar_id": 1006291040,
-        "name": "",
-        "color": 11766748,
-        "order": 1,
-        "updated_at": 1784985580350,
-        "created_at": 1784303552628
-      },
-      "title": "ライブ予定🎀🔔",
-      "headline": "",
-      "note": "",
-      "link_url": "",
-      "overview": "",
-      "images": {
-        "cover": [],
-        "overview": []
-      },
-      "videos": [],
-      "status": 1,
-      "color": 11766748,
-      "location_name": "",
-      "location_address": null,
-      "location_access": null,
-      "location_url": null,
-      "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
-      "all_day": true,
-      "start_at": 1789862400000,
-      "end_at": 1789862400000,
-      "start_timezone": "UTC",
-      "end_timezone": "UTC",
-      "recurrences": null,
-      "until_at": 1789948799000,
-      "region_timezone": "Asia/Tokyo",
-      "period_closed": null,
-      "period_note": null,
-      "url": "https://timetr.ee/p/mellbell_0719/3046580091095188438",
-      "attachment": {},
-      "parent_id": "",
-      "publish_at": 1788348648219,
-      "display_updated_at": 1788348648219,
-      "updated_at": 1788348648220,
-      "created_at": 1788348648220,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
