@@ -20607,24 +20607,19 @@
         "updated_at": 1772261467291,
         "created_at": 1739887373969
       },
-      "title": "【Zepp de LIVE】🎤19:50~20:10📸20:30~21:30",
+      "title": "【Zepp de LIVE】",
       "headline": "",
-      "note": "◤◢◤ ◢◤🚨重要LIVE⚠️◢◤◢◤◢\n\n【Zepp de LIVE】\n🗓9/5(土)\n📍ZeppNamba\n⏰OPEN 11:00／START 11:30\n🎫前方5000円 /一般2000円 \n(入場時1ドリンク必須)\n🔗https://ticketdive.com/event/zeppdelive0905\n8/30 22:00~チケ発\n🎤19:50~20:10\n📸20:30~21:30\n\n🌟お目当て特典コチラ‼️⬇️🌟\n\n🎁前方チケット▶︎1セツナポイントデジショ無料＋メッセージ書き交流付き\n🎁一般チケット▶︎1セツナポイント＋デジショ無料\n\n特典会にてスタッフにお伝えください🙇🏻‍♀️՞\n\n\n\n #永遠のセツナLIVE情報\n\n\nミブはお休みです。",
+      "note": "◤◢◤ ◢◤🚨重要LIVE⚠️◢◤◢◤◢\n\n【Zepp de LIVE】\n🗓9/5(土)\n📍ZeppNamba\n⏰OPEN 11:00／START 11:30\n🎫前方5000円 /一般2000円 \n(入場時1ドリンク必須)\n🔗https://ticketdive.com/event/zeppdelive0905\n8/30 22:00~チケ発\n\n🌟お目当て特典コチラ‼️⬇️🌟\n\n🎁前方チケット▶︎1セツナポイントデジショ無料＋メッセージ書き交流付き\n🎁一般チケット▶︎1セツナポイント＋デジショ無料\n\n特典会にてスタッフにお伝えください🙇🏻‍♀️՞\n\n\n※タイムテーブルは後日公開‼️\n\n #永遠のセツナLIVE情報\n\n\nミブはお休みです。",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/2d7f/2026-09-02/0-1788353766916.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2d7f/2026-09-02/0-1788353766916.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/c3c1/2026-08-30/0-1788110562807.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c3c1/2026-08-30/0-1788110562807.jpg"
           }
         ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/fea2/2026-09-02/0-1788353768049.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/fea2/2026-09-02/0-1788353768049.jpg"
-          }
-        ]
+        "overview": []
       },
       "videos": [],
       "status": 1,
@@ -20650,8 +20645,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1786517383667,
-      "display_updated_at": 1788353768649,
-      "updated_at": 1788353768649,
+      "display_updated_at": 1788110659389,
+      "updated_at": 1788110659390,
       "created_at": 1786517383668,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -38831,18 +38826,13 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "SENNAN LONG PARK サザンストリート",
+      "title": "ライブ",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/2877/2026-09-02/0-1788371516982.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2877/2026-09-02/0-1788371516982.jpg"
-          }
-        ],
+        "cover": [],
         "overview": []
       },
       "videos": [],
@@ -38869,8 +38859,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1783821478460,
-      "display_updated_at": 1788371517455,
-      "updated_at": 1788371517456,
+      "display_updated_at": 1783821478460,
+      "updated_at": 1783821478461,
       "created_at": 1783821478461,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -58061,7 +58051,7 @@
       "_calendar_id": "mellbell_0719"
     },
     {
-      "id": "3046635989297627815",
+      "id": "3012675295183471570",
       "public_calendar_id": 1006291040,
       "public_calendar_label": {
         "label_id": 10,
@@ -58072,7 +58062,7 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "りのちゃんお誕生日🤍",
       "headline": "",
       "note": "",
       "link_url": "",
@@ -58092,22 +58082,22 @@
       "location_lat": null,
       "location_lon": null,
       "all_day": true,
-      "start_at": 1795996800000,
-      "end_at": 1795996800000,
+      "start_at": 1799884800000,
+      "end_at": 1799884800000,
       "start_timezone": "UTC",
       "end_timezone": "UTC",
       "recurrences": null,
-      "until_at": 1796083199000,
+      "until_at": 1799971199000,
       "region_timezone": "Asia/Tokyo",
       "period_closed": null,
       "period_note": null,
-      "url": "https://timetr.ee/p/mellbell_0719/3046635989297627815",
+      "url": "https://timetr.ee/p/mellbell_0719/3012675295183471570",
       "attachment": {},
       "parent_id": "",
-      "publish_at": 1788355311804,
-      "display_updated_at": 1788355311804,
-      "updated_at": 1788355311805,
-      "created_at": 1788355311805,
+      "publish_at": 1784306881586,
+      "display_updated_at": 1784306881586,
+      "updated_at": 1784306881587,
+      "created_at": 1784306881587,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
