@@ -20950,6 +20950,119 @@
       "_calendar_id": "setsuna"
     },
     {
+      "id": "3047857740552276486",
+      "public_calendar_id": 1000504002,
+      "public_calendar_label": {
+        "label_id": 3,
+        "public_calendar_id": 1000504002,
+        "name": "イベント",
+        "color": 4698871,
+        "order": 4,
+        "updated_at": 1772261467304,
+        "created_at": 1739887373969
+      },
+      "title": "【ミブ カンパ特典リアバデート】",
+      "headline": "",
+      "note": "ミブ生誕祭 〜壬生乱舞2026〜\nカンパが、今回もBASEにて\n販売決定しました❕💐\n\nスタンドフラワーにも充てられるのでぜひご購入よろしくお願いいたします💜\n\nご購入はこちらから⬇️\nhttps://colorpuro.base.shop/categories/6512369\n\n販売期間\n7/13 20:00〜9/10 23:59",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/fab1/2026-09-04/0-1788500955217.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/fab1/2026-09-04/0-1788500955217.jpg"
+          }
+        ],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 4698871,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1789948800000,
+      "end_at": 1789948800000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1790035199000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/setsuna/3047857740552276486",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1788500955903,
+      "display_updated_at": 1788500955903,
+      "updated_at": 1788500955903,
+      "created_at": 1788500955903,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "永遠のセツナ",
+      "_calendar_id": "setsuna"
+    },
+    {
+      "id": "3047856399197079678",
+      "public_calendar_id": 1000504002,
+      "public_calendar_label": {
+        "label_id": 1,
+        "public_calendar_id": 1000504002,
+        "name": "未解禁",
+        "color": 3067015,
+        "order": 1,
+        "updated_at": 1772261423569,
+        "created_at": 1739887373969
+      },
+      "title": "【福岡 未解禁】",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 3067015,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1790035200000,
+      "end_at": 1790035200000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1790121599000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/setsuna/3047856399197079678",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1788500796002,
+      "display_updated_at": 1788500813550,
+      "updated_at": 1788500813550,
+      "created_at": 1788500796003,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "永遠のセツナ",
+      "_calendar_id": "setsuna"
+    },
+    {
       "id": "3031218984265124338",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
@@ -38573,7 +38686,7 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "JR大津駅前広場🎤14:10~14:30📸14:35~15:35",
+      "title": "スパワールド🎤14:10~14:30📸14:35~15:35",
       "headline": "",
       "note": "",
       "link_url": "",
@@ -38581,28 +38694,11 @@
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/28fb/2026-08-19/0-1787132321240.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/28fb/2026-08-19/0-1787132321240.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/57ff/2026-09-04/0-1788508380175.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/57ff/2026-09-04/0-1788508380175.jpg"
           }
         ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/af1f/2026-08-19/0-1787132322120.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/af1f/2026-08-19/0-1787132322120.jpg"
-          },
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/5668/2026-08-19/0-1787132322940.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5668/2026-08-19/0-1787132322940.jpg"
-          },
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/dfd8/2026-08-19/0-1787132323604.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/dfd8/2026-08-19/0-1787132323604.jpg"
-          },
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/b276/2026-08-19/0-1787132324254.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/b276/2026-08-19/0-1787132324254.jpg"
-          }
-        ]
+        "overview": []
       },
       "videos": [],
       "status": 1,
@@ -38628,8 +38724,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1783821468285,
-      "display_updated_at": 1787132340201,
-      "updated_at": 1787132340202,
+      "display_updated_at": 1788508380769,
+      "updated_at": 1788508380770,
       "created_at": 1783821468286,
       "interest_count": 2,
       "public_calendar_hashtags": [],
@@ -39273,13 +39369,18 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "ライブ",
+      "title": "TSUTAYA EBISUBASHIイベントスペース🎤18:40〜19:00📸20:30〜21:30",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/db8c/2026-09-04/0-1788506684365.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/db8c/2026-09-04/0-1788506684365.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
@@ -39306,8 +39407,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787583144541,
-      "display_updated_at": 1787583144541,
-      "updated_at": 1787583144541,
+      "display_updated_at": 1788506684974,
+      "updated_at": 1788506684975,
       "created_at": 1787583144541,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -53430,30 +53531,26 @@
         "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【滋賀】『OTSU STREET FESTA！』",
+      "title": "【大阪】『STREET FESTA！』",
       "headline": "",
-      "note": "🗓9月5日(土)\n『OTSU STREET FESTA！』\n📍大津駅前広場\n⏱‪START 10:00\n💰観覧無料！\n撮影パス ¥1,000\nフラワーレイ ¥1,000\n\n🎤13:00〜13:20\n📸13:25〜14:25\n\n#SerenadeLIVE情報",
+      "note": "🗓9月5日(土)\n『STREET FESTA！』\n📍スパワールド\n⏱‪START 10:00\n💰観覧無料！\n撮影パス ¥1,000\nフラワーレイ ¥1,000\n\n🎤13:00〜13:20\n📸13:25〜14:25\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/e528/2026-08-20/0-1787233083965.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/e528/2026-08-20/0-1787233083965.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/1f8d/2026-09-04/0-1788520600788.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/1f8d/2026-09-04/0-1788520600788.jpg"
           }
         ],
         "overview": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/d726/2026-08-20/0-1787233084819.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d726/2026-08-20/0-1787233084819.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/cc64/2026-09-04/0-1788520601939.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/cc64/2026-09-04/0-1788520601939.jpg"
           },
           {
-            "url": "https://attachments.timetreeapp.com/public_event/5ce1/2026-08-20/0-1787233085955.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5ce1/2026-08-20/0-1787233085955.jpg"
-          },
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/5568/2026-08-20/0-1787233086986.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5568/2026-08-20/0-1787233086986.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/96b6/2026-09-04/0-1788520603172.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/96b6/2026-09-04/0-1788520603172.jpg"
           }
         ]
       },
@@ -53481,8 +53578,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1784518597021,
-      "display_updated_at": 1787233087648,
-      "updated_at": 1787233087649,
+      "display_updated_at": 1788520603770,
+      "updated_at": 1788520603771,
       "created_at": 1784518597021,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -53799,26 +53896,31 @@
       "id": "3037627299523056874",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『朝から高カロリー』",
       "headline": "",
-      "note": "",
+      "note": "🗓9月12日(土)\n『朝から高カロリー』\n📍アメリカ村BEYOND\n⏱OPEN 7:45/ START 8:00 ※11:45迄\n💰優先：¥2,500 (+1D)\n一般：¥2,000 (+1D)\n🎫https://t-dv.com/MorningHighCalorie\n【08/31 19:15〜 09/12 08:20】\n\n🎤8:30〜8:45\n📸8:50〜9:50\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n※特典会時間はフライヤーではなく、上記のものが正しい時間となります🙇🏻‍♀️🩵\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/f2e8/2026-09-03/0-1788463171668.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/f2e8/2026-09-03/0-1788463171668.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -53840,8 +53942,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787281392296,
-      "display_updated_at": 1787281392296,
-      "updated_at": 1787281392297,
+      "display_updated_at": 1788463172648,
+      "updated_at": 1788463172650,
       "created_at": 1787281392297,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -53853,26 +53955,31 @@
       "id": "3037627368066373171",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『POPPING Factory』",
       "headline": "",
-      "note": "",
+      "note": "🗓9月12日(土)\n『POPPING Factory』\n📍ナンバーゲート\n⏱OPEN 13:00/ START 13:15\n💰優先：¥2,500 (+1D)\n一般：¥2,000 (+1D)\n🎫https://t-dv.com/POPPINGFactory0912\n【08/31 20:15〜 09/12 14:05】\n\n🎤14:35〜14:50\n📸14:55〜15:45\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/01e8/2026-09-03/0-1788462507369.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/01e8/2026-09-03/0-1788462507369.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -53894,8 +54001,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787281400467,
-      "display_updated_at": 1787281400467,
-      "updated_at": 1787281400468,
+      "display_updated_at": 1788462508169,
+      "updated_at": 1788462508170,
       "created_at": 1787281400468,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -56651,43 +56758,30 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "『OTSU STREET FESTA!』",
+      "title": "『STREET FESTA!＠SPAWORLD』",
       "headline": "",
-      "note": "『OTSU STREET FESTA!』\n\n2026年9月5日(土)\n📍JR大津駅前広場\n滋賀県大津市春日町1-3\n\n🔔MellBell出演/12:40~13:00\n📸特典会/13:05~14:05\n\n観覧無料\n※館外のため雨天中止\n撮影パス/一部二部各部 ¥1000\n優先エリア/一部二部各部¥1000",
+      "note": "『STREET FESTA!＠SPAWORLD』\n\n2026年9月5日(土)\n📍 SPAWORLD HOTEL&RESORT\n\n🔔MellBell出演/12:40~13:00\n📸特典会/13:05~14:05\n\n観覧無料\n撮影パス/各部 ¥1000\n優先エリア/各部¥1000",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/9405/2026-08-19/0-1787135735431.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/9405/2026-08-19/0-1787135735431.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/6d78/2026-09-04/0-1788509549633.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6d78/2026-09-04/0-1788509549633.jpg"
           }
         ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/67cb/2026-08-19/0-1787135736426.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/67cb/2026-08-19/0-1787135736426.jpg"
-          },
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/f0ae/2026-08-19/0-1787135737454.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/f0ae/2026-08-19/0-1787135737454.jpg"
-          },
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/ce10/2026-08-19/0-1787135738436.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/ce10/2026-08-19/0-1787135738436.jpg"
-          }
-        ]
+        "overview": []
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "春日町1-3",
+      "location_name": "SPAWORLD",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": 35.003374,
-      "location_lon": 135.864592,
+      "location_lat": 34.649988,
+      "location_lon": 135.50558,
       "all_day": true,
       "start_at": 1788566400000,
       "end_at": 1788566400000,
@@ -56702,8 +56796,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1784306726419,
-      "display_updated_at": 1787135739043,
-      "updated_at": 1787135739044,
+      "display_updated_at": 1788509550596,
+      "updated_at": 1788509550597,
       "created_at": 1784306726419,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -56896,6 +56990,60 @@
       "updated_at": 1785140139321,
       "created_at": 1784621074680,
       "interest_count": 1,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "MellBell",
+      "_calendar_id": "mellbell_0719"
+    },
+    {
+      "id": "3047636879349482317",
+      "public_calendar_id": 1006291040,
+      "public_calendar_label": {
+        "label_id": 10,
+        "public_calendar_id": 1006291040,
+        "name": "",
+        "color": 11766748,
+        "order": 1,
+        "updated_at": 1784985580350,
+        "created_at": 1784303552628
+      },
+      "title": "ライブ予定🎀🔔",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 11766748,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1789171200000,
+      "end_at": 1789171200000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1789257599000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/mellbell_0719/3047636879349482317",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1788474627196,
+      "display_updated_at": 1788474627196,
+      "updated_at": 1788474627197,
+      "created_at": 1788474627197,
+      "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
@@ -58020,6 +58168,60 @@
       "display_updated_at": 1785492756554,
       "updated_at": 1785492756554,
       "created_at": 1785492756554,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "MellBell",
+      "_calendar_id": "mellbell_0719"
+    },
+    {
+      "id": "3047927518779769483",
+      "public_calendar_id": 1006291040,
+      "public_calendar_label": {
+        "label_id": 10,
+        "public_calendar_id": 1006291040,
+        "name": "",
+        "color": 11766748,
+        "order": 1,
+        "updated_at": 1784985580350,
+        "created_at": 1784303552628
+      },
+      "title": "ライブ予定🎀🔔",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 11766748,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1792195200000,
+      "end_at": 1792195200000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1792281599000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/mellbell_0719/3047927518779769483",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1788509274116,
+      "display_updated_at": 1788509274116,
+      "updated_at": 1788509274117,
+      "created_at": 1788509274117,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
