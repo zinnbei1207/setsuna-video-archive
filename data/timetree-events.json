@@ -20535,37 +20535,24 @@
         "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "滋賀【OTSU STREET FESTA!】🎤14:30~14:50📸14:55~15:55",
+      "title": "【STREET FESTA!】🎤14:30~14:50📸14:55~15:55",
       "headline": "",
-      "note": "【OTSU STREET FESTA!】\n\n🗓2026.9.5(土)\n📍JR大津駅前広場\n滋賀県大津市春日町1-3\n⏰START 10:00\n🎫観覧無料‼️\n※館外のため雨天中止\n\n・撮影パス　一部二部各部 ¥1000\n・優先エリア一部二部各部¥1000\n\nミブはお休みです。\n\n🎤14:30~14:50\n📸14:55~15:55\n\n #永遠のセツナLIVE情報",
+      "note": "【STREET FESTA!】\n\n🗓2026.9.5(土)\n📍スパワールド\n⏰START 10:00\n🎫観覧無料‼️\n\n・撮影パス　一部二部各部 ¥1000\n・優先エリア一部二部各部¥1000\n\nミブはお休みです。\n\n🎤14:30~14:50\n📸14:55~15:55\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/8276/2026-08-19/0-1787122855416.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/8276/2026-08-19/0-1787122855416.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/fd01/2026-09-04/0-1788549152260.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/fd01/2026-09-04/0-1788549152260.jpg"
           }
         ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/d655/2026-08-19/0-1787122856370.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d655/2026-08-19/0-1787122856370.jpg"
-          },
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/c7b9/2026-08-19/0-1787122857594.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c7b9/2026-08-19/0-1787122857594.jpg"
-          },
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/472b/2026-08-19/0-1787122858517.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/472b/2026-08-19/0-1787122858517.jpg"
-          }
-        ]
+        "overview": []
       },
       "videos": [],
       "status": 1,
       "color": 2171169,
-      "location_name": "JR大津駅前広場",
+      "location_name": "",
       "location_address": null,
       "location_access": null,
       "location_url": null,
@@ -20586,8 +20573,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1786517359034,
-      "display_updated_at": 1787931546943,
-      "updated_at": 1787931546944,
+      "display_updated_at": 1788549152850,
+      "updated_at": 1788549152851,
       "created_at": 1786517359035,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -20889,7 +20876,7 @@
       "display_updated_at": 1787504215153,
       "updated_at": 1787504215154,
       "created_at": 1780308867558,
-      "interest_count": 2,
+      "interest_count": 3,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "永遠のセツナ",
@@ -38909,7 +38896,7 @@
       "display_updated_at": 1787308671283,
       "updated_at": 1787308671284,
       "created_at": 1787308671284,
-      "interest_count": 2,
+      "interest_count": 3,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -39351,7 +39338,7 @@
       "display_updated_at": 1788445109467,
       "updated_at": 1788445109467,
       "created_at": 1788445109467,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -54068,26 +54055,31 @@
       "id": "3037627553941149406",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『SHOW IN OSAKA』",
       "headline": "",
-      "note": "",
+      "note": "🗓9月13日(日)\n『SHOW IN OSAKA』\n📍Live Bar BK\n⏱OPEN 12:30/ START 12:45\n💰予約：¥1,500 (+1D)\n当日：¥2,500 (+1D)\n🎫https://t-dv.com/SIO0913\n【09/04 22:30〜 09/13 12:45】\n\n🎤13:45〜14:05\n📸14:30〜15:30\n\n🩵お目当て特典🩵\nお目当て券1枚+1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/21f4/2026-09-04/0-1788527675100.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/21f4/2026-09-04/0-1788527675100.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -54109,8 +54101,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787281422625,
-      "display_updated_at": 1787281422625,
-      "updated_at": 1787281422626,
+      "display_updated_at": 1788527675671,
+      "updated_at": 1788527675672,
       "created_at": 1787281422626,
       "interest_count": 1,
       "public_calendar_hashtags": [],
