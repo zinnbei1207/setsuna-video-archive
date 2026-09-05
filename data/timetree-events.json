@@ -56999,30 +56999,25 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "『推し色に染まる9月』",
+      "title": "ライブ予定🎀🔔",
       "headline": "",
-      "note": "『推し色に染まる9月』\n\n2026年9月12日(土)\n📍ESAKA MUSE\n\nタイムテーブル未定💭\n\n🎫チケット\n9/6(日)22:00~販売開始\n前方2000円 /一般1500円 \n※当日にチケット料金＋入場別1ドリンク代必須をお支払い頂きます。\nt-dv.com/OS0912",
+      "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/517f/2026-09-05/0-1788599990297.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/517f/2026-09-05/0-1788599990297.jpg"
-          }
-        ],
+        "cover": [],
         "overview": []
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "ESAKA MUSE",
+      "location_name": "",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": 34.758952,
-      "location_lon": 135.495512,
+      "location_lat": null,
+      "location_lon": null,
       "all_day": true,
       "start_at": 1789171200000,
       "end_at": 1789171200000,
@@ -57037,8 +57032,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1788474627196,
-      "display_updated_at": 1788599991081,
-      "updated_at": 1788599991082,
+      "display_updated_at": 1788474627196,
+      "updated_at": 1788474627197,
       "created_at": 1788474627197,
       "interest_count": 0,
       "public_calendar_hashtags": [],
