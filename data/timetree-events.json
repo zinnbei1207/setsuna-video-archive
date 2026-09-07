@@ -20824,6 +20824,60 @@
       "_calendar_id": "setsuna"
     },
     {
+      "id": "3049868512555895489",
+      "public_calendar_id": 1000504002,
+      "public_calendar_label": {
+        "label_id": 1,
+        "public_calendar_id": 1000504002,
+        "name": "未解禁",
+        "color": 3067015,
+        "order": 1,
+        "updated_at": 1772261423569,
+        "created_at": 1739887373969
+      },
+      "title": "(仮)大阪【未解禁】",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 3067015,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1788912000000,
+      "end_at": 1788912000000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1788998399000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/setsuna/3049868512555895489",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1788740658605,
+      "display_updated_at": 1788740658605,
+      "updated_at": 1788740658606,
+      "created_at": 1788740658606,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "永遠のセツナ",
+      "_calendar_id": "setsuna"
+    },
+    {
       "id": "2979137522716313995",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
@@ -39027,13 +39081,18 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "ライブ",
+      "title": "北堀江club vijon 🎤18:20〜18:45📸20:10〜21:10",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/a44b/2026-09-06/0-1788719047859.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/a44b/2026-09-06/0-1788719047859.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
@@ -39060,8 +39119,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787583070039,
-      "display_updated_at": 1787583070039,
-      "updated_at": 1787583070040,
+      "display_updated_at": 1788719048569,
+      "updated_at": 1788719048585,
       "created_at": 1787583070040,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -53893,7 +53952,7 @@
       },
       "title": "【大阪】『朝から高カロリー』",
       "headline": "",
-      "note": "🗓9月12日(土)\n『朝から高カロリー』\n📍アメリカ村BEYOND\n⏱OPEN 7:45/ START 8:00 ※11:45迄\n💰優先：¥2,500 (+1D)\n一般：¥2,000 (+1D)\n🎫https://t-dv.com/MorningHighCalorie\n【08/31 19:15〜 09/12 08:20】\n\n🎤8:30〜8:45\n📸8:50〜9:50\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n※特典会時間はフライヤーではなく、上記のものが正しい時間となります🙇🏻‍♀️🩵\n\n#SerenadeLIVE情報",
+      "note": "🗓9月12日(土)\n『朝から高カロリー』\n📍アメリカ村BEYOND\n⏱OPEN 7:45/ START 8:00 ※11:45迄\n💰優先：¥2,500 (+1D)\n一般：¥2,000 (+1D)\n🎫https://t-dv.com/MorningHighCalorie\n【08/31 19:15〜 09/12 08:20】\n\n🎤8:30〜8:45\n📸8:50〜9:50\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n※特典会時間はフライヤーではなく、上記のものが正しい時間となります🙇🏻‍♀️🩵\n\n衣装：プレデビュー期間衣装\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
@@ -53929,8 +53988,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787281392296,
-      "display_updated_at": 1788463172648,
-      "updated_at": 1788463172650,
+      "display_updated_at": 1788693330766,
+      "updated_at": 1788693330767,
       "created_at": 1787281392297,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -57124,14 +57183,14 @@
       },
       "title": "『PIEN presents.VOL.113Obsessed with idols❣️』",
       "headline": "",
-      "note": "『PIEN presents.VOL.113\nObsessed with idols❣️』\n\n2026年9月13日(日)\n📍心斎橋CLAPPER\n\nタイムテーブル未定💭\n\nOPEN / 16:00 START / 16:30\nADV ¥2.500-(1D別) DOOR ¥3.000-(1D別)\nhttps://tiget.net/events/518845",
+      "note": "『PIEN presents.VOL.113\nObsessed with idols❣️』\n\n2026年9月13日(日)\n📍心斎橋CLAPPER\n\n🔔MellBell出演/17:45-18:10 \n📸特典会 /18:10-19:00 (並行物販B)\n\n🎫チケット\nADV ¥2.500-(1D別)\nDOOR ¥3.000-(1D別)\ntiget.net/events/518845",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/5cb3/2026-09-01/0-1788266792550.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5cb3/2026-09-01/0-1788266792550.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/a916/2026-09-06/0-1788693136073.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/a916/2026-09-06/0-1788693136073.jpg"
           }
         ],
         "overview": []
@@ -57160,8 +57219,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1788266793147,
-      "display_updated_at": 1788266942572,
-      "updated_at": 1788266942573,
+      "display_updated_at": 1788693137006,
+      "updated_at": 1788693137025,
       "created_at": 1788266793148,
       "interest_count": 1,
       "public_calendar_hashtags": [],
