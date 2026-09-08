@@ -39518,7 +39518,7 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "SENNAN LONG PARK サザンストリート",
+      "title": "SENNAN LONG PARK サザンストリート🎤15:10〜15:30📸15:40〜16:40",
       "headline": "",
       "note": "",
       "link_url": "",
@@ -39530,7 +39530,12 @@
             "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2877/2026-09-02/0-1788371516982.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/bb64/2026-09-08/0-1788867409935.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/bb64/2026-09-08/0-1788867409935.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -39556,8 +39561,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1783821478460,
-      "display_updated_at": 1788371517455,
-      "updated_at": 1788371517456,
+      "display_updated_at": 1788867410565,
+      "updated_at": 1788867410587,
       "created_at": 1783821478461,
       "interest_count": 2,
       "public_calendar_hashtags": [],
@@ -55371,6 +55376,60 @@
       "display_updated_at": 1787281444311,
       "updated_at": 1787281444313,
       "created_at": 1787234766376,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "Serenade",
+      "_calendar_id": "s1220"
+    },
+    {
+      "id": "3050859727733511409",
+      "public_calendar_id": 1002727029,
+      "public_calendar_label": {
+        "label_id": 1,
+        "public_calendar_id": 1002727029,
+        "name": "未解禁",
+        "color": 3067015,
+        "order": 2,
+        "updated_at": 1783055743328,
+        "created_at": 1762145257427
+      },
+      "title": "大阪【未解禁】",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 3067015,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1790985600000,
+      "end_at": 1790985600000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1791071999000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/s1220/3050859727733511409",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1788858820662,
+      "display_updated_at": 1788858820662,
+      "updated_at": 1788858820663,
+      "created_at": 1788858820663,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
