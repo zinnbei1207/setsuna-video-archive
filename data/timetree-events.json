@@ -57605,7 +57605,7 @@
       },
       "title": "『Hello ∵ Malloデビュー前LIVE！』",
       "headline": "",
-      "note": "『Hello ∵ Malloデビュー前LIVE！』\n\n2026年9月12日（土）\n📍club vijon\n\nタイムテーブル未定💭\n\nチケット🎫\n優先¥2.000\n一般¥500（各1D別）\n当日+¥500（1D別）\ntiget.net/events/505240",
+      "note": "『Hello ∵ Malloデビュー前LIVE！』\n\n2026年9月12日（土）\n📍club vijon\n\n🔔MellBell出演/14:10~14:30\n📸特典会/14:30~15:30\n\nチケット🎫\n優先¥2.000\n一般¥500（各1D別）\n当日+¥500（1D別）\ntiget.net/events/505240",
       "link_url": "",
       "overview": "",
       "images": {
@@ -57615,7 +57615,12 @@
             "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d227/2026-07-27/0-1785140138228.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/52e4/2026-09-08/0-1788839742212.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/52e4/2026-09-08/0-1788839742212.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -57641,8 +57646,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1784621074679,
-      "display_updated_at": 1785140139321,
-      "updated_at": 1785140139321,
+      "display_updated_at": 1788839742889,
+      "updated_at": 1788839742891,
       "created_at": 1784621074680,
       "interest_count": 1,
       "public_calendar_hashtags": [],
