@@ -39500,7 +39500,7 @@
       "display_updated_at": 1787308671283,
       "updated_at": 1787308671284,
       "created_at": 1787308671284,
-      "interest_count": 3,
+      "interest_count": 4,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -39672,7 +39672,7 @@
       "display_updated_at": 1788719048569,
       "updated_at": 1788719048585,
       "created_at": 1787583070040,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -40006,7 +40006,7 @@
       "display_updated_at": 1788506684974,
       "updated_at": 1788506684975,
       "created_at": 1787583144541,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -54423,7 +54423,7 @@
       "display_updated_at": 1788775887259,
       "updated_at": 1788775887260,
       "created_at": 1787306908191,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "Serenade",
@@ -57664,7 +57664,7 @@
       },
       "title": "『推し色に染まる9月』",
       "headline": "",
-      "note": "『推し色に染まる9月』\n\n2026年9月12日(土)\n📍ESAKA MUSE\n\nタイムテーブル未定💭\n\n🎫チケット\n9/6(日)22:00~販売開始\n前方2000円 /一般1500円 \n※当日にチケット料金＋入場別1ドリンク代必須をお支払い頂きます。\nt-dv.com/OS0912",
+      "note": "『推し色に染まる9月』\n\n2026年9月12日(土)\n📍ESAKA MUSE\n\n🔔MellBell出演/10:20~10:45\n📸特典会/10:55~11:55\n\n🎫チケット\n前方2000円 /一般1500円 \n※当日にチケット料金＋入場別1ドリンク代必須をお支払い頂きます。\nt-dv.com/OS0912",
       "link_url": "",
       "overview": "",
       "images": {
@@ -57674,7 +57674,12 @@
             "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/517f/2026-09-05/0-1788599990297.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/e8a5/2026-09-07/0-1788784911967.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/e8a5/2026-09-07/0-1788784911967.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -57700,8 +57705,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1788474627196,
-      "display_updated_at": 1788599991081,
-      "updated_at": 1788599991082,
+      "display_updated_at": 1788784912600,
+      "updated_at": 1788784912601,
       "created_at": 1788474627197,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -58047,7 +58052,7 @@
       "display_updated_at": 1787582042615,
       "updated_at": 1787582042615,
       "created_at": 1787279480111,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
