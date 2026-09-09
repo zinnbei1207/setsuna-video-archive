@@ -39518,7 +39518,7 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "SENNAN LONG PARK サザンストリート🎤15:10〜15:30📸15:40〜16:40",
+      "title": "SENNAN LONG PARK サザンストリート🎤15:10〜15:30📸15:35〜16:35",
       "headline": "",
       "note": "",
       "link_url": "",
@@ -39561,8 +39561,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1783821478460,
-      "display_updated_at": 1788867410565,
-      "updated_at": 1788867410587,
+      "display_updated_at": 1788940460449,
+      "updated_at": 1788940460450,
       "created_at": 1783821478461,
       "interest_count": 2,
       "public_calendar_hashtags": [],
@@ -39582,14 +39582,24 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "ライブ",
+      "title": "湊町リバープレイス🎤12:55〜13:10📸13:10〜14:10",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/4da0/2026-09-09/0-1788947834530.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/4da0/2026-09-09/0-1788947834530.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/0836/2026-09-09/0-1788947835756.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/0836/2026-09-09/0-1788947835756.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -39615,8 +39625,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787583057358,
-      "display_updated_at": 1787583057358,
-      "updated_at": 1787583057359,
+      "display_updated_at": 1788947836823,
+      "updated_at": 1788947836840,
       "created_at": 1787583057359,
       "interest_count": 0,
       "public_calendar_hashtags": [],
