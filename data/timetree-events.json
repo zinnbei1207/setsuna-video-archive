@@ -58031,25 +58031,30 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『IDOL CASCADE 〜読書の秋 SP〜』",
       "headline": "",
-      "note": "",
+      "note": "『IDOL CASCADE 〜読書の秋 SP〜』\n\n2026年9月20日（日）\n📍うえほんまちハイハイタウン\n\n🔔Mell Bell出演 / 12:10-12:30\n📸特典会 / 12:35-13:35\n\n観覧無料\n撮影パス / 1000円\n優先エリア / 1000円",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/469b/2026-09-10/0-1789034791768.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/469b/2026-09-10/0-1789034791768.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "上本町ハイハイタウン",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.66554,
+      "location_lon": 135.518907,
       "all_day": true,
       "start_at": 1789862400000,
       "end_at": 1789862400000,
@@ -58064,8 +58069,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787279457012,
-      "display_updated_at": 1787279457012,
-      "updated_at": 1787279457013,
+      "display_updated_at": 1789034799658,
+      "updated_at": 1789034799659,
       "created_at": 1787279457013,
       "interest_count": 0,
       "public_calendar_hashtags": [],
