@@ -39596,8 +39596,8 @@
         ],
         "overview": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/0836/2026-09-09/0-1788947835756.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/0836/2026-09-09/0-1788947835756.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/ae5a/2026-09-10/0-1789045907990.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/ae5a/2026-09-10/0-1789045907990.jpg"
           }
         ]
       },
@@ -39625,8 +39625,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787583057358,
-      "display_updated_at": 1788947836823,
-      "updated_at": 1788947836840,
+      "display_updated_at": 1789045908753,
+      "updated_at": 1789045908754,
       "created_at": 1787583057359,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -39849,6 +39849,65 @@
       "display_updated_at": 1787583134537,
       "updated_at": 1787583134537,
       "created_at": 1787583134537,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "&youth!",
+      "_calendar_id": "andyouthchannel"
+    },
+    {
+      "id": "3052432873808159012",
+      "public_calendar_id": 1001305048,
+      "public_calendar_label": {
+        "label_id": 7,
+        "public_calendar_id": 1001305048,
+        "name": "",
+        "color": 15949708,
+        "order": 7,
+        "updated_at": 1748759551166,
+        "created_at": 1748759551166
+      },
+      "title": "うえほんまちハイハイタウン🎤12:30〜12:50📸12:55〜13:55",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/5f45/2026-09-10/0-1789046353695.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5f45/2026-09-10/0-1789046353695.jpg"
+          }
+        ],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 15949708,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1789862400000,
+      "end_at": 1789862400000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1789948799000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/andyouthchannel/3052432873808159012",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1789046354288,
+      "display_updated_at": 1789046354288,
+      "updated_at": 1789046354289,
+      "created_at": 1789046354289,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
@@ -40366,6 +40425,65 @@
       "updated_at": 1785126582593,
       "created_at": 1785126582593,
       "interest_count": 2,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "&youth!",
+      "_calendar_id": "andyouthchannel"
+    },
+    {
+      "id": "3052435248245597105",
+      "public_calendar_id": 1001305048,
+      "public_calendar_label": {
+        "label_id": 7,
+        "public_calendar_id": 1001305048,
+        "name": "",
+        "color": 15949708,
+        "order": 7,
+        "updated_at": 1748759551166,
+        "created_at": 1748759551166
+      },
+      "title": "ナンバーゲート",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/0873/2026-09-10/0-1789046636699.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/0873/2026-09-10/0-1789046636699.jpg"
+          }
+        ],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 15949708,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1791936000000,
+      "end_at": 1791936000000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1792022399000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/andyouthchannel/3052435248245597105",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1789046637343,
+      "display_updated_at": 1789046637343,
+      "updated_at": 1789046637345,
+      "created_at": 1789046637345,
+      "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
