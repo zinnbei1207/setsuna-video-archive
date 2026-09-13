@@ -58066,25 +58066,35 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『IDOL TRIBE』",
       "headline": "",
-      "note": "",
+      "note": "『IDOL TRIBE』\n2026年9月19日(土)\n📍ドン・キホーテ梅田本店\n\n🔔Mell Bell出演 / 16:30-16:50 \n📸特典会 / 17:40-18:40\n\n観覧無料\n撮影PASS(1000円)\n応援ブレスレット(1000円)",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/e8b7/2026-09-13/0-1789303637966.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/e8b7/2026-09-13/0-1789303637966.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/39b0/2026-09-13/0-1789303639091.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/39b0/2026-09-13/0-1789303639091.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "ドン・キホーテ 梅田本店",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.703258,
+      "location_lon": 135.501041,
       "all_day": true,
       "start_at": 1789776000000,
       "end_at": 1789776000000,
@@ -58099,10 +58109,10 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1785462066147,
-      "display_updated_at": 1785462066147,
-      "updated_at": 1785462066148,
+      "display_updated_at": 1789303639970,
+      "updated_at": 1789303639971,
       "created_at": 1785462066148,
-      "interest_count": 1,
+      "interest_count": 2,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
@@ -58235,14 +58245,14 @@
       },
       "title": "『押忍フェス〜野外編〜』",
       "headline": "",
-      "note": "『押忍フェス〜野外編〜』\n\n2026年9月21日(月・祝)\n📍湊町リバープレイス\n\nタイムテーブル未定💭\n\n観覧無料！\n撮影チケット:1,000円<要返却>\n※スマホでの撮影は無料です\n優先エリア観覧チケット:1,000円",
+      "note": "『押忍フェス〜野外編〜』\n\n2026年9月21日(月・祝)\n📍湊町リバープレイス\n\n🔔MellBell 出演/11:15 - 11:30\n📸特典会/11:35~12:35\n\n観覧無料！\n撮影チケット:1,000円<要返却>\n※スマホでの撮影は無料です\n優先エリア観覧チケット:1,000円",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/3ff5/2026-08-24/0-1787582041973.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/3ff5/2026-08-24/0-1787582041973.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/46f2/2026-09-13/0-1789303715295.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/46f2/2026-09-13/0-1789303715295.jpg"
           }
         ],
         "overview": []
@@ -58250,13 +58260,13 @@
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "湊町リバープレイス",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.668133,
+      "location_lon": 135.495734,
       "all_day": true,
       "start_at": 1789948800000,
       "end_at": 1789948800000,
@@ -58271,10 +58281,10 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787279480099,
-      "display_updated_at": 1787582042615,
-      "updated_at": 1787582042615,
+      "display_updated_at": 1789303716129,
+      "updated_at": 1789303716144,
       "created_at": 1787279480111,
-      "interest_count": 1,
+      "interest_count": 2,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
@@ -59276,7 +59286,7 @@
       "display_updated_at": 1789282957806,
       "updated_at": 1789282957806,
       "created_at": 1789282957806,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
