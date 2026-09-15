@@ -39651,24 +39651,14 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "ドン・キホーテ梅田本店🎤19:30〜19:50📸20:00〜21:00",
+      "title": "ライブ",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/6b6b/2026-09-15/0-1789454051937.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6b6b/2026-09-15/0-1789454051937.jpg"
-          }
-        ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/8d60/2026-09-15/0-1789454053343.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/8d60/2026-09-15/0-1789454053343.jpg"
-          }
-        ]
+        "cover": [],
+        "overview": []
       },
       "videos": [],
       "status": 1,
@@ -39694,8 +39684,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787583122540,
-      "display_updated_at": 1789454053988,
-      "updated_at": 1789454053989,
+      "display_updated_at": 1787583122540,
+      "updated_at": 1787583122541,
       "created_at": 1787583122541,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -39769,7 +39759,7 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "スパワールド🎤12:30〜12:50📸12:55〜13:55",
+      "title": "うえほんまちハイハイタウン🎤12:30〜12:50📸12:55〜13:55",
       "headline": "",
       "note": "",
       "link_url": "",
@@ -39777,8 +39767,8 @@
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/dc5e/2026-09-15/0-1789449830663.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/dc5e/2026-09-15/0-1789449830663.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/5f45/2026-09-10/0-1789046353695.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5f45/2026-09-10/0-1789046353695.jpg"
           }
         ],
         "overview": []
@@ -39807,68 +39797,9 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789046354288,
-      "display_updated_at": 1789449831263,
-      "updated_at": 1789449831266,
+      "display_updated_at": 1789046354288,
+      "updated_at": 1789046354289,
       "created_at": 1789046354289,
-      "interest_count": 0,
-      "public_calendar_hashtags": [],
-      "campaign": null,
-      "_group": "&youth!",
-      "_calendar_id": "andyouthchannel"
-    },
-    {
-      "id": "3055852401325989980",
-      "public_calendar_id": 1001305048,
-      "public_calendar_label": {
-        "label_id": 7,
-        "public_calendar_id": 1001305048,
-        "name": "",
-        "color": 15949708,
-        "order": 7,
-        "updated_at": 1748759551166,
-        "created_at": 1748759551166
-      },
-      "title": "湊町リバープレイス🎤15:35～15:50📸15:55〜16:40",
-      "headline": "",
-      "note": "",
-      "link_url": "",
-      "overview": "",
-      "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/2eb7/2026-09-15/0-1789453993026.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2eb7/2026-09-15/0-1789453993026.jpg"
-          }
-        ],
-        "overview": []
-      },
-      "videos": [],
-      "status": 1,
-      "color": 15949708,
-      "location_name": "",
-      "location_address": null,
-      "location_access": null,
-      "location_url": null,
-      "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
-      "all_day": true,
-      "start_at": 1789862400000,
-      "end_at": 1789862400000,
-      "start_timezone": "UTC",
-      "end_timezone": "UTC",
-      "recurrences": null,
-      "until_at": 1789948799000,
-      "region_timezone": "Asia/Tokyo",
-      "period_closed": null,
-      "period_note": null,
-      "url": "https://timetr.ee/p/andyouthchannel/3055852401325989980",
-      "attachment": {},
-      "parent_id": "",
-      "publish_at": 1789453993734,
-      "display_updated_at": 1789453993734,
-      "updated_at": 1789453993735,
-      "created_at": 1789453993735,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
@@ -40562,65 +40493,6 @@
       "display_updated_at": 1787662712031,
       "updated_at": 1787662712032,
       "created_at": 1787662712032,
-      "interest_count": 1,
-      "public_calendar_hashtags": [],
-      "campaign": null,
-      "_group": "&youth!",
-      "_calendar_id": "andyouthchannel"
-    },
-    {
-      "id": "3055853166526423685",
-      "public_calendar_id": 1001305048,
-      "public_calendar_label": {
-        "label_id": 7,
-        "public_calendar_id": 1001305048,
-        "name": "",
-        "color": 15949708,
-        "order": 7,
-        "updated_at": 1748759551166,
-        "created_at": 1748759551166
-      },
-      "title": "ナンバーゲート",
-      "headline": "",
-      "note": "",
-      "link_url": "",
-      "overview": "",
-      "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/da51/2026-09-15/0-1789454084447.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/da51/2026-09-15/0-1789454084447.jpg"
-          }
-        ],
-        "overview": []
-      },
-      "videos": [],
-      "status": 1,
-      "color": 15949708,
-      "location_name": "",
-      "location_address": null,
-      "location_access": null,
-      "location_url": null,
-      "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
-      "all_day": true,
-      "start_at": 1792627200000,
-      "end_at": 1792627200000,
-      "start_timezone": "UTC",
-      "end_timezone": "UTC",
-      "recurrences": null,
-      "until_at": 1792713599000,
-      "region_timezone": "Asia/Tokyo",
-      "period_closed": null,
-      "period_note": null,
-      "url": "https://timetr.ee/p/andyouthchannel/3055853166526423685",
-      "attachment": {},
-      "parent_id": "",
-      "publish_at": 1789454084953,
-      "display_updated_at": 1789454084953,
-      "updated_at": 1789454084954,
-      "created_at": 1789454084954,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
@@ -54878,60 +54750,6 @@
       "_calendar_id": "s1220"
     },
     {
-      "id": "3037235473892890006",
-      "public_calendar_id": 1002727029,
-      "public_calendar_label": {
-        "label_id": 10,
-        "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
-        "created_at": 1762145257427
-      },
-      "title": "【大阪】ライブ予定",
-      "headline": "",
-      "note": "",
-      "link_url": "",
-      "overview": "",
-      "images": {
-        "cover": [],
-        "overview": []
-      },
-      "videos": [],
-      "status": 1,
-      "color": 11766748,
-      "location_name": "",
-      "location_address": null,
-      "location_access": null,
-      "location_url": null,
-      "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
-      "all_day": true,
-      "start_at": 1789516800000,
-      "end_at": 1789516800000,
-      "start_timezone": "UTC",
-      "end_timezone": "UTC",
-      "recurrences": null,
-      "until_at": 1789603199000,
-      "region_timezone": "Asia/Tokyo",
-      "period_closed": null,
-      "period_note": null,
-      "url": "https://timetr.ee/p/s1220/3037235473892890006",
-      "attachment": {},
-      "parent_id": "",
-      "publish_at": 1787234683041,
-      "display_updated_at": 1787234683041,
-      "updated_at": 1787234683042,
-      "created_at": 1787234683042,
-      "interest_count": 0,
-      "public_calendar_hashtags": [],
-      "campaign": null,
-      "_group": "Serenade",
-      "_calendar_id": "s1220"
-    },
-    {
       "id": "3037235559666406747",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
@@ -55323,7 +55141,7 @@
       "display_updated_at": 1786239142547,
       "updated_at": 1786239142548,
       "created_at": 1783011698354,
-      "interest_count": 2,
+      "interest_count": 3,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "Serenade",
@@ -58314,14 +58132,14 @@
       },
       "title": "『IDOL CASCADE 〜読書の秋 SP〜』",
       "headline": "",
-      "note": "『IDOL CASCADE 〜読書の秋 SP〜』\n\n2026年9月20日（日）\n📍うえほんまちハイハイタウン\n\n🔔Mell Bell出演 / 12:10-12:30\n📸特典会 / 12:35-13:35\n\n観覧無料\n撮影パス / 1000円\n優先エリア / 1000円",
+      "note": "『IDOL CASCADE 〜読書の秋 SP〜』\n\n2026年9月20日（日）\n📍スパワールド 世界の大温泉\n\n🔔Mell Bell出演 / 12:10-12:30\n📸特典会 / 12:35-13:35\n\n観覧無料\n撮影パス / 1000円\n優先エリア / 1000円",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/469b/2026-09-10/0-1789034791768.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/469b/2026-09-10/0-1789034791768.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/b764/2026-09-15/0-1789468550080.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/b764/2026-09-15/0-1789468550080.jpg"
           }
         ],
         "overview": []
@@ -58329,13 +58147,13 @@
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "上本町ハイハイタウン",
+      "location_name": "SPAWORLD",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": 34.66554,
-      "location_lon": 135.518907,
+      "location_lat": 34.649988,
+      "location_lon": 135.50558,
       "all_day": true,
       "start_at": 1789862400000,
       "end_at": 1789862400000,
@@ -58350,8 +58168,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787279457012,
-      "display_updated_at": 1789034799658,
-      "updated_at": 1789034799659,
+      "display_updated_at": 1789468550789,
+      "updated_at": 1789468550790,
       "created_at": 1787279457013,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -58779,19 +58597,37 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『ハンドメイドEXPO×STREET FESTA』",
       "headline": "",
-      "note": "",
+      "note": "『ハンドメイドEXPO×STREET FESTA』\n\n2026年9月27日(日)\n📍箕面かやの広場\n\n🔔Mell Bell出演 / 10:40-11:00 \n📸特典会 / 11:05-12:05\n\n観覧無料\n優先エリア / 1000円\n撮影パス / 1000円\n応援ブレスレット/ 1000円\n※小雨決行",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/3d9c/2026-09-15/0-1789469072113.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/3d9c/2026-09-15/0-1789469072113.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/0c14/2026-09-15/0-1789469072972.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/0c14/2026-09-15/0-1789469072972.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/29b1/2026-09-15/0-1789469074178.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/29b1/2026-09-15/0-1789469074178.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/2b96/2026-09-15/0-1789469075428.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2b96/2026-09-15/0-1789469075428.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "大阪府箕面市西宿１丁目１５−３０",
       "location_address": null,
       "location_access": null,
       "location_url": null,
@@ -58812,8 +58648,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787279584484,
-      "display_updated_at": 1787279584484,
-      "updated_at": 1787279584485,
+      "display_updated_at": 1789469075988,
+      "updated_at": 1789469075988,
       "created_at": 1787279584485,
       "interest_count": 0,
       "public_calendar_hashtags": [],
