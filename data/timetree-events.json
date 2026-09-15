@@ -39651,14 +39651,24 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "ライブ",
+      "title": "ドン・キホーテ梅田本店🎤19:30〜19:50📸20:00〜21:00",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/6b6b/2026-09-15/0-1789454051937.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6b6b/2026-09-15/0-1789454051937.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/8d60/2026-09-15/0-1789454053343.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/8d60/2026-09-15/0-1789454053343.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -39684,8 +39694,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787583122540,
-      "display_updated_at": 1787583122540,
-      "updated_at": 1787583122541,
+      "display_updated_at": 1789454053988,
+      "updated_at": 1789454053989,
       "created_at": 1787583122541,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -39759,7 +39769,7 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "うえほんまちハイハイタウン🎤12:30〜12:50📸12:55〜13:55",
+      "title": "スパワールド🎤12:30〜12:50📸12:55〜13:55",
       "headline": "",
       "note": "",
       "link_url": "",
@@ -39767,8 +39777,8 @@
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/5f45/2026-09-10/0-1789046353695.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5f45/2026-09-10/0-1789046353695.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/dc5e/2026-09-15/0-1789449830663.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/dc5e/2026-09-15/0-1789449830663.jpg"
           }
         ],
         "overview": []
@@ -39797,9 +39807,68 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789046354288,
-      "display_updated_at": 1789046354288,
-      "updated_at": 1789046354289,
+      "display_updated_at": 1789449831263,
+      "updated_at": 1789449831266,
       "created_at": 1789046354289,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "&youth!",
+      "_calendar_id": "andyouthchannel"
+    },
+    {
+      "id": "3055852401325989980",
+      "public_calendar_id": 1001305048,
+      "public_calendar_label": {
+        "label_id": 7,
+        "public_calendar_id": 1001305048,
+        "name": "",
+        "color": 15949708,
+        "order": 7,
+        "updated_at": 1748759551166,
+        "created_at": 1748759551166
+      },
+      "title": "湊町リバープレイス🎤15:35～15:50📸15:55〜16:40",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/2eb7/2026-09-15/0-1789453993026.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2eb7/2026-09-15/0-1789453993026.jpg"
+          }
+        ],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 15949708,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1789862400000,
+      "end_at": 1789862400000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1789948799000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/andyouthchannel/3055852401325989980",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1789453993734,
+      "display_updated_at": 1789453993734,
+      "updated_at": 1789453993735,
+      "created_at": 1789453993735,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
@@ -40493,6 +40562,65 @@
       "display_updated_at": 1787662712031,
       "updated_at": 1787662712032,
       "created_at": 1787662712032,
+      "interest_count": 1,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "&youth!",
+      "_calendar_id": "andyouthchannel"
+    },
+    {
+      "id": "3055853166526423685",
+      "public_calendar_id": 1001305048,
+      "public_calendar_label": {
+        "label_id": 7,
+        "public_calendar_id": 1001305048,
+        "name": "",
+        "color": 15949708,
+        "order": 7,
+        "updated_at": 1748759551166,
+        "created_at": 1748759551166
+      },
+      "title": "ナンバーゲート",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/da51/2026-09-15/0-1789454084447.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/da51/2026-09-15/0-1789454084447.jpg"
+          }
+        ],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 15949708,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1792627200000,
+      "end_at": 1792627200000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1792713599000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/andyouthchannel/3055853166526423685",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1789454084953,
+      "display_updated_at": 1789454084953,
+      "updated_at": 1789454084954,
+      "created_at": 1789454084954,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
