@@ -39597,14 +39597,24 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "ライブ",
+      "title": "湊町リバープレイス🎤15:20〜15:40📸15:50〜16:50",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/a077/2026-09-15/0-1789481646869.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/a077/2026-09-15/0-1789481646869.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/3e55/2026-09-15/0-1789481647720.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/3e55/2026-09-15/0-1789481647720.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -39630,8 +39640,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787583109082,
-      "display_updated_at": 1787583109082,
-      "updated_at": 1787583109083,
+      "display_updated_at": 1789481648330,
+      "updated_at": 1789481648331,
       "created_at": 1787583109083,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -39697,7 +39707,7 @@
       "display_updated_at": 1789454053988,
       "updated_at": 1789454053989,
       "created_at": 1787583122541,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -59121,25 +59131,30 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『夢乃麻友香&紅羽レイW生誕祭』",
       "headline": "",
-      "note": "",
+      "note": "『夢乃麻友香&紅羽レイW生誕祭』\n\n2026年10月14日(水)\n📍心斎橋VARON\n\n🔔Mell Bell出演 / 18:50-19:10 \n📸特典会 / 21:10-22:30\n\nチケット発売日 9/19 21:00〜\n前方エりア2,900円/一般エリア 1900円\n(各チケット＋別途ドリンク代)\nlivepocket.jp/e/tempo1014",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/bfc8/2026-09-15/0-1789485895837.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/bfc8/2026-09-15/0-1789485895837.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "心斎橋 VARON",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.675477,
+      "location_lon": 135.499605,
       "all_day": true,
       "start_at": 1791936000000,
       "end_at": 1791936000000,
@@ -59154,8 +59169,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1788069580901,
-      "display_updated_at": 1788069580901,
-      "updated_at": 1788069580901,
+      "display_updated_at": 1789485897080,
+      "updated_at": 1789485897081,
       "created_at": 1788069580901,
       "interest_count": 0,
       "public_calendar_hashtags": [],
