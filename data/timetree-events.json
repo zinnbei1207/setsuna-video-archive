@@ -54891,26 +54891,31 @@
       "id": "3037235559666406747",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『SHOW IN OSAKA』",
       "headline": "",
-      "note": "",
+      "note": "🗓9月17日(木)\n『SHOW IN OSAKA』\n📍Live Bar BK\n⏱OPEN 18:30/ START 18:50\n💰予約：¥1,500 (+1D)\n当日：¥2,500 (+1D)\n🎫https://t-dv.com/SIO0913\n【09/16 22:00〜 09/17 18:50】\n\n🎤19:30〜19:50\n📸20:30〜21:30\n\n🩵お目当て特典🩵\nお目当て券1枚+1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/c121/2026-09-16/0-1789529051351.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c121/2026-09-16/0-1789529051351.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -54932,8 +54937,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787234693266,
-      "display_updated_at": 1787234693266,
-      "updated_at": 1787234693267,
+      "display_updated_at": 1789529052007,
+      "updated_at": 1789529052008,
       "created_at": 1787234693267,
       "interest_count": 0,
       "public_calendar_hashtags": [],
