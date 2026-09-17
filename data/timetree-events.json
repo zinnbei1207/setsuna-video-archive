@@ -55874,31 +55874,26 @@
       "id": "3015856140012082954",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 3,
+        "label_id": 1,
         "public_calendar_id": 1002727029,
-        "name": "解禁済み",
-        "color": 4698871,
-        "order": 1,
-        "updated_at": 1783055743311,
+        "name": "未解禁",
+        "color": 3067015,
+        "order": 2,
+        "updated_at": 1783055743328,
         "created_at": 1762145257427
       },
-      "title": "【大阪】『AURORA FES』",
+      "title": "【大阪】未解禁",
       "headline": "",
-      "note": "🗓10月22日(木)\n『AURORA FES』\n📍ナンバーゲート\n⏱OPEN 16:40/ START 17:00\n💰前方エリア：¥2,500\n一般：¥1,000\n当日：+¥1,000\n+各1D\n🎫https://tiget.net/events/522141\n\nタイムテーブルは後日解禁..🩵\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
+      "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/66cf/2026-09-16/0-1789579842059.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/66cf/2026-09-16/0-1789579842059.jpg"
-          }
-        ],
+        "cover": [],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 4698871,
+      "color": 3067015,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -55920,8 +55915,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1784686067838,
-      "display_updated_at": 1789579842740,
-      "updated_at": 1789579842741,
+      "display_updated_at": 1784686067838,
+      "updated_at": 1784686067840,
       "created_at": 1784686067840,
       "interest_count": 0,
       "public_calendar_hashtags": [],
