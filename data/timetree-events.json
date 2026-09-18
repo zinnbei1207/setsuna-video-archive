@@ -55732,7 +55732,7 @@
       },
       "title": "【大阪】『超！Lovely SP』",
       "headline": "",
-      "note": "🗓10月11日(日)\n『超！Lovely SP』\n📍ナンバーゲート\n⏱OPEN 10:10/ START 10:30\n💰前方：¥3,000\n一般：¥1,000\n当日：+¥1,000\n(各+1D)\n🎫https://ticketdive.com/event/SLSP_1011\n\nタイムテーブルは後日解禁..🩵\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
+      "note": "🗓10月11日(日)\n『超！Lovely SP』\n📍ナンバーゲート\n⏱OPEN 10:10/ START 10:30\n💰前方：¥3,000\n一般：¥1,000\n当日：+¥1,000\n(各+1D)\n🎫https://ticketdive.com/event/SLSP_1011\n\n🎤16:15〜16:30\n📸16:55〜17:55（並行物販A）\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
@@ -55742,7 +55742,12 @@
             "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/22a9/2026-09-12/0-1789222312926.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/e7d1/2026-09-17/0-1789661295325.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/e7d1/2026-09-17/0-1789661295325.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -55768,8 +55773,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789222313642,
-      "display_updated_at": 1789556488960,
-      "updated_at": 1789556488961,
+      "display_updated_at": 1789661295902,
+      "updated_at": 1789661295903,
       "created_at": 1789222313643,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -56154,6 +56159,60 @@
       "display_updated_at": 1787228243643,
       "updated_at": 1787228243644,
       "created_at": 1787228243644,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "Serenade",
+      "_calendar_id": "s1220"
+    },
+    {
+      "id": "3057311142207149800",
+      "public_calendar_id": 1002727029,
+      "public_calendar_label": {
+        "label_id": 1,
+        "public_calendar_id": 1002727029,
+        "name": "未解禁",
+        "color": 3067015,
+        "order": 2,
+        "updated_at": 1783055743328,
+        "created_at": 1762145257427
+      },
+      "title": "【大阪】未解禁",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 3067015,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1792886400000,
+      "end_at": 1792886400000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1792972799000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/s1220/3057311142207149800",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1789627889198,
+      "display_updated_at": 1789627889198,
+      "updated_at": 1789627889200,
+      "created_at": 1789627889200,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
@@ -58418,7 +58477,7 @@
       "display_updated_at": 1788348648219,
       "updated_at": 1788348648220,
       "created_at": 1788348648220,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
@@ -58495,16 +58554,16 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "『かよはじ』",
+      "title": "『月曜日はマジで休みたい！』",
       "headline": "",
-      "note": "『かよはじ』\n\n2026年9月21日(月祝)\n📍Fairy−Tales大阪\n\n2026年9月22日(火祝)\n📍サーキット\n\n2026年9月23日(水祝)\n📍Fairy−Tales大阪\n\nタイムテーブル未定💭\n\n¥0＋2drink",
+      "note": "『月曜日はマジで休みたい！』\n\n2026年9月21日(月祝)\n📍Fairy−Tales大阪\n\n🔔Mell Bell出演 / 13:20-13:40 \n📸特典会 / 13:40-14:40(並行C)\n\n🎫チケット\n¥0＋2drink（¥1400別途必要）\ntiget.net/events/523724",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/1453/2026-08-29/0-1787963027276.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/1453/2026-08-29/0-1787963027276.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/88e3/2026-09-17/0-1789685226438.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/88e3/2026-09-17/0-1789685226438.jpg"
           }
         ],
         "overview": []
@@ -58533,8 +58592,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787279488320,
-      "display_updated_at": 1787963076754,
-      "updated_at": 1787963076755,
+      "display_updated_at": 1789685227414,
+      "updated_at": 1789685227415,
       "created_at": 1787279488321,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -58613,16 +58672,16 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "『かよはじ』",
+      "title": "『水曜日で終わろう！』",
       "headline": "",
-      "note": "『かよはじ』\n\n2026年9月21日(月祝)\n📍Fairy−Tales大阪\n\n2026年9月22日(火祝)\n📍サーキット\n\n2026年9月23日(水祝)\n📍Fairy−Tales大阪\n\nタイムテーブル未定💭\n\n¥0＋2drink",
+      "note": "『水曜日で終わろう！』\n\n2026年9月23日(水祝)\n📍Fairy-Tales大阪\n\n🔔Mell Bell出演/ 18:50-19:05\n📸特典会 / 19:05-20:05(並行C)\n\n🎫チケット\n¥0+2drink（¥1400別途必要）\ntiget.net/events/523738",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/bd79/2026-08-29/0-1787963027276.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/bd79/2026-08-29/0-1787963027276.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/5ad7/2026-09-17/0-1789685291274.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5ad7/2026-09-17/0-1789685291274.jpg"
           }
         ],
         "overview": []
@@ -58651,8 +58710,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787963093983,
-      "display_updated_at": 1787963093983,
-      "updated_at": 1787963093984,
+      "display_updated_at": 1789685292125,
+      "updated_at": 1789685292127,
       "created_at": 1787963093984,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -59098,12 +59157,12 @@
       "location_lat": null,
       "location_lon": null,
       "all_day": true,
-      "start_at": 1791072000000,
-      "end_at": 1791072000000,
+      "start_at": 1791676800000,
+      "end_at": 1791676800000,
       "start_timezone": "UTC",
       "end_timezone": "UTC",
       "recurrences": null,
-      "until_at": 1791158399000,
+      "until_at": 1791763199000,
       "region_timezone": "Asia/Tokyo",
       "period_closed": null,
       "period_note": null,
@@ -59111,8 +59170,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787279629908,
-      "display_updated_at": 1787279629908,
-      "updated_at": 1787279629909,
+      "display_updated_at": 1789633750455,
+      "updated_at": 1789633750456,
       "created_at": 1787279629909,
       "interest_count": 0,
       "public_calendar_hashtags": [],
