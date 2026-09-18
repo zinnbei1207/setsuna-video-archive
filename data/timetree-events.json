@@ -39986,14 +39986,24 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "✈️福岡遠征",
+      "title": "✈️福岡遠征🔥動員重要🔥スカラエスパシオ🎤14:20〜14:40📸14:50〜15:30🎤17:55〜18:20📸19:40〜20:30",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/1ad7/2026-09-17/0-1789644096715.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/1ad7/2026-09-17/0-1789644096715.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/ab03/2026-09-17/0-1789644099349.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/ab03/2026-09-17/0-1789644099349.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -40019,8 +40029,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1788445109467,
-      "display_updated_at": 1788445109467,
-      "updated_at": 1788445109467,
+      "display_updated_at": 1789644100115,
+      "updated_at": 1789644100116,
       "created_at": 1788445109467,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -40443,7 +40453,7 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "ナンバーゲート",
+      "title": "ナンバーゲート🎤17:00〜17:15📸17:30〜18:30(5F 第1スタジオ)",
       "headline": "",
       "note": "",
       "link_url": "",
@@ -40455,7 +40465,12 @@
             "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2df5/2026-09-12/0-1789202453866.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/d65b/2026-09-17/0-1789658329876.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d65b/2026-09-17/0-1789658329876.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -40481,8 +40496,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789202454576,
-      "display_updated_at": 1789202454576,
-      "updated_at": 1789202454577,
+      "display_updated_at": 1789658330517,
+      "updated_at": 1789658330518,
       "created_at": 1789202454577,
       "interest_count": 0,
       "public_calendar_hashtags": [],
