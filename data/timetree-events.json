@@ -21381,14 +21381,24 @@
         "updated_at": 1772261467291,
         "created_at": 1739887373969
       },
-      "title": "山梨【未解禁】",
+      "title": "【SPARK2026】🎤12:50~13:05📸近日公開！",
       "headline": "",
-      "note": "",
+      "note": "◤◢⚡緊急超重要LIVE🚨◤◢\n\n🌟豪華お目当て特典あり🌟\n\n【SPARK2026】\n🗓2026.9.23\n📍山中湖交流プラザきらら(山梨県)\n🎫 ticketdive.com/event/spark202…\nSPARKチケット¥30,000\n一般チケット¥7,500\n\n🎪YANAGI \n🎤12:50~13:05\n📸近日公開！\n\n🎁お目当て特典🎁\n・3セツナポイント付与\n・チェキ1枚無料",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/6bb2/2026-09-21/0-1790000420715.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6bb2/2026-09-21/0-1790000420715.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/4d99/2026-09-21/0-1790000421948.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/4d99/2026-09-21/0-1790000421948.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -21414,8 +21424,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789887194000,
-      "display_updated_at": 1789887260427,
-      "updated_at": 1789887260428,
+      "display_updated_at": 1790000422621,
+      "updated_at": 1790000422622,
       "created_at": 1789887194001,
       "interest_count": 0,
       "public_calendar_hashtags": [],
