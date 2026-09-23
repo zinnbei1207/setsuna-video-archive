@@ -55791,7 +55791,7 @@
       "display_updated_at": 1789772014422,
       "updated_at": 1789772014425,
       "created_at": 1787281457866,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "Serenade",
@@ -55860,26 +55860,31 @@
       "id": "3037235889095432027",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『SHOW IN OSAKA』",
       "headline": "",
-      "note": "",
+      "note": "🗓9月24日(木)\n『SHOW IN OSAKA』\n📍Live Bar BK\n⏱OPEN 18:40/ START 19:00\n💰予約：¥,1500 (+1D)\n当日：¥2,500 (+1D)\n🎫https://t-dv.com/SIO0924\n【9/23 22:00〜9/24 19:00】\n\n🎤19:40〜20:00\n📸20:30〜21:30\n\n🩵お目当て特典🩵\nお目当て券1枚+1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/926d/2026-09-23/0-1790152190021.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/926d/2026-09-23/0-1790152190021.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -55901,8 +55906,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787234732537,
-      "display_updated_at": 1787234732537,
-      "updated_at": 1787234732538,
+      "display_updated_at": 1790152190722,
+      "updated_at": 1790152190723,
       "created_at": 1787234732538,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -56202,7 +56207,7 @@
         "updated_at": 1783055743328,
         "created_at": 1762145257427
       },
-      "title": "大阪【未解禁】",
+      "title": "【大阪】未解禁",
       "headline": "",
       "note": "",
       "link_url": "",
@@ -56235,8 +56240,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1788858820662,
-      "display_updated_at": 1788858820662,
-      "updated_at": 1788858820663,
+      "display_updated_at": 1790166649709,
+      "updated_at": 1790166649710,
       "created_at": 1788858820663,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -60216,7 +60221,7 @@
       "display_updated_at": 1789685292125,
       "updated_at": 1789685292127,
       "created_at": 1787963093984,
-      "interest_count": 1,
+      "interest_count": 2,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
@@ -60275,7 +60280,7 @@
       "display_updated_at": 1789819706067,
       "updated_at": 1789819706068,
       "created_at": 1789731531828,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
@@ -60403,14 +60408,14 @@
       },
       "title": "『がおがおfluffy新体制first主催ライブ ようこそ、恋するオオカミがおもふのせかいへ』",
       "headline": "",
-      "note": "『がおがおfluffy新体制first主催ライブ ようこそ、恋するオオカミがおもふのせかいへ』\n\n2026年9月26日(土)\n📍心斎橋KuRaGe\n\nタイムテーブル未定💭\n\n🎫チケット\n前売 ¥2,000+1D\n当日 ¥2,500+1D\n\n8/24(月)20:00~チケット予約開始\ntiget.net/events/516817",
+      "note": "『がおがおfluffy新体制first主催ライブ ようこそ、恋するオオカミがおもふのせかいへ』\n\n2026年9月26日(土)\n📍心斎橋KuRaGe\n\n🔔MellBell出演 / 19:00-19:20 \n📸特典会 / 19:30-20:30\n\n🎫チケット\n前売 ¥2,000+1D\n当日 ¥2,500+1D\n\n8/24(月)20:00~チケット予約開始\ntiget.net/events/516817",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/44a0/2026-08-23/0-1787480730830.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/44a0/2026-08-23/0-1787480730830.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/c002/2026-09-23/0-1790133915023.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c002/2026-09-23/0-1790133915023.jpg"
           }
         ],
         "overview": []
@@ -60439,8 +60444,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787482800000,
-      "display_updated_at": 1787482800000,
-      "updated_at": 1787480731411,
+      "display_updated_at": 1790133916139,
+      "updated_at": 1790133916140,
       "created_at": 1787217579378,
       "interest_count": 1,
       "public_calendar_hashtags": [],
