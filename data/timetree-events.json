@@ -40830,114 +40830,6 @@
       "_calendar_id": "andyouthchannel"
     },
     {
-      "id": "3062115473699070689",
-      "public_calendar_id": 1001305048,
-      "public_calendar_label": {
-        "label_id": 7,
-        "public_calendar_id": 1001305048,
-        "name": "",
-        "color": 15949708,
-        "order": 7,
-        "updated_at": 1748759551166,
-        "created_at": 1748759551166
-      },
-      "title": "ライブ",
-      "headline": "",
-      "note": "",
-      "link_url": "",
-      "overview": "",
-      "images": {
-        "cover": [],
-        "overview": []
-      },
-      "videos": [],
-      "status": 1,
-      "color": 15949708,
-      "location_name": "",
-      "location_address": null,
-      "location_access": null,
-      "location_url": null,
-      "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
-      "all_day": true,
-      "start_at": 1790467200000,
-      "end_at": 1790467200000,
-      "start_timezone": "UTC",
-      "end_timezone": "UTC",
-      "recurrences": null,
-      "until_at": 1790553599000,
-      "region_timezone": "Asia/Tokyo",
-      "period_closed": null,
-      "period_note": null,
-      "url": "https://timetr.ee/p/andyouthchannel/3062115473699070689",
-      "attachment": {},
-      "parent_id": "",
-      "publish_at": 1790200610142,
-      "display_updated_at": 1790200610142,
-      "updated_at": 1790200610142,
-      "created_at": 1790200610142,
-      "interest_count": 0,
-      "public_calendar_hashtags": [],
-      "campaign": null,
-      "_group": "&youth!",
-      "_calendar_id": "andyouthchannel"
-    },
-    {
-      "id": "3062115539373482993",
-      "public_calendar_id": 1001305048,
-      "public_calendar_label": {
-        "label_id": 7,
-        "public_calendar_id": 1001305048,
-        "name": "",
-        "color": 15949708,
-        "order": 7,
-        "updated_at": 1748759551166,
-        "created_at": 1748759551166
-      },
-      "title": "ライブ",
-      "headline": "",
-      "note": "",
-      "link_url": "",
-      "overview": "",
-      "images": {
-        "cover": [],
-        "overview": []
-      },
-      "videos": [],
-      "status": 1,
-      "color": 15949708,
-      "location_name": "",
-      "location_address": null,
-      "location_access": null,
-      "location_url": null,
-      "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
-      "all_day": true,
-      "start_at": 1790467200000,
-      "end_at": 1790467200000,
-      "start_timezone": "UTC",
-      "end_timezone": "UTC",
-      "recurrences": null,
-      "until_at": 1790553599000,
-      "region_timezone": "Asia/Tokyo",
-      "period_closed": null,
-      "period_note": null,
-      "url": "https://timetr.ee/p/andyouthchannel/3062115539373482993",
-      "attachment": {},
-      "parent_id": "",
-      "publish_at": 1790200617971,
-      "display_updated_at": 1790200617971,
-      "updated_at": 1790200617972,
-      "created_at": 1790200617972,
-      "interest_count": 0,
-      "public_calendar_hashtags": [],
-      "campaign": null,
-      "_group": "&youth!",
-      "_calendar_id": "andyouthchannel"
-    },
-    {
       "id": "3040159154574418528",
       "public_calendar_id": 1001305048,
       "public_calendar_label": {
@@ -60581,16 +60473,11 @@
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/9174/2026-09-23/0-1790188427876.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/9174/2026-09-23/0-1790188427876.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/c3c7/2026-09-20/0-1789896125057.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c3c7/2026-09-20/0-1789896125057.jpg"
           }
         ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/5ac2/2026-09-23/0-1790188429045.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5ac2/2026-09-23/0-1790188429045.jpg"
-          }
-        ]
+        "overview": []
       },
       "videos": [],
       "status": 1,
@@ -60616,8 +60503,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789902000000,
-      "display_updated_at": 1790188429934,
-      "updated_at": 1790188429936,
+      "display_updated_at": 1789902000000,
+      "updated_at": 1789896125785,
       "created_at": 1789820085113,
       "interest_count": 0,
       "public_calendar_hashtags": [],
