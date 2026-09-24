@@ -40733,14 +40733,24 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "ライブ",
+      "title": "湊町リバープレイス🎤11:45〜12:00📸12:10〜13:10",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/8f0e/2026-09-24/0-1790243158849.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/8f0e/2026-09-24/0-1790243158849.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/39f4/2026-09-24/0-1790243160340.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/39f4/2026-09-24/0-1790243160340.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -40766,8 +40776,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787583154934,
-      "display_updated_at": 1787583154934,
-      "updated_at": 1787583154935,
+      "display_updated_at": 1790243176444,
+      "updated_at": 1790243176444,
       "created_at": 1787583154935,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -40787,14 +40797,32 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "ライブ",
+      "title": "うえほんまちハイハイタウン🎤14:30-14:50📸14:55-15:55",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/bd08/2026-09-24/0-1790243068234.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/bd08/2026-09-24/0-1790243068234.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/1228/2026-09-24/0-1790243070150.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/1228/2026-09-24/0-1790243070150.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/4549/2026-09-24/0-1790243071629.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/4549/2026-09-24/0-1790243071629.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/96f7/2026-09-24/0-1790243072575.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/96f7/2026-09-24/0-1790243072575.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -40820,8 +40848,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787583164477,
-      "display_updated_at": 1787583164477,
-      "updated_at": 1787583164477,
+      "display_updated_at": 1790243073278,
+      "updated_at": 1790243073279,
       "created_at": 1787583164477,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -60889,25 +60917,30 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『推し活日和』",
       "headline": "",
-      "note": "",
+      "note": "『推し活日和』\n\n2026年10月3日(土)\n📍ナンバーゲート\n\n🔔MellBell出演 / 14:10-14:35\n📸特典会 / 14:50-14:50\n\n🎟チケット(9/24 21:00販売開始)\n2000円\n(入場時1ドリンク必須)\n t-dv.com/OB1003",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/f99f/2026-09-24/0-1790221627901.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/f99f/2026-09-24/0-1790221627901.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "#G8「NUMBER GATE」",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.668794,
+      "location_lon": 135.498817,
       "all_day": true,
       "start_at": 1790985600000,
       "end_at": 1790985600000,
@@ -60922,9 +60955,68 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789134024563,
-      "display_updated_at": 1789134024563,
-      "updated_at": 1789134024564,
+      "display_updated_at": 1790221628846,
+      "updated_at": 1790221628848,
       "created_at": 1789134024564,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "MellBell",
+      "_calendar_id": "mellbell_0719"
+    },
+    {
+      "id": "3062294472994947443",
+      "public_calendar_id": 1006291040,
+      "public_calendar_label": {
+        "label_id": 10,
+        "public_calendar_id": 1006291040,
+        "name": "",
+        "color": 11766748,
+        "order": 1,
+        "updated_at": 1784985580350,
+        "created_at": 1784303552628
+      },
+      "title": "『BRICK♡BEAT』",
+      "headline": "",
+      "note": "『BRICK♡BEAT』\n\n2026年10月3日(土)\n📍ナンバーゲート\n\nタイムテーブル未定💭\n\n🎟チケット(9/24 21:30販売開始)\n2000円\n(入場時1ドリンク必須)\n t-dv.com/BB1003",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/7ce6/2026-09-24/0-1790221946733.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/7ce6/2026-09-24/0-1790221946733.jpg"
+          }
+        ],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 11766748,
+      "location_name": "#G8「NUMBER GATE」",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": 34.668794,
+      "location_lon": 135.498817,
+      "all_day": true,
+      "start_at": 1790985600000,
+      "end_at": 1790985600000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1791071999000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/mellbell_0719/3062294472994947443",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1790221948521,
+      "display_updated_at": 1790221948521,
+      "updated_at": 1790221948522,
+      "created_at": 1790221948522,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
@@ -61213,25 +61305,30 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『CHA CHA ちゃーみんぐっ！in 名村造船所跡地』",
       "headline": "",
-      "note": "",
+      "note": "『CHA CHA ちゃーみんぐっ！in 名村造船所跡地』\n\n2026年10月11日(日)\n📍 名村造船所跡地\n\n🔔MellBell出演 / 10:20-10:35\n📸特典会 / 10:45-11:45\n\n🎟チケット\n前売 1500円(+1D)\n当日 2500円(+1D)\n優先エリア+1000円\n撮影許可証+1000円\n\ntiget.net/events/522862",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/244e/2026-09-24/0-1790260609693.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/244e/2026-09-24/0-1790260609693.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "クリエイティブセンター大阪",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.625586,
+      "location_lon": 135.474234,
       "all_day": true,
       "start_at": 1791676800000,
       "end_at": 1791676800000,
@@ -61246,8 +61343,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787279629908,
-      "display_updated_at": 1789633750455,
-      "updated_at": 1789633750456,
+      "display_updated_at": 1790260610383,
+      "updated_at": 1790260610384,
       "created_at": 1787279629909,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -61745,6 +61842,60 @@
       "display_updated_at": 1789923301754,
       "updated_at": 1789923301755,
       "created_at": 1789923301755,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "MellBell",
+      "_calendar_id": "mellbell_0719"
+    },
+    {
+      "id": "3062566372635672787",
+      "public_calendar_id": 1006291040,
+      "public_calendar_label": {
+        "label_id": 10,
+        "public_calendar_id": 1006291040,
+        "name": "",
+        "color": 11766748,
+        "order": 1,
+        "updated_at": 1784985580350,
+        "created_at": 1784303552628
+      },
+      "title": "ライブ予定🎀🔔",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 11766748,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1792886400000,
+      "end_at": 1792886400000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1792972799000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/mellbell_0719/3062566372635672787",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1790254361484,
+      "display_updated_at": 1790254361484,
+      "updated_at": 1790254361485,
+      "created_at": 1790254361485,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
