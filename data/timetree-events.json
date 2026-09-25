@@ -21437,26 +21437,44 @@
       "id": "3031218984265124338",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 5,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "大阪【未解禁】",
+      "title": "【IDOL TRIBE】🎤13:50~14:10📸14:15~15:15",
       "headline": "",
-      "note": "",
+      "note": "【IDOL TRIBE】\n\n📍うえほんまちハイハイタウン\n🗓2026年9月26日(土)\n🎫観覧無料\n・撮影PASS(1000円)\n・前方エリア(1000円)\n・応援ブレスレット(1000円)\n\n⚠️コール禁止🈲\n\n🎤13:50-14:10 \n📸14:15-15:15\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/60c6/2026-09-24/0-1790282517990.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/60c6/2026-09-24/0-1790282517990.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/6704/2026-09-24/0-1790282518964.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6704/2026-09-24/0-1790282518964.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/f11b/2026-09-24/0-1790282519848.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/f11b/2026-09-24/0-1790282519848.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/8ede/2026-09-24/0-1790282520514.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/8ede/2026-09-24/0-1790282520514.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 2171169,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -21478,8 +21496,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1786517461587,
-      "display_updated_at": 1786517461587,
-      "updated_at": 1786517461588,
+      "display_updated_at": 1790282521124,
+      "updated_at": 1790282521125,
       "created_at": 1786517461588,
       "interest_count": 3,
       "public_calendar_hashtags": [],
@@ -22095,26 +22113,31 @@
       "id": "3031219562290547008",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 5,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "大阪【未解禁】",
+      "title": "【押忍フェス】",
       "headline": "",
-      "note": "",
+      "note": "【押忍フェス】\n\n🗓10月17日(土)\n📍湊町リバープレイス\n🎫観覧無料！\n・撮影チケット:1,000円<要返却>\n※スマホでの撮影は無料です\n・優先エリア観覧チケット:1,000円\n・“推す”チケット:1,000円(推しからのサイン入り色紙プレゼント)\n\n※タイムテーブル後日公開‼️\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/d4a5/2026-09-24/0-1790283032322.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d4a5/2026-09-24/0-1790283032322.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 2171169,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -22136,8 +22159,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1786517530493,
-      "display_updated_at": 1786517530493,
-      "updated_at": 1786517530494,
+      "display_updated_at": 1790283033048,
+      "updated_at": 1790283033049,
       "created_at": 1786517530494,
       "interest_count": 0,
       "public_calendar_hashtags": [],
