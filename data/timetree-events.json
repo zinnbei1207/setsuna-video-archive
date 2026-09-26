@@ -21445,7 +21445,7 @@
         "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "【IDOL TRIBE】🎤13:50~14:10📸14:15~15:15",
+      "title": "②【IDOL TRIBE】🎤13:50~14:10📸14:15~15:15",
       "headline": "",
       "note": "【IDOL TRIBE】\n\n📍うえほんまちハイハイタウン\n🗓2026年9月26日(土)\n🎫観覧無料\n・撮影PASS(1000円)\n・前方エリア(1000円)\n・応援ブレスレット(1000円)\n\n⚠️コール禁止🈲\n\n🎤13:50-14:10 \n📸14:15-15:15\n\n #永遠のセツナLIVE情報",
       "link_url": "",
@@ -21496,10 +21496,128 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1786517461587,
-      "display_updated_at": 1790282521124,
-      "updated_at": 1790282521125,
+      "display_updated_at": 1790344868020,
+      "updated_at": 1790344868021,
       "created_at": 1786517461588,
       "interest_count": 3,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "永遠のセツナ",
+      "_calendar_id": "setsuna"
+    },
+    {
+      "id": "3063325400010263434",
+      "public_calendar_id": 1000504002,
+      "public_calendar_label": {
+        "label_id": 5,
+        "public_calendar_id": 1000504002,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
+        "created_at": 1739887373969
+      },
+      "title": "①【SHOW IN OSAKA】🎤11:20~11:40📸11:40~12:40",
+      "headline": "",
+      "note": "【SHOW IN OSAKA】\n 🗓9月26日(土) 📍Live Bar BK 🎫予約 ¥1,500 / 当日 2,500 (+1D)\n🔗 ticketdive.com/event/SIO0926_1  🎤11:20-11:40 📸11:40-12:40\n\n #永遠のセツナLIVE情報",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/9181/2026-09-25/0-1790344843970.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/9181/2026-09-25/0-1790344843970.jpg"
+          }
+        ],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 2171169,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1790380800000,
+      "end_at": 1790380800000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1790467199000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/setsuna/3063325400010263434",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1790344844599,
+      "display_updated_at": 1790344856376,
+      "updated_at": 1790344856376,
+      "created_at": 1790344844600,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "永遠のセツナ",
+      "_calendar_id": "setsuna"
+    },
+    {
+      "id": "3063326022168152516",
+      "public_calendar_id": 1000504002,
+      "public_calendar_label": {
+        "label_id": 5,
+        "public_calendar_id": 1000504002,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
+        "created_at": 1739887373969
+      },
+      "title": "③【SHOW IN OSAKA】🎤17:20~17:40📸17:40~18:40",
+      "headline": "",
+      "note": "【SHOW IN OSAKA】 🗓9月26日(土) 📍Live Bar BK 🎫予約 ¥1,500 / 当日 2,500 (+1D) 🔗 ticketdive.com/event/SIO0926_3\n 🎤17:20-17:40 📸17:40-18:40 \n\n #永遠のセツナLIVE情報",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/41ae/2026-09-25/0-1790344918051.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/41ae/2026-09-25/0-1790344918051.jpg"
+          }
+        ],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 2171169,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1790380800000,
+      "end_at": 1790380800000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1790467199000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/setsuna/3063326022168152516",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1790344918765,
+      "display_updated_at": 1790344928885,
+      "updated_at": 1790344928886,
+      "created_at": 1790344918765,
+      "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "永遠のセツナ",
@@ -21509,26 +21627,31 @@
       "id": "3050155686895487088",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 5,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "大阪【未解禁】",
+      "title": "【REDSUNDAY】🎤9:50~10:05📸10:15~11:05",
       "headline": "",
-      "note": "",
+      "note": "【REDSUNDAY】\n\n🗓9月27日(日)\n📍北堀江club vijon\n🎫予約 ¥2,000 (+1D)\n🔗 ticketdive.com/event/REDSUNDA…\n\n🎤9:50-10:05 \n📸10:15-11:05\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/bb2c/2026-09-25/0-1790344725347.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/bb2c/2026-09-25/0-1790344725347.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 2171169,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -21550,8 +21673,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1788774892454,
-      "display_updated_at": 1788774892454,
-      "updated_at": 1788774892455,
+      "display_updated_at": 1790344725921,
+      "updated_at": 1790344725922,
       "created_at": 1788774892455,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -21730,26 +21853,31 @@
       "id": "3031219118365411752",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 5,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "大阪【未解禁】",
+      "title": "【押忍フェス】",
       "headline": "",
-      "note": "",
+      "note": "【押忍フェス】\n\n🗓10月4日(日)\n📍湊町リバープレイス プラザ1\n🎫観覧無料‼️\n・撮影チケット:1,000円<要返却>\n※スマホでの撮影は無料です\n・優先エリア観覧チケット:1,000円\n・“推す”チケット:1,000円(推しからのサイン入り色紙プレゼント)\n \n※タイムテーブル後日公開‼️\n\n#永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/b126/2026-09-25/0-1790344608025.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/b126/2026-09-25/0-1790344608025.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 2171169,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -21771,8 +21899,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1786517477573,
-      "display_updated_at": 1786517477573,
-      "updated_at": 1786517477573,
+      "display_updated_at": 1790344608680,
+      "updated_at": 1790344608681,
       "created_at": 1786517477573,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -56322,26 +56450,31 @@
       "id": "3050859727733511409",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 2,
-        "updated_at": 1783055743328,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】未解禁",
+      "title": "【大阪】『推し活日和』",
       "headline": "",
-      "note": "",
+      "note": "🗓10月3日(土)\n『推し活日和』\n📍ナンバーゲート\n⏱OPEN 13:00/ START 13:20\n💰¥2,000（+1D）\n🎫https://t-dv.com/OB1003\n\n🎤14:35〜15:00\n📸15:15〜16:15\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/7454/2026-09-25/0-1790358337225.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/7454/2026-09-25/0-1790358337225.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -56363,8 +56496,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1788858820662,
-      "display_updated_at": 1790166649709,
-      "updated_at": 1790166649710,
+      "display_updated_at": 1790358338053,
+      "updated_at": 1790358338054,
       "created_at": 1788858820663,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -56376,26 +56509,31 @@
       "id": "3052147961709057365",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 2,
-        "updated_at": 1783055743328,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】未解禁",
+      "title": "【大阪】『BRICK♡BEAT』",
       "headline": "",
-      "note": "",
+      "note": "🗓10月3日(土)\n『BRICK♡BEAT』\n📍ナンバーゲート\n⏱OPEN 18:00/ START 18:20\n💰¥2,000（+1D）\n🎫https://t-dv.com/BB1003\n\nタイムテーブルは後日公開..🩵\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/5e5e/2026-09-25/0-1790358622940.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5e5e/2026-09-25/0-1790358622940.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -56417,8 +56555,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789012390119,
-      "display_updated_at": 1789012390119,
-      "updated_at": 1789012390119,
+      "display_updated_at": 1790358624078,
+      "updated_at": 1790358624080,
       "created_at": 1789012390119,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -56430,26 +56568,31 @@
       "id": "3021159699788191186",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 2,
-        "updated_at": 1783055743328,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】未解禁",
+      "title": "【大阪】『押忍フェス』",
       "headline": "",
-      "note": "",
+      "note": "🗓10月4日(日)\n📍湊町リバープレイス\n『押忍フェス』\n⏱START 11:30\n💰観覧無料\n撮影チケット:¥1,000\n※スマホでの撮影は無料\n優先エリア観覧チケット:¥1,000\n“推す”チケット:¥1,000(推しのサイン入り色紙)\n\nタイムテーブルは後日解禁..🩵\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/0e88/2026-09-25/0-1790357626351.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/0e88/2026-09-25/0-1790357626351.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -56471,8 +56614,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1785318301431,
-      "display_updated_at": 1785318301431,
-      "updated_at": 1785318301431,
+      "display_updated_at": 1790357627198,
+      "updated_at": 1790357627200,
       "created_at": 1785318301431,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -57034,17 +57177,17 @@
       "id": "3021159786199242652",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 2,
-        "updated_at": 1783055743328,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】未解禁",
+      "title": "【大阪】『押忍フェス』",
       "headline": "",
-      "note": "",
+      "note": "🗓10月17日(土)\n📍湊町リバープレイス\n『押忍フェス』\n⏱START 12:00\n💰観覧無料\n撮影チケット:¥1,000\n※スマホでの撮影は無料\n優先エリア観覧チケット:¥1,000\n“推す”チケット:¥1,000(推しのサイン入り色紙)\n\nフライヤー・タイムテーブルは後日解禁..🩵\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
@@ -57053,7 +57196,7 @@
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -57075,8 +57218,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1785318311732,
-      "display_updated_at": 1785318311732,
-      "updated_at": 1785318311733,
+      "display_updated_at": 1790357458614,
+      "updated_at": 1790357458615,
       "created_at": 1785318311733,
       "interest_count": 1,
       "public_calendar_hashtags": [],
