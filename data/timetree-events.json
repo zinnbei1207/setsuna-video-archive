@@ -21686,26 +21686,31 @@
       "id": "3050155962905856954",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 5,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "梅田【未解禁】",
+      "title": "【SCLIVE】🎤17:30~17:45📸18:05~19:05",
       "headline": "",
-      "note": "",
+      "note": "『SCLIVE』\n\n🗓️9月28日(月)\n📍梅田 BANGBOO\n⏰OPEN 16:30 / START 16:45\n🎫優先 ¥2,500 / 一般 ¥1,000 / 女性 ¥500(+1D)\n\n予約🔻\nhttps://ticketdive.com/event/JrdyLk1fwCVeK9\n→9/28 16:45迄\n\n🎤17:30~17:45\n📸18:05~19:05\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/9b47/2026-09-27/0-1790518348473.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/9b47/2026-09-27/0-1790518348473.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 2171169,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -21727,8 +21732,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1788774925357,
-      "display_updated_at": 1788774925357,
-      "updated_at": 1788774925358,
+      "display_updated_at": 1790518410735,
+      "updated_at": 1790518410735,
       "created_at": 1788774925358,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -61074,17 +61079,22 @@
       },
       "title": "『BRICK♡BEAT』",
       "headline": "",
-      "note": "『BRICK♡BEAT』\n\n2026年10月3日(土)\n📍ナンバーゲート\n\nタイムテーブル未定💭\n\n🎟チケット(9/24 21:30販売開始)\n2000円\n(入場時1ドリンク必須)\n t-dv.com/BB1003",
+      "note": "『BRICK♡BEAT』\n\n2026年10月3日(土)\n📍ナンバーゲート\n\n🔔MellBell出演 / 19:20-19:40\n📸特典会 / 20:05-21:05\n\n🎟チケット\n2000円(入場時1ドリンク必須)\n t-dv.com/BB1003",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/7ce6/2026-09-24/0-1790221946733.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/7ce6/2026-09-24/0-1790221946733.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/50c5/2026-09-27/0-1790520313792.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/50c5/2026-09-27/0-1790520313792.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/d5de/2026-09-27/0-1790520315042.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d5de/2026-09-27/0-1790520315042.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -61110,8 +61120,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1790221948521,
-      "display_updated_at": 1790221948521,
-      "updated_at": 1790221948522,
+      "display_updated_at": 1790520315711,
+      "updated_at": 1790520315712,
       "created_at": 1790221948522,
       "interest_count": 0,
       "public_calendar_hashtags": [],
