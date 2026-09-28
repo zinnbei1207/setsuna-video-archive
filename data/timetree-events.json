@@ -56254,31 +56254,26 @@
       "id": "3037236066992641035",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 3,
+        "label_id": 10,
         "public_calendar_id": 1002727029,
-        "name": "解禁済み",
-        "color": 4698871,
-        "order": 1,
-        "updated_at": 1783055743311,
+        "name": "ライブ予定(未確定)",
+        "color": 11766748,
+        "order": 3,
+        "updated_at": 1783055743335,
         "created_at": 1762145257427
       },
-      "title": "【大阪】『SCLIVE』",
+      "title": "【大阪】ライブ予定",
       "headline": "",
-      "note": "🗓9月28日(月)\n『SCLIVE』\n📍梅田BANGBOO\n⏱OPEN 16:30/ START 16:45\n💰優先：¥2,500 (+1D)\n一般：¥1,000 (+1D)\n女性：¥500 （+1D)\n🎫https://t-dv.com/JrdyLk1fwCVeK9\n【9/19 18:00〜9/28 17:00】\n\n🎤16:45〜17:00\n📸17:05〜18:05\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
+      "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/c5ce/2026-09-27/0-1790548835455.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c5ce/2026-09-27/0-1790548835455.jpg"
-          }
-        ],
+        "cover": [],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 4698871,
+      "color": 11766748,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -56300,8 +56295,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787234753745,
-      "display_updated_at": 1790549033312,
-      "updated_at": 1790549033313,
+      "display_updated_at": 1787234753745,
+      "updated_at": 1787234753750,
       "created_at": 1787234753750,
       "interest_count": 0,
       "public_calendar_hashtags": [],
