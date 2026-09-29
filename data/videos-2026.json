@@ -2716,5 +2716,41 @@
     "postStatus": "未設定",
     "storage": "",
     "memo": ""
+  },
+  {
+    "id": 152,
+    "sourceSheet": "2026",
+    "sourceNo": 152,
+    "group": "永遠のセツナ",
+    "date": "2026-09-19",
+    "filename": "IMG_1437.MOV",
+    "content": "押忍フェス",
+    "place": "湊町リバープレイス",
+    "kind": "ライブ映像",
+    "disc": "",
+    "discStatus": "",
+    "queue": null,
+    "editStatus": "未設定",
+    "postStatus": "未設定",
+    "storage": "",
+    "memo": ""
+  },
+  {
+    "id": 153,
+    "sourceSheet": "2026",
+    "sourceNo": 153,
+    "group": "永遠のセツナ",
+    "date": "2026-09-19",
+    "filename": "IMG_1439.MOV",
+    "content": "IDOL TRIBE",
+    "place": "ドン・キホーテ梅田本店",
+    "kind": "ライブ映像",
+    "disc": "",
+    "discStatus": "",
+    "queue": null,
+    "editStatus": "未設定",
+    "postStatus": "未設定",
+    "storage": "",
+    "memo": ""
   }
 ]
