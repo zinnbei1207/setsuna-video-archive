@@ -41452,6 +41452,65 @@
       "_calendar_id": "andyouthchannel"
     },
     {
+      "id": "3066199249609777955",
+      "public_calendar_id": 1001305048,
+      "public_calendar_label": {
+        "label_id": 7,
+        "public_calendar_id": 1001305048,
+        "name": "",
+        "color": 15949708,
+        "order": 7,
+        "updated_at": 1748759551166,
+        "created_at": 1748759551166
+      },
+      "title": "うえほんまちハイハイタウン🎤12:25〜13:45📸13:45〜14:45",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/13e3/2026-09-29/0-1790687433544.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/13e3/2026-09-29/0-1790687433544.jpg"
+          }
+        ],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 15949708,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1792886400000,
+      "end_at": 1792886400000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1792972799000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/andyouthchannel/3066199249609777955",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1790687434167,
+      "display_updated_at": 1790687434167,
+      "updated_at": 1790687434167,
+      "created_at": 1790687434167,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "&youth!",
+      "_calendar_id": "andyouthchannel"
+    },
+    {
       "id": "2835854255764132900",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
