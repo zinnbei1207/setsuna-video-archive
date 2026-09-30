@@ -21812,16 +21812,16 @@
         "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "【押忍フェス】",
+      "title": "【押忍フェス】🎤11:30~11:55📸12:05~13:05",
       "headline": "",
-      "note": "【押忍フェス】\n\n🗓10月4日(日)\n📍湊町リバープレイス プラザ1\n🎫観覧無料‼️\n・撮影チケット:1,000円<要返却>\n※スマホでの撮影は無料です\n・優先エリア観覧チケット:1,000円\n・“推す”チケット:1,000円(推しからのサイン入り色紙プレゼント)\n \n※タイムテーブル後日公開‼️\n\n#永遠のセツナLIVE情報",
+      "note": "【押忍フェス】\n\n🗓10月4日(日)\n📍湊町リバープレイス プラザ1\n🎫観覧無料‼️\n・撮影チケット:1,000円<要返却>\n※スマホでの撮影は無料です\n・優先エリア観覧チケット:1,000円\n・“推す”チケット:1,000円(推しからのサイン入り色紙プレゼント)\n \n🎤11:30~11:55\n📸12:05~13:05\n\n#永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/b126/2026-09-25/0-1790344608025.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/b126/2026-09-25/0-1790344608025.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/e68c/2026-09-30/0-1790738206701.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/e68c/2026-09-30/0-1790738206701.jpg"
           }
         ],
         "overview": []
@@ -21850,8 +21850,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1786517477573,
-      "display_updated_at": 1790344608680,
-      "updated_at": 1790344608681,
+      "display_updated_at": 1790738207451,
+      "updated_at": 1790738207452,
       "created_at": 1786517477573,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -21863,26 +21863,31 @@
       "id": "3059487467390044848",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 5,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "大阪【未解禁】",
+      "title": "『IDOL CASCADE 〜食欲の秋 SP〜』🎤17:00~17:20📸17:25~18:25",
       "headline": "",
-      "note": "",
+      "note": "『IDOL CASCADE 〜食欲の秋 SP〜』\n\n🗓10/4 (日)\n📍スパワールド\n🎫観覧無料‼️\n\n🎤17:00~17:20\n📸17:25~18:25\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/c8ec/2026-09-30/0-1790737820045.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c8ec/2026-09-30/0-1790737820045.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 2171169,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -21904,8 +21909,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789887327377,
-      "display_updated_at": 1789887327377,
-      "updated_at": 1789887327378,
+      "display_updated_at": 1790737820816,
+      "updated_at": 1790737820828,
       "created_at": 1789887327378,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -21987,11 +21992,16 @@
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/7248/2026-09-20/0-1789887248399.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/7248/2026-09-20/0-1789887248399.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/124a/2026-09-30/0-1790737902892.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/124a/2026-09-30/0-1790737902892.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/5290/2026-09-30/0-1790737967530.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5290/2026-09-30/0-1790737967530.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -22017,8 +22027,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789887249118,
-      "display_updated_at": 1789887249118,
-      "updated_at": 1789887249119,
+      "display_updated_at": 1790737968295,
+      "updated_at": 1790737968296,
       "created_at": 1789887249119,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -62051,7 +62061,7 @@
       "display_updated_at": 1787640308893,
       "updated_at": 1787640308894,
       "created_at": 1785492786166,
-      "interest_count": 2,
+      "interest_count": 3,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
