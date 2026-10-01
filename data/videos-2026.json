@@ -3148,5 +3148,41 @@
     "postStatus": "未設定",
     "storage": "",
     "memo": ""
+  },
+  {
+    "id": 176,
+    "sourceSheet": "2026",
+    "sourceNo": 176,
+    "group": "永遠のセツナ",
+    "date": "2026-04-29",
+    "filename": "IMG_1347.MOV",
+    "content": "Red Death Chocolate Rampage3",
+    "place": "DROP",
+    "kind": "ライブ映像",
+    "disc": "",
+    "discStatus": "",
+    "queue": null,
+    "editStatus": "未設定",
+    "postStatus": "未設定",
+    "storage": "",
+    "memo": ""
+  },
+  {
+    "id": 177,
+    "sourceSheet": "2026",
+    "sourceNo": 177,
+    "group": "永遠のセツナ",
+    "date": "2026-04-29",
+    "filename": "VID20260429111103いそやん.mp4",
+    "content": "推し活肉フェスタ",
+    "place": "兵庫県立明石公園 西芝生広場",
+    "kind": "ライブ映像",
+    "disc": "",
+    "discStatus": "",
+    "queue": null,
+    "editStatus": "未設定",
+    "postStatus": "未設定",
+    "storage": "",
+    "memo": ""
   }
 ]
