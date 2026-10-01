@@ -3310,5 +3310,41 @@
     "sourceNo": 184,
     "filename": "IMG_1557.MOV",
     "kind": "ライブ映像"
+  },
+  {
+    "sourceSheet": "2026",
+    "group": "永遠のセツナ",
+    "date": "2026-05-24",
+    "disc": "",
+    "discStatus": "",
+    "queue": null,
+    "editStatus": "未設定",
+    "postStatus": "未設定",
+    "storage": "",
+    "memo": "",
+    "content": "近代的情緒",
+    "place": "心斎橋VARON",
+    "id": 185,
+    "sourceNo": 185,
+    "filename": "IMG_1720.MOV",
+    "kind": "ライブ映像"
+  },
+  {
+    "sourceSheet": "2026",
+    "group": "永遠のセツナ",
+    "date": "2026-05-24",
+    "disc": "",
+    "discStatus": "",
+    "queue": null,
+    "editStatus": "未設定",
+    "postStatus": "未設定",
+    "storage": "",
+    "memo": "",
+    "content": "Abstract Colorful",
+    "place": "心斎橋VARON",
+    "id": 186,
+    "sourceNo": 186,
+    "filename": "３回し目いそやん提供(VID20260524192114).mp4",
+    "kind": "ライブ映像"
   }
 ]
