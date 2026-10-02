@@ -4455,5 +4455,26 @@
     "editStatus": "未設定",
     "postStatus": "未設定",
     "memo": "ぐで撮影"
+  },
+  {
+    "group": "永遠のセツナ",
+    "date": "2026-04-26",
+    "filename": "IMG_1273.MOV",
+    "content": "Urahara vol.44",
+    "place": "湊町リバープレイス",
+    "kind": "ライブ映像",
+    "finishedOnly": false,
+    "publishStatus": "published",
+    "disc": "",
+    "storage": "",
+    "sizeGB": "",
+    "sourceSheet": "2026",
+    "sourceNo": 245,
+    "id": 245,
+    "discStatus": "",
+    "queue": null,
+    "editStatus": "未設定",
+    "postStatus": "未設定",
+    "memo": ""
   }
 ]
