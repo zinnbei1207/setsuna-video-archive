@@ -4881,5 +4881,25 @@
     "editStatus": "未設定",
     "postStatus": "未設定",
     "memo": ""
+  },
+  {
+    "group": "永遠のセツナ",
+    "date": "2025-04-29",
+    "filename": "VID20250429133401.mp4",
+    "content": "『押忍フェス』",
+    "place": "湊町リバープレイス",
+    "kind": "ライブ映像",
+    "finishedOnly": false,
+    "publishStatus": "published",
+    "disc": "",
+    "storage": "",
+    "sourceSheet": "2025",
+    "sourceNo": 272,
+    "id": 410,
+    "discStatus": "",
+    "queue": null,
+    "editStatus": "未設定",
+    "postStatus": "未設定",
+    "memo": ""
   }
 ]
