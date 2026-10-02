@@ -4476,5 +4476,25 @@
     "editStatus": "未設定",
     "postStatus": "未設定",
     "memo": ""
+  },
+  {
+    "group": "永遠のセツナ",
+    "date": "2026-04-26",
+    "filename": "VID20260426175937.mp4",
+    "content": "Urahara vol.44",
+    "place": "湊町リバープレイス",
+    "kind": "推しカメ",
+    "finishedOnly": false,
+    "disc": "",
+    "storage": "",
+    "sizeGB": "",
+    "sourceSheet": "2026",
+    "sourceNo": 246,
+    "id": 246,
+    "discStatus": "",
+    "queue": null,
+    "editStatus": "未設定",
+    "postStatus": "未設定",
+    "memo": ""
   }
 ]
