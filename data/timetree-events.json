@@ -21922,26 +21922,44 @@
       "id": "3059487523887319620",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 5,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "大阪【未解禁】",
+      "title": "【IDOL TRIBE】🎤14:10~14:30📸14:35~15:35",
       "headline": "",
-      "note": "",
+      "note": "【IDOL TRIBE】\n\n📍うえほんまちハイハイタウン\n🗓2026年10月4日(日)\n🎫観覧無料‼️\n・撮影PASS(1000円)\n・前方エリア(1000円)\n・応援ブレスレット(1000円)\n\n🎤14:10-14:30\n📸14:35-15:35\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/642e/2026-10-03/0-1791037064244.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/642e/2026-10-03/0-1791037064244.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/a741/2026-10-03/0-1791037065048.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/a741/2026-10-03/0-1791037065048.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/7538/2026-10-03/0-1791037066028.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/7538/2026-10-03/0-1791037066028.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/b9be/2026-10-03/0-1791037066725.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/b9be/2026-10-03/0-1791037066725.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 2171169,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -21963,8 +21981,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789887334112,
-      "display_updated_at": 1789887334112,
-      "updated_at": 1789887334112,
+      "display_updated_at": 1791037067263,
+      "updated_at": 1791037067264,
       "created_at": 1789887334112,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -41296,7 +41314,7 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "ナンバーゲート",
+      "title": "ナンバーゲート🎤19:50〜20:05📸20:15〜21:15",
       "headline": "",
       "note": "",
       "link_url": "",
@@ -41304,11 +41322,16 @@
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/0873/2026-09-10/0-1789046636699.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/0873/2026-09-10/0-1789046636699.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/608d/2026-10-03/0-1791039182824.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/608d/2026-10-03/0-1791039182824.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/c100/2026-10-03/0-1791039183763.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c100/2026-10-03/0-1791039183763.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -41334,8 +41357,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789046637343,
-      "display_updated_at": 1789046637343,
-      "updated_at": 1789046637345,
+      "display_updated_at": 1791039184441,
+      "updated_at": 1791039184443,
       "created_at": 1789046637345,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -56686,7 +56709,7 @@
       "display_updated_at": 1790935688064,
       "updated_at": 1790935688065,
       "created_at": 1785318301431,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "Serenade",
@@ -56817,7 +56840,7 @@
       "display_updated_at": 1790935451879,
       "updated_at": 1790935451880,
       "created_at": 1789764067099,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "Serenade",
@@ -57269,26 +57292,31 @@
       "id": "3058528820263507452",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『アイドル好きで何がわるいHalloween』",
       "headline": "",
-      "note": "",
+      "note": "🗓10月16日(金)\n『アイドル好きで何がわるいHalloween』\n📍FANJtwice\n⏱OPEN 17:20/ START 17:40\n💰優先：¥2,000 (+1D)\n一般：¥0 (+2D)\n🎫https://t-dv.com/IdolSukiHalloween1016\n【10/4 18:00〜10/16 17:40】\n\n🎤18:00〜18:20\n📸18:30〜19:30\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/a082/2026-10-03/0-1791036054515.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/a082/2026-10-03/0-1791036054515.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -57310,8 +57338,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789773047734,
-      "display_updated_at": 1789773047734,
-      "updated_at": 1789773047736,
+      "display_updated_at": 1791036055246,
+      "updated_at": 1791036055246,
       "created_at": 1789773047736,
       "interest_count": 0,
       "public_calendar_hashtags": [],
