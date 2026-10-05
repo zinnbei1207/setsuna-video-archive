@@ -57523,26 +57523,31 @@
       "id": "3058528948181390994",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『アイドル好きで何がわるい』",
       "headline": "",
-      "note": "",
+      "note": "🗓10月20日(火)\n『アイドル好きで何がわるい』\n📍梅田BANGBOO\n⏱OPEN 17:45/ START 18:00\n💰優先：¥2,000 (+1D)\n一般：¥1,500 (+1D)\n🎫https://t-dv.com/IdolSuki1020\n【10/5 18:00〜10/20 18:00】\n\n🎤18:30〜18:45\n📸18:50〜19:50\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/375c/2026-10-05/0-1791184320181.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/375c/2026-10-05/0-1791184320181.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -57564,8 +57569,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789773062983,
-      "display_updated_at": 1789773062983,
-      "updated_at": 1789773062984,
+      "display_updated_at": 1791184320920,
+      "updated_at": 1791184320921,
       "created_at": 1789773062984,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -57906,26 +57911,31 @@
       "id": "3058529507475051908",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『SCLIVE -Halloween-』",
       "headline": "",
-      "note": "",
+      "note": "🗓10月28日(水)\n『SCLIVE -Halloween-』\n📍Yogibo HOLY MOUNTAIN & META VALLY\n⏱OPEN 17:40/ START 18:00\n💰優先：¥2,500\n一般：¥1,000\n女性：¥500\n+1D\n🎫https://t-dv.com/SCLIVEHalloween1028\n\nタイムテーブルは後日解禁..🩵\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/fc0b/2026-10-05/0-1791184668621.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/fc0b/2026-10-05/0-1791184668621.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -57947,8 +57957,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789773129656,
-      "display_updated_at": 1789773129656,
-      "updated_at": 1789773129657,
+      "display_updated_at": 1791184669411,
+      "updated_at": 1791184669412,
       "created_at": 1789773129657,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -62779,13 +62789,18 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『VIVID SOUND CIRCUIT』",
       "headline": "",
-      "note": "",
+      "note": "『VIVID SOUND CIRCUIT』\n\n2026年11月30日(月)\n📍FANJ twice / アメリカ村DROP / アメリカ村BEYOND / ナンバーゲート / AtlantiQs / panhead groove\n\nタイムテーブル未定💭\n\n優先 ¥3,000 / 一般無料\n先行抽選10/06 22:00〜10/20 22:00\nt-dv.com/VIVIDSOUNDCIRC…",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/c311/2026-10-05/0-1791210928834.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c311/2026-10-05/0-1791210928834.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
@@ -62812,8 +62827,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1788355311804,
-      "display_updated_at": 1788355311804,
-      "updated_at": 1788355311805,
+      "display_updated_at": 1791210929962,
+      "updated_at": 1791210929972,
       "created_at": 1788355311805,
       "interest_count": 0,
       "public_calendar_hashtags": [],
