@@ -57641,31 +57641,26 @@
       "id": "3058528502343652916",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 3,
+        "label_id": 10,
         "public_calendar_id": 1002727029,
-        "name": "解禁済み",
-        "color": 4698871,
-        "order": 1,
-        "updated_at": 1783055743311,
+        "name": "ライブ予定(未確定)",
+        "color": 11766748,
+        "order": 3,
+        "updated_at": 1783055743335,
         "created_at": 1762145257427
       },
-      "title": "【大阪】『Being an idol fan』",
+      "title": "【大阪】ライブ予定",
       "headline": "",
-      "note": "🗓️10月8日(木)\n『Being an idol fan』\n📍梅田 BANGBOO\n⏱OPEN 18:45/ START 19:00\n💰予約：¥1,500 (+1D)\n当日：¥2,500 (+1D)\n🎫 ticketdive.com/event/Beingani…\n→ 10/07 21:00 〜 10/08 19:00\n配信：premier.twitcasting.tv/bangbooinfo/sh…\n※￥1,500\n\n🎤19:30〜20:00\n📸 21:00〜22:00 \n\n🩵お目当て特典🩵\nお目当て券1枚+1P\n\n#SerenadeLIVE情報",
+      "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/6bf8/2026-10-07/0-1791364839486.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6bf8/2026-10-07/0-1791364839486.jpg"
-          }
-        ],
+        "cover": [],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 4698871,
+      "color": 11766748,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -57687,8 +57682,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789773009835,
-      "display_updated_at": 1791364840226,
-      "updated_at": 1791364840227,
+      "display_updated_at": 1789773009835,
+      "updated_at": 1789773009836,
       "created_at": 1789773009836,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -57697,7 +57692,7 @@
       "_calendar_id": "s1220"
     },
     {
-      "id": "3071999150906791481",
+      "id": "3058522659946616261",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
         "label_id": 3,
@@ -57710,14 +57705,14 @@
       },
       "title": "【大阪】『SHOW IN OSAKA』",
       "headline": "",
-      "note": "🗓️10月10日(土)\n『SHOW IN OSAKA』\n📍Live Bar BK\n⏱OPEN 10:00 / START 10:20\n💰予約：¥1,500 (+1D)\n当日：¥2,500 (+1D)\n🎫https://t-dv.com/SIO1010_1\n→10/07 21:30 ～ 10/10 10:20\n\n🎤10:40〜11:00\n📸11:40〜12:40\n\n🩵入場特典🩵\nお目当て券1枚+1P\n\n#SerenadeLIVE情報",
+      "note": "🗓️10月10日(土)\n『SHOW IN OSAKA』\n📍Live Bar BK\n⏱OPEN 16:00 / START 16:20\n💰予約：¥1,500 (+1D)\n当日：¥2,500 (+1D)\n🎫https://t-dv.com/SIO1010_3\n→10/07 22:30 ～ 10/10 16:20\n\n🎤17:00〜17:20\n📸17:20〜18:20\n\n🩵入場特典🩵\nお目当て券1枚+1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/7058/2026-10-07/0-1791378835696.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/7058/2026-10-07/0-1791378835696.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/9470/2026-10-07/0-1791347636196.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/9470/2026-10-07/0-1791347636196.jpg"
           }
         ],
         "overview": []
@@ -57742,131 +57737,13 @@
       "region_timezone": "Asia/Tokyo",
       "period_closed": null,
       "period_note": null,
-      "url": "https://timetr.ee/p/s1220/3071999150906791481",
+      "url": "https://timetr.ee/p/s1220/3058522659946616261",
       "attachment": {},
       "parent_id": "",
-      "publish_at": 1791378836280,
-      "display_updated_at": 1791378836280,
-      "updated_at": 1791378836281,
-      "created_at": 1791378836281,
-      "interest_count": 0,
-      "public_calendar_hashtags": [],
-      "campaign": null,
-      "_group": "Serenade",
-      "_calendar_id": "s1220"
-    },
-    {
-      "id": "3072002888711132548",
-      "public_calendar_id": 1002727029,
-      "public_calendar_label": {
-        "label_id": 3,
-        "public_calendar_id": 1002727029,
-        "name": "解禁済み",
-        "color": 4698871,
-        "order": 1,
-        "updated_at": 1783055743311,
-        "created_at": 1762145257427
-      },
-      "title": "【大阪】『SHOW IN OSAKA』",
-      "headline": "",
-      "note": "🗓️10月10日(土)\n『SHOW IN OSAKA』\n📍Live Bar BK\n⏱OPEN 16:00 / START 16:20\n💰予約：¥1,500 (+1D)\n当日：¥2,500 (+1D)\n🎫https://t-dv.com/SIO1010_3\n→10/07 22:30 ～ 10/10 16:20\n\n🎤17:00〜17:20\n📸17:45〜18:45\n\n🩵入場特典🩵\nお目当て券1枚+1P\n\n#SerenadeLIVE情報",
-      "link_url": "",
-      "overview": "",
-      "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/1aaf/2026-10-07/0-1791379281220.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/1aaf/2026-10-07/0-1791379281220.jpg"
-          }
-        ],
-        "overview": []
-      },
-      "videos": [],
-      "status": 1,
-      "color": 4698871,
-      "location_name": "",
-      "location_address": null,
-      "location_access": null,
-      "location_url": null,
-      "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
-      "all_day": true,
-      "start_at": 1791590400000,
-      "end_at": 1791590400000,
-      "start_timezone": "UTC",
-      "end_timezone": "UTC",
-      "recurrences": null,
-      "until_at": 1791676799000,
-      "region_timezone": "Asia/Tokyo",
-      "period_closed": null,
-      "period_note": null,
-      "url": "https://timetr.ee/p/s1220/3072002888711132548",
-      "attachment": {},
-      "parent_id": "",
-      "publish_at": 1791379281861,
-      "display_updated_at": 1791379281861,
-      "updated_at": 1791379281862,
-      "created_at": 1791379281862,
-      "interest_count": 0,
-      "public_calendar_hashtags": [],
-      "campaign": null,
-      "_group": "Serenade",
-      "_calendar_id": "s1220"
-    },
-    {
-      "id": "3072003584747493225",
-      "public_calendar_id": 1002727029,
-      "public_calendar_label": {
-        "label_id": 3,
-        "public_calendar_id": 1002727029,
-        "name": "解禁済み",
-        "color": 4698871,
-        "order": 1,
-        "updated_at": 1783055743311,
-        "created_at": 1762145257427
-      },
-      "title": "【大阪】『世良小春 生誕祭～絶対結婚しようね？♡～後夜祭』",
-      "headline": "",
-      "note": "🗓10月10日(土)\n『世良小春 生誕祭～絶対結婚しようね？♡～後夜祭』\n📍Live Bar BK\n⏱OPEN 19:00/ START 19:20\n💰一般：¥2,000 (+1D)\n※料金に、終演後の乾杯ドリンク1杯付き\n🎫https://t-dv.com/kohachanHBDdayo\n\n🎤20:20〜20:50\n📸21:00〜22:00\n\n🩵入場特典🩵\nお目当て券1枚+1P\n\n#SerenadeLIVE情報",
-      "link_url": "",
-      "overview": "",
-      "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/7c81/2026-10-07/0-1791379364054.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/7c81/2026-10-07/0-1791379364054.jpg"
-          }
-        ],
-        "overview": []
-      },
-      "videos": [],
-      "status": 1,
-      "color": 4698871,
-      "location_name": "",
-      "location_address": null,
-      "location_access": null,
-      "location_url": null,
-      "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
-      "all_day": true,
-      "start_at": 1791590400000,
-      "end_at": 1791590400000,
-      "start_timezone": "UTC",
-      "end_timezone": "UTC",
-      "recurrences": null,
-      "until_at": 1791676799000,
-      "region_timezone": "Asia/Tokyo",
-      "period_closed": null,
-      "period_note": null,
-      "url": "https://timetr.ee/p/s1220/3072003584747493225",
-      "attachment": {},
-      "parent_id": "",
-      "publish_at": 1791379364835,
-      "display_updated_at": 1791379364835,
-      "updated_at": 1791379364835,
-      "created_at": 1791379364835,
+      "publish_at": 1789772313367,
+      "display_updated_at": 1791347636723,
+      "updated_at": 1791347636724,
+      "created_at": 1789772313368,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
@@ -57995,44 +57872,26 @@
       "id": "3037181340603242123",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 3,
+        "label_id": 1,
         "public_calendar_id": 1002727029,
-        "name": "解禁済み",
-        "color": 4698871,
-        "order": 1,
-        "updated_at": 1783055743311,
+        "name": "未解禁",
+        "color": 3067015,
+        "order": 2,
+        "updated_at": 1783055743328,
         "created_at": 1762145257427
       },
-      "title": "【大阪】『IDOL TRIBE』",
+      "title": "【大阪】未解禁",
       "headline": "",
-      "note": "🗓10月12日(月・祝)\n『IDOL TRIBE』\n📍スパワールド\n⏱START 13:30\n💰観覧無料！\n撮影PASS(1000円)\n前方エリア(1000円)\n応援ブレスレット(1000円)\n\n🎤15:00〜15:20\n📸15:25〜16:25\n\n※撮影PASSがない場合撮影NGです。\n応援ブレスレットについては3枚目の画像をご確認お願いします。\n\n#SerenadeLIVE情報",
+      "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/10c7/2026-10-07/0-1791365411426.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/10c7/2026-10-07/0-1791365411426.jpg"
-          }
-        ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/ea2e/2026-10-07/0-1791365412130.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/ea2e/2026-10-07/0-1791365412130.jpg"
-          },
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/dca6/2026-10-07/0-1791365412909.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/dca6/2026-10-07/0-1791365412909.jpg"
-          },
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/519c/2026-10-07/0-1791365413697.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/519c/2026-10-07/0-1791365413697.jpg"
-          }
-        ]
+        "cover": [],
+        "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 4698871,
+      "color": 3067015,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -58053,9 +57912,9 @@
       "url": "https://timetr.ee/p/s1220/3037181340603242123",
       "attachment": {},
       "parent_id": "",
-      "publish_at": 1791370800000,
-      "display_updated_at": 1791370800000,
-      "updated_at": 1791365414505,
+      "publish_at": 1787228229850,
+      "display_updated_at": 1787228229850,
+      "updated_at": 1787228229851,
       "created_at": 1787228229851,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -62832,25 +62691,35 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『IDOL TRIBE』",
       "headline": "",
-      "note": "",
+      "note": "『IDOL TRIBE』\n\n2026年10月12日(月祝)\n📍スパワールド\n\n🔔Mell Bell出演/ 15:40-16:00\n📸特典会 / 16:05-17:05\n\n観覧無料\n撮影PASS / 1000円\n前方エリア/ 1000円\n応援ブレスレット/ 1000円",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/b710/2026-10-07/0-1791380550023.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/b710/2026-10-07/0-1791380550023.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/020b/2026-10-07/0-1791380550919.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/020b/2026-10-07/0-1791380550919.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "SPAWORLD",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.649988,
+      "location_lon": 135.50558,
       "all_day": true,
       "start_at": 1791763200000,
       "end_at": 1791763200000,
@@ -62865,10 +62734,10 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787279679142,
-      "display_updated_at": 1787279679142,
-      "updated_at": 1787279679143,
+      "display_updated_at": 1791380569699,
+      "updated_at": 1791380569700,
       "created_at": 1787279679143,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
