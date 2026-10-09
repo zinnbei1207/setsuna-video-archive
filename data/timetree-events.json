@@ -22043,7 +22043,7 @@
       "display_updated_at": 1791440259245,
       "updated_at": 1791440259245,
       "created_at": 1791357585529,
-      "interest_count": 0,
+      "interest_count": 2,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "永遠のセツナ",
@@ -58298,14 +58298,14 @@
       },
       "title": "【大阪】『SHOW IN OSAKA』",
       "headline": "",
-      "note": "🗓️10月10日(土)\n『SHOW IN OSAKA』\n📍Live Bar BK\n⏱OPEN 16:00 / START 16:20\n💰予約：¥1,500 (+1D)\n当日：¥2,500 (+1D)\n🎫https://t-dv.com/SIO1010_3\n→10/07 22:30 ～ 10/10 16:20\n\n🎤17:00〜17:20\n📸17:45〜18:45\n\n🩵入場特典🩵\nお目当て券1枚+1P\n\n#SerenadeLIVE情報",
+      "note": "🗓️10月10日(土)\n『SHOW IN OSAKA』\n📍Live Bar BK\n⏱OPEN 16:00 / START 16:20\n💰予約：¥1,500 (+1D)\n当日：¥2,500 (+1D)\n🎫https://t-dv.com/SIO1010_3\n→10/07 22:30 ～ 10/10 16:20\n\n🎤16:55〜17:10\n📸17:45〜18:45\n\n🩵入場特典🩵\nお目当て券1枚+1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/1aaf/2026-10-07/0-1791379281220.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/1aaf/2026-10-07/0-1791379281220.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/b3f4/2026-10-09/0-1791543094053.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/b3f4/2026-10-09/0-1791543094053.jpg"
           }
         ],
         "overview": []
@@ -58334,8 +58334,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791379281861,
-      "display_updated_at": 1791379281861,
-      "updated_at": 1791379281862,
+      "display_updated_at": 1791543094678,
+      "updated_at": 1791543094679,
       "created_at": 1791379281862,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -58470,26 +58470,31 @@
       "id": "3058297728902223579",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 2,
-        "updated_at": 1783055743328,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】未解禁",
+      "title": "【大阪】『オトハレFes #80』",
       "headline": "",
-      "note": "",
+      "note": "🗓10月11日(日)\n『オトハレFes #80』\n📍湊町リバープレイス\n⏱START  12:05〜\n💰 観覧無料！\n優先エリア(2段目〜8段目)：¥1,000\n※三脚あり撮影は3段目以降\n撮影パス：¥1,000\n※スマホでの撮影は無料\n\n🎤12:20〜12:35\n📸12:35〜13:35\n\n※クラップ禁止\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/03b4/2026-10-09/0-1791552585262.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/03b4/2026-10-09/0-1791552585262.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -58511,8 +58516,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789745499498,
-      "display_updated_at": 1789745499498,
-      "updated_at": 1789745499498,
+      "display_updated_at": 1791552585996,
+      "updated_at": 1791552585997,
       "created_at": 1789745499498,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -58650,26 +58655,31 @@
       "id": "3065514367825598064",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 2,
-        "updated_at": 1783055743328,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】未解禁",
+      "title": "【大阪】『プリュネ♡トゥインクレットpre.  # 最かわ更新フェス☆ 』",
       "headline": "",
-      "note": "",
+      "note": "🗓10月14日(水)\n『プリュネ♡トゥインクレットpre.  # 最かわ更新フェス☆ 』\n📍南堀江ビレボア\n⏱OPEN 18:10/ START 18:30\n💰一般：¥2,000 (+1D)‼️先着20枚‼️\n🎫https://t-dv.com/SK1014\n【10/10 21:00〜】\n\nタイムテーブル▶︎画像参照\n⚠️本編中再入場不可\n\n🩵お目当て特典🩵\nお目当て券1枚+1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/5c40/2026-10-09/0-1791571184572.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5c40/2026-10-09/0-1791571184572.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -58691,8 +58701,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1790605789896,
-      "display_updated_at": 1790605789896,
-      "updated_at": 1790605789897,
+      "display_updated_at": 1791571202416,
+      "updated_at": 1791571202417,
       "created_at": 1790605789897,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -58773,12 +58783,22 @@
       },
       "title": "【大阪】『押忍フェス』",
       "headline": "",
-      "note": "🗓10月17日(土)\n📍湊町リバープレイス\n『押忍フェス』\n⏱START 12:00\n💰観覧無料\n撮影チケット:¥1,000\n※スマホでの撮影は無料\n優先エリア観覧チケット:¥1,000\n“推す”チケット:¥1,000(推しのサイン入り色紙)\n\nフライヤー・タイムテーブルは後日解禁..🩵\n\n#SerenadeLIVE情報",
+      "note": "🗓10月17日(土)\n📍湊町リバープレイス\n『押忍フェス』\n⏱START 12:00\n💰観覧無料\n撮影チケット:¥1,000\n※スマホでの撮影は無料\n優先エリア観覧チケット:¥1,000\n“推す”チケット:¥1,000(推しのサイン入り色紙)\n\n🎤11:00〜11:15\n📸11:25〜12:25\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/115f/2026-10-09/0-1791551756911.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/115f/2026-10-09/0-1791551756911.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/4520/2026-10-09/0-1791551759806.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/4520/2026-10-09/0-1791551759806.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -58804,8 +58824,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1785318311732,
-      "display_updated_at": 1790357458614,
-      "updated_at": 1790357458615,
+      "display_updated_at": 1791551760544,
+      "updated_at": 1791551760545,
       "created_at": 1785318311733,
       "interest_count": 0,
       "public_calendar_hashtags": [],
