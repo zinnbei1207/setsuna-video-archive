@@ -58470,31 +58470,26 @@
       "id": "3058297728902223579",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 3,
+        "label_id": 1,
         "public_calendar_id": 1002727029,
-        "name": "解禁済み",
-        "color": 4698871,
-        "order": 1,
-        "updated_at": 1783055743311,
+        "name": "未解禁",
+        "color": 3067015,
+        "order": 2,
+        "updated_at": 1783055743328,
         "created_at": 1762145257427
       },
-      "title": "【大阪】『オトハレFes #80』",
+      "title": "【大阪】未解禁",
       "headline": "",
-      "note": "🗓10月11日(日)\n『オトハレFes #80』\n📍湊町リバープレイス\n⏱START  12:05〜\n💰 観覧無料！\n優先エリア(2段目〜8段目)：¥1,000\n※三脚あり撮影は3段目以降\n撮影パス：¥1,000\n※スマホでの撮影は無料\n\n🎤12:20〜12:35\n📸12:35〜13:35\n\n※クラップ禁止\n\n#SerenadeLIVE情報",
+      "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/03b4/2026-10-09/0-1791552585262.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/03b4/2026-10-09/0-1791552585262.jpg"
-          }
-        ],
+        "cover": [],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 4698871,
+      "color": 3067015,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -58516,8 +58511,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789745499498,
-      "display_updated_at": 1791552585996,
-      "updated_at": 1791552585997,
+      "display_updated_at": 1789745499498,
+      "updated_at": 1789745499498,
       "created_at": 1789745499498,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -58655,31 +58650,26 @@
       "id": "3065514367825598064",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 3,
+        "label_id": 1,
         "public_calendar_id": 1002727029,
-        "name": "解禁済み",
-        "color": 4698871,
-        "order": 1,
-        "updated_at": 1783055743311,
+        "name": "未解禁",
+        "color": 3067015,
+        "order": 2,
+        "updated_at": 1783055743328,
         "created_at": 1762145257427
       },
-      "title": "【大阪】『プリュネ♡トゥインクレットpre.  # 最かわ更新フェス☆ 』",
+      "title": "【大阪】未解禁",
       "headline": "",
-      "note": "🗓10月14日(水)\n『プリュネ♡トゥインクレットpre.  # 最かわ更新フェス☆ 』\n📍南堀江ビレボア\n⏱OPEN 18:10/ START 18:30\n💰一般：¥2,000 (+1D)‼️先着20枚‼️\n🎫https://t-dv.com/SK1014\n【10/10 21:00〜】\n\nタイムテーブル▶︎画像参照\n⚠️本編中再入場不可\n\n🩵お目当て特典🩵\nお目当て券1枚+1P\n\n#SerenadeLIVE情報",
+      "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/5c40/2026-10-09/0-1791571184572.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5c40/2026-10-09/0-1791571184572.jpg"
-          }
-        ],
+        "cover": [],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 4698871,
+      "color": 3067015,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -58701,8 +58691,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1790605789896,
-      "display_updated_at": 1791571202416,
-      "updated_at": 1791571202417,
+      "display_updated_at": 1790605789896,
+      "updated_at": 1790605789897,
       "created_at": 1790605789897,
       "interest_count": 0,
       "public_calendar_hashtags": [],
