@@ -22161,7 +22161,7 @@
       "display_updated_at": 1791453228407,
       "updated_at": 1791453228408,
       "created_at": 1791357171322,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "永遠のセツナ",
@@ -22235,26 +22235,31 @@
       "id": "3059488061597092223",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 5,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "大阪【未解禁】",
+      "title": "【オトハレFes #80 ＠港町リバープレイス】🎤12:35~12:50📸12:50~13:50",
       "headline": "",
-      "note": "",
+      "note": "【オトハレFes #80 ＠港町リバープレイス】\n\n🗓2026年10月11日(日)\n📍湊町リバープレイス\n🎫観覧無料‼️\n・優先エリア¥1,000\ntiget.net/events/529529\n\n🎤12:35~12:50\n📸12:50~13:50\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/012e/2026-10-10/0-1791614982804.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/012e/2026-10-10/0-1791614982804.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 2171169,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -22276,10 +22281,10 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789887398213,
-      "display_updated_at": 1789887398213,
-      "updated_at": 1789887398213,
+      "display_updated_at": 1791614983720,
+      "updated_at": 1791614983721,
       "created_at": 1789887398213,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "永遠のセツナ",
@@ -22348,6 +22353,78 @@
       "id": "3071822497072220555",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
+        "label_id": 5,
+        "public_calendar_id": 1000504002,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
+        "created_at": 1739887373969
+      },
+      "title": "【IDOL TRIBE】🎤14:30~14:50📸14:55~15:55",
+      "headline": "",
+      "note": "【IDOL TRIBE】\n\n📍スパワールド\n🗓2026年10月12日(月祝)\n🎫観覧無料\n・撮影PASS(1000円)\n・前方エリア(1000円)\n・応援ブレスレット(1000円)\n※前方エリア,撮影PASSはブロック毎に異なります。\n\n🎤14:30~14:50\n📸14:55~15:55\n\n #永遠のセツナLIVE情報",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/1f06/2026-10-10/0-1791610668841.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/1f06/2026-10-10/0-1791610668841.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/c9cd/2026-10-10/0-1791610670883.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c9cd/2026-10-10/0-1791610670883.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/3a95/2026-10-10/0-1791610672357.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/3a95/2026-10-10/0-1791610672357.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/5365/2026-10-10/0-1791610673389.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5365/2026-10-10/0-1791610673389.jpg"
+          }
+        ]
+      },
+      "videos": [],
+      "status": 1,
+      "color": 2171169,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1791763200000,
+      "end_at": 1791763200000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1791849599000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/setsuna/3071822497072220555",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1791357777502,
+      "display_updated_at": 1791610674471,
+      "updated_at": 1791610674472,
+      "created_at": 1791357777503,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "永遠のセツナ",
+      "_calendar_id": "setsuna"
+    },
+    {
+      "id": "3073979723073390731",
+      "public_calendar_id": 1000504002,
+      "public_calendar_label": {
         "label_id": 1,
         "public_calendar_id": 1000504002,
         "name": "未解禁",
@@ -22376,22 +22453,22 @@
       "location_lat": null,
       "location_lon": null,
       "all_day": true,
-      "start_at": 1791763200000,
-      "end_at": 1791763200000,
+      "start_at": 1791936000000,
+      "end_at": 1791936000000,
       "start_timezone": "UTC",
       "end_timezone": "UTC",
       "recurrences": null,
-      "until_at": 1791849599000,
+      "until_at": 1792022399000,
       "region_timezone": "Asia/Tokyo",
       "period_closed": null,
       "period_note": null,
-      "url": "https://timetr.ee/p/setsuna/3071822497072220555",
+      "url": "https://timetr.ee/p/setsuna/3073979723073390731",
       "attachment": {},
       "parent_id": "",
-      "publish_at": 1791357777502,
-      "display_updated_at": 1791357777502,
-      "updated_at": 1791357777503,
-      "created_at": 1791357777503,
+      "publish_at": 1791614938881,
+      "display_updated_at": 1791614938881,
+      "updated_at": 1791614938882,
+      "created_at": 1791614938882,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
@@ -22410,9 +22487,9 @@
         "updated_at": 1772261467291,
         "created_at": 1739887373969
       },
-      "title": "🔥重要ライブ🔥 【EBISUBASHI IDOL LIVE】",
+      "title": "🔥重要ライブ🔥 【EBISUBASHI IDOL LIVE】🎤18:30~18:50📸19:10~20:10",
       "headline": "",
-      "note": "＼＼🔥重要ライブ🔥／／\n\n【EBISUBASHI IDOL LIVE】\n🗓10/16（金）\n⏰18:00・18:30\n📍TSUTAYA EBISUBASHI イベントスペース\n🎫cloud-pass.jp/get/bfda3c072e…\n\n※タイムテーブル後日公開！\n\n🎁永遠のセツナお目当てで1セツナポイントプレゼント‼️♡",
+      "note": "＼＼🔥重要ライブ🔥／／\n\n【EBISUBASHI IDOL LIVE】\n🗓10/16（金）\n⏰18:00・18:30\n📍TSUTAYA EBISUBASHI イベントスペース\n🎫https://cloud-pass.jp/get/bfda3c072e5a7f4c5d00580b34edb1ca41019c0df0413560796fcf187f8e8f86\n\n🎤18:30~18:50\n📸19:10~20:10\n(5F エスカレーター横)\n\n🎁永遠のセツナお目当てで1セツナポイントプレゼント‼️♡",
       "link_url": "",
       "overview": "",
       "images": {
@@ -22422,7 +22499,12 @@
             "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/07ac/2026-10-07/0-1791359415543.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/530f/2026-10-10/0-1791615235015.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/530f/2026-10-10/0-1791615235015.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -22448,8 +22530,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789887546637,
-      "display_updated_at": 1791359416190,
-      "updated_at": 1791359416191,
+      "display_updated_at": 1791627321911,
+      "updated_at": 1791627321912,
       "created_at": 1789887546638,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -22469,9 +22551,9 @@
         "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "【押忍フェス】",
+      "title": "【押忍フェス】🎤11:55~12:10📸12:20~13:20",
       "headline": "",
-      "note": "【押忍フェス】\n\n🗓10月17日(土)\n📍湊町リバープレイス\n🎫観覧無料！\n・撮影チケット:1,000円<要返却>\n※スマホでの撮影は無料です\n・優先エリア観覧チケット:1,000円\n・“推す”チケット:1,000円(推しからのサイン入り色紙プレゼント)\n\n※タイムテーブル後日公開‼️\n\n #永遠のセツナLIVE情報",
+      "note": "【押忍フェス】\n\n🗓10月17日(土)\n📍湊町リバープレイス\n🎫観覧無料！\n・撮影チケット:1,000円<要返却>\n※スマホでの撮影は無料です\n・優先エリア観覧チケット:1,000円\n・“推す”チケット:1,000円(推しからのサイン入り色紙プレゼント)\n\n🎤11:55~12:10\n📸12:20~13:20\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
@@ -22481,7 +22563,12 @@
             "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d4a5/2026-09-24/0-1790283032322.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/8c2c/2026-10-10/0-1791610890976.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/8c2c/2026-10-10/0-1791610890976.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -22507,10 +22594,10 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1786517530493,
-      "display_updated_at": 1790283033048,
-      "updated_at": 1790283033049,
+      "display_updated_at": 1791610891753,
+      "updated_at": 1791610891755,
       "created_at": 1786517530494,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "永遠のセツナ",
@@ -23330,60 +23417,6 @@
       "display_updated_at": 1791283683836,
       "updated_at": 1791283683837,
       "created_at": 1791283683837,
-      "interest_count": 0,
-      "public_calendar_hashtags": [],
-      "campaign": null,
-      "_group": "永遠のセツナ",
-      "_calendar_id": "setsuna"
-    },
-    {
-      "id": "3072636987321813188",
-      "public_calendar_id": 1000504002,
-      "public_calendar_label": {
-        "label_id": 3,
-        "public_calendar_id": 1000504002,
-        "name": "イベント",
-        "color": 4698871,
-        "order": 4,
-        "updated_at": 1772261467304,
-        "created_at": 1739887373969
-      },
-      "title": "あいかちゃんお披露目",
-      "headline": "",
-      "note": "",
-      "link_url": "",
-      "overview": "",
-      "images": {
-        "cover": [],
-        "overview": []
-      },
-      "videos": [],
-      "status": 1,
-      "color": 4698871,
-      "location_name": "",
-      "location_address": null,
-      "location_access": null,
-      "location_url": null,
-      "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
-      "all_day": true,
-      "start_at": 1795996800000,
-      "end_at": 1795996800000,
-      "start_timezone": "UTC",
-      "end_timezone": "UTC",
-      "recurrences": null,
-      "until_at": 1796083199000,
-      "region_timezone": "Asia/Tokyo",
-      "period_closed": null,
-      "period_note": null,
-      "url": "https://timetr.ee/p/setsuna/3072636987321813188",
-      "attachment": {},
-      "parent_id": "",
-      "publish_at": 1791454872306,
-      "display_updated_at": 1791454872306,
-      "updated_at": 1791454872307,
-      "created_at": 1791454872307,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
@@ -42030,70 +42063,6 @@
       "_calendar_id": "andyouthchannel"
     },
     {
-      "id": "3053742337924489610",
-      "public_calendar_id": 1001305048,
-      "public_calendar_label": {
-        "label_id": 7,
-        "public_calendar_id": 1001305048,
-        "name": "",
-        "color": 15949708,
-        "order": 7,
-        "updated_at": 1748759551166,
-        "created_at": 1748759551166
-      },
-      "title": "ナンバーゲート🎤17:00〜17:15📸17:30〜18:30(5F 第1スタジオ)",
-      "headline": "",
-      "note": "",
-      "link_url": "",
-      "overview": "",
-      "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/2df5/2026-09-12/0-1789202453866.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2df5/2026-09-12/0-1789202453866.jpg"
-          }
-        ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/d65b/2026-09-17/0-1789658329876.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d65b/2026-09-17/0-1789658329876.jpg"
-          }
-        ]
-      },
-      "videos": [],
-      "status": 1,
-      "color": 15949708,
-      "location_name": "",
-      "location_address": null,
-      "location_access": null,
-      "location_url": null,
-      "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
-      "all_day": true,
-      "start_at": 1791676800000,
-      "end_at": 1791676800000,
-      "start_timezone": "UTC",
-      "end_timezone": "UTC",
-      "recurrences": null,
-      "until_at": 1791763199000,
-      "region_timezone": "Asia/Tokyo",
-      "period_closed": null,
-      "period_note": null,
-      "url": "https://timetr.ee/p/andyouthchannel/3053742337924489610",
-      "attachment": {},
-      "parent_id": "",
-      "publish_at": 1789202454576,
-      "display_updated_at": 1789658330517,
-      "updated_at": 1789658330518,
-      "created_at": 1789202454577,
-      "interest_count": 0,
-      "public_calendar_hashtags": [],
-      "campaign": null,
-      "_group": "&youth!",
-      "_calendar_id": "andyouthchannel"
-    },
-    {
       "id": "3072572323804439357",
       "public_calendar_id": 1001305048,
       "public_calendar_label": {
@@ -42105,13 +42074,18 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "ライブ",
+      "title": "湊町リバープレイス🎤12:05〜12:20📸12:20〜13:20",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/0f5b/2026-10-10/0-1791627578401.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/0f5b/2026-10-10/0-1791627578401.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
@@ -42138,9 +42112,73 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791447163814,
-      "display_updated_at": 1791447163814,
-      "updated_at": 1791447163815,
+      "display_updated_at": 1791627579143,
+      "updated_at": 1791627579144,
       "created_at": 1791447163815,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "&youth!",
+      "_calendar_id": "andyouthchannel"
+    },
+    {
+      "id": "3074086885074625008",
+      "public_calendar_id": 1001305048,
+      "public_calendar_label": {
+        "label_id": 7,
+        "public_calendar_id": 1001305048,
+        "name": "",
+        "color": 15949708,
+        "order": 7,
+        "updated_at": 1748759551166,
+        "created_at": 1748759551166
+      },
+      "title": "ナンバーゲート🎤17:00〜17:15📸17:30〜18:30(5F 第1スタジオ)",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/6e5e/2026-10-10/0-1791627711787.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6e5e/2026-10-10/0-1791627711787.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/2b9f/2026-10-10/0-1791627713011.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2b9f/2026-10-10/0-1791627713011.jpg"
+          }
+        ]
+      },
+      "videos": [],
+      "status": 1,
+      "color": 15949708,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1791676800000,
+      "end_at": 1791676800000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1791763199000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/andyouthchannel/3074086885074625008",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1791627713587,
+      "display_updated_at": 1791627726906,
+      "updated_at": 1791627726906,
+      "created_at": 1791627713588,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
@@ -58470,26 +58508,31 @@
       "id": "3058297728902223579",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 2,
-        "updated_at": 1783055743328,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】未解禁",
+      "title": "【大阪】『オトハレFes #80』",
       "headline": "",
-      "note": "",
+      "note": "🗓10月11日(日)\n『オトハレFes #80』\n📍湊町リバープレイス\n⏱START  12:05〜\n💰 観覧無料！\n優先エリア(2段目〜8段目)：¥1,000\n※三脚あり撮影は3段目以降\n撮影パス：¥1,000\n※スマホでの撮影は無料\n\n🎤12:20〜12:35\n📸12:35〜13:35\n\n※クラップ禁止\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/1224/2026-10-10/0-1791599501495.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/1224/2026-10-10/0-1791599501495.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -58511,8 +58554,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789745499498,
-      "display_updated_at": 1789745499498,
-      "updated_at": 1789745499498,
+      "display_updated_at": 1791599502110,
+      "updated_at": 1791599502111,
       "created_at": 1789745499498,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -58650,26 +58693,31 @@
       "id": "3065514367825598064",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 2,
-        "updated_at": 1783055743328,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】未解禁",
+      "title": "【大阪】『プリュネ♡トゥインクレットpre.  # 最かわ更新フェス☆ 』",
       "headline": "",
-      "note": "",
+      "note": "🗓10月14日(水)\n『プリュネ♡トゥインクレットpre.  # 最かわ更新フェス☆ 』\n📍南堀江ビレボア\n⏱OPEN 18:10/ START 18:30\n💰一般：¥2,000 (+1D)‼️先着20枚‼️\n🎫https://t-dv.com/SK1014\n【10/10 21:00〜】\n\nタイムテーブル▶︎画像参照\n⚠️本編中再入場不可\n\n🩵お目当て特典🩵\nお目当て券1枚+1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/5c40/2026-10-09/0-1791571184572.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5c40/2026-10-09/0-1791571184572.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -58691,8 +58739,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1790605789896,
-      "display_updated_at": 1790605789896,
-      "updated_at": 1790605789897,
+      "display_updated_at": 1791571202416,
+      "updated_at": 1791571202417,
       "created_at": 1790605789897,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -63594,14 +63642,14 @@
       },
       "title": "『オトハレFes #80 ＠港町リバープレイス』",
       "headline": "",
-      "note": "『オトハレFes #80 ＠港町リバープレイス』\n\n2026年10月11日(日)\n📍 湊町リバープレイス\n\n🔔Mell Bell出演/ 16:55-17:10\n📸特典会 / 17:40-18:40\n\n観覧無料\n撮影パス / 1000円\n優先エリア/ 1000円\n応援グッズ/ 1000円",
+      "note": "『オトハレFes #80 ＠港町リバープレイス』\n\n2026年10月11日(日)\n📍 湊町リバープレイス\n\n🔔Mell Bell出演/ 17:10-17:25\n📸特典会 / 17:55-18:55\n\n観覧無料\n撮影パス / 1000円\n優先エリア/ 1000円\n応援グッズ/ 1000円",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/eb74/2026-10-08/0-1791466283401.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/eb74/2026-10-08/0-1791466283401.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/4055/2026-10-10/0-1791599545206.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/4055/2026-10-10/0-1791599545206.jpg"
           }
         ],
         "overview": []
@@ -63630,8 +63678,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789923326811,
-      "display_updated_at": 1791466284344,
-      "updated_at": 1791466284345,
+      "display_updated_at": 1791599778571,
+      "updated_at": 1791599778572,
       "created_at": 1789923326818,
       "interest_count": 1,
       "public_calendar_hashtags": [],
