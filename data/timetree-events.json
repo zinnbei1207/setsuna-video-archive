@@ -22415,7 +22415,7 @@
       "display_updated_at": 1791610674471,
       "updated_at": 1791610674472,
       "created_at": 1791357777503,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "永遠のセツナ",
@@ -42269,7 +42269,7 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "豊中Lip2nd",
+      "title": "豊中Lip2nd 🎤17:05〜17:35📸予想発表終わり次第〜19:30",
       "headline": "",
       "note": "",
       "link_url": "",
@@ -42307,8 +42307,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791447026660,
-      "display_updated_at": 1791447026660,
-      "updated_at": 1791447026661,
+      "display_updated_at": 1791712393550,
+      "updated_at": 1791712393550,
       "created_at": 1791447026661,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -42392,14 +42392,24 @@
         "updated_at": 1748759551166,
         "created_at": 1748759551166
       },
-      "title": "ライブ",
+      "title": "湊町リバープレイス🎤11:15〜11:30📸11:40〜12:40",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/00ab/2026-10-11/0-1791720356860.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/00ab/2026-10-11/0-1791720356860.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/ec53/2026-10-11/0-1791720358025.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/ec53/2026-10-11/0-1791720358025.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -42425,8 +42435,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791447191290,
-      "display_updated_at": 1791447191290,
-      "updated_at": 1791447191291,
+      "display_updated_at": 1791720358629,
+      "updated_at": 1791720358629,
       "created_at": 1791447191291,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -58639,26 +58649,31 @@
       "id": "3058694035357684995",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『第零地区』",
       "headline": "",
-      "note": "",
+      "note": "🗓10月12日(月・祝)\n『第零地区』\n📍福島 2nd LINE\n⏱OPEN 9:20/ START 9:40\n💰予約¥2,500 (+1D)\n🎫 https://t-dv.com/DaiZeroChiku1012\n➡️9/28 20:00 〜 10/12 9:40\n\n🎤9:40〜10:00\n📸10:10〜11:10\n\n🩵お目当て特典🩵\nお目当て券1枚+1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/5afb/2026-10-11/0-1791718911743.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5afb/2026-10-11/0-1791718911743.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -58680,8 +58695,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789792742909,
-      "display_updated_at": 1789792742909,
-      "updated_at": 1789792742909,
+      "display_updated_at": 1791718912394,
+      "updated_at": 1791718912395,
       "created_at": 1789792742909,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -59209,7 +59224,7 @@
       "display_updated_at": 1789579842740,
       "updated_at": 1789579842741,
       "created_at": 1784686067840,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "Serenade",
@@ -64112,25 +64127,35 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『IDOL TRIBE』",
       "headline": "",
-      "note": "",
+      "note": "『IDOL TRIBE』\n\n2026年10月22日(木)\n📍心斎橋VARON\n\n🔔Mell Bell出演/ 19:20-19:40\n📸特典会 / 19:45-20:45\n\n一般1000円/前方エリア2000円\n当日＋500円※別途各2Drink\n\ntiget.net/events/529761",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/d6f9/2026-10-11/0-1791720326297.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d6f9/2026-10-11/0-1791720326297.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/7e10/2026-10-11/0-1791720327746.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/7e10/2026-10-11/0-1791720327746.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "心斎橋 VARON",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.675477,
+      "location_lon": 135.499605,
       "all_day": true,
       "start_at": 1792627200000,
       "end_at": 1792627200000,
@@ -64145,10 +64170,10 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1788069596833,
-      "display_updated_at": 1788069596833,
-      "updated_at": 1788069596834,
+      "display_updated_at": 1791720328754,
+      "updated_at": 1791720328755,
       "created_at": 1788069596834,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
@@ -64374,7 +64399,7 @@
       "display_updated_at": 1790935187380,
       "updated_at": 1790935187381,
       "created_at": 1790857094734,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
