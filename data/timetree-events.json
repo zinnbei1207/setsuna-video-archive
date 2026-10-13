@@ -60221,7 +60221,7 @@
       "display_updated_at": 1791503652461,
       "updated_at": 1791503652461,
       "created_at": 1791503652461,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "Serenade",
@@ -64420,14 +64420,14 @@
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/d6f9/2026-10-11/0-1791720326297.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d6f9/2026-10-11/0-1791720326297.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/6cfe/2026-10-13/0-1791875793077.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6cfe/2026-10-13/0-1791875793077.jpg"
           }
         ],
         "overview": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/7e10/2026-10-11/0-1791720327746.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/7e10/2026-10-11/0-1791720327746.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/ce15/2026-10-13/0-1791875793953.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/ce15/2026-10-13/0-1791875793953.jpg"
           }
         ]
       },
@@ -64455,8 +64455,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1788069596833,
-      "display_updated_at": 1791720328754,
-      "updated_at": 1791720328755,
+      "display_updated_at": 1791875794829,
+      "updated_at": 1791875794831,
       "created_at": 1788069596834,
       "interest_count": 1,
       "public_calendar_hashtags": [],
