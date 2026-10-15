@@ -6026,5 +6026,23 @@
     "postStatus": "未設定",
     "storage": "",
     "memo": ""
+  },
+  {
+    "id": 510,
+    "sourceSheet": "2026年",
+    "sourceNo": 332,
+    "group": "永遠のセツナ",
+    "date": "2026-05-03",
+    "filename": "IMG_1390.MOV",
+    "content": "岡山全肉祭×世史久祭り",
+    "place": "岡山ドーム前イベント広場",
+    "kind": "ライブ映像",
+    "disc": "set056",
+    "discStatus": "済",
+    "queue": null,
+    "editStatus": "未設定",
+    "postStatus": "未設定",
+    "storage": "",
+    "memo": ""
   }
 ]
