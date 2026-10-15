@@ -42520,28 +42520,14 @@
         "updated_at": 1791946210754,
         "created_at": 1748759551166
       },
-      "title": "うえほんまちハイハイタウン🎤15:20-15:40📸15:45-16:45",
+      "title": "ライブ",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/da6a/2026-10-14/0-1791997245293.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/da6a/2026-10-14/0-1791997245293.jpg"
-          }
-        ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/e0d9/2026-10-14/0-1791997246780.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/e0d9/2026-10-14/0-1791997246780.jpg"
-          },
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/e097/2026-10-14/0-1791997247809.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/e097/2026-10-14/0-1791997247809.jpg"
-          }
-        ]
+        "cover": [],
+        "overview": []
       },
       "videos": [],
       "status": 1,
@@ -42567,8 +42553,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791447198628,
-      "display_updated_at": 1791997248324,
-      "updated_at": 1791997248325,
+      "display_updated_at": 1791447198628,
+      "updated_at": 1791447198629,
       "created_at": 1791447198629,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -42688,7 +42674,7 @@
       "display_updated_at": 1791446822248,
       "updated_at": 1791446822248,
       "created_at": 1791446822248,
-      "interest_count": 1,
+      "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -65899,65 +65885,6 @@
       "display_updated_at": 1791808413535,
       "updated_at": 1791808413536,
       "created_at": 1791808413536,
-      "interest_count": 0,
-      "public_calendar_hashtags": [],
-      "campaign": null,
-      "_group": "MellBell",
-      "_calendar_id": "mellbell_0719"
-    },
-    {
-      "id": "3077072062842503268",
-      "public_calendar_id": 1006291040,
-      "public_calendar_label": {
-        "label_id": 10,
-        "public_calendar_id": 1006291040,
-        "name": "",
-        "color": 11766748,
-        "order": 1,
-        "updated_at": 1784985580350,
-        "created_at": 1784303552628
-      },
-      "title": "『COLORFUL FESTA COUNTDOWN26→27』",
-      "headline": "",
-      "note": "『COLORFUL FESTA COUNTDOWN』\n\n2026年12月31日(木)\n📍心斎橋KuRaGe\n\nタイムテーブル未定💭\n\n前売り(前方エリア)/2500円\n前売り(一般)/1500円\n手売りチケット/1300円\n当日券/2500円\n\ntiget.net/events/530691",
-      "link_url": "",
-      "overview": "",
-      "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/037d/2026-10-14/0-1791983573775.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/037d/2026-10-14/0-1791983573775.jpg"
-          }
-        ],
-        "overview": []
-      },
-      "videos": [],
-      "status": 1,
-      "color": 11766748,
-      "location_name": "LIVE HOUSE KuRaGe",
-      "location_address": null,
-      "location_access": null,
-      "location_url": null,
-      "location_note": null,
-      "location_lat": 34.674058,
-      "location_lon": 135.504231,
-      "all_day": true,
-      "start_at": 1798675200000,
-      "end_at": 1798675200000,
-      "start_timezone": "UTC",
-      "end_timezone": "UTC",
-      "recurrences": null,
-      "until_at": 1798761599000,
-      "region_timezone": "Asia/Tokyo",
-      "period_closed": null,
-      "period_note": null,
-      "url": "https://timetr.ee/p/mellbell_0719/3077072062842503268",
-      "attachment": {},
-      "parent_id": "",
-      "publish_at": 1791983574508,
-      "display_updated_at": 1791983574508,
-      "updated_at": 1791983574509,
-      "created_at": 1791983574509,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
