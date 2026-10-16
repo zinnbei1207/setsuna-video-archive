@@ -729,10 +729,10 @@
       "public_calendar_label": {
         "label_id": 7,
         "public_calendar_id": 1000504002,
-        "name": "",
+        "name": "特別衣装日",
         "color": 15949708,
         "order": 7,
-        "updated_at": 1739887373969,
+        "updated_at": 1792153400051,
         "created_at": 1739887373969
       },
       "title": "🌸永遠のセツナデビュー記念撮影会🌸",
@@ -22739,26 +22739,31 @@
       "id": "3077765264986278592",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 5,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "大阪【未解禁】",
+      "title": "【🍛 DINNER and LIVE!!】🎤21:05~21:25📸21:30~22:30",
       "headline": "",
-      "note": "",
+      "note": "【🍛 DINNER and LIVE!!】\n\n🗓️ 10月17日(土)\n📍 Live Bar BK\n\n🎤21:05〜21:25\n📸 21:30〜22:30\n\n🎫 予約 ¥3,000 / 当日 ¥4,000\n（カレー1皿・1D込み🍛🥤）\n\n🎟️ チケットはこちら⬇️\nt-dv.com/DINNER1017\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/db79/2026-10-16/0-1792153264455.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/db79/2026-10-16/0-1792153264455.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 2171169,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -22780,8 +22785,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792066210643,
-      "display_updated_at": 1792066210643,
-      "updated_at": 1792066210644,
+      "display_updated_at": 1792153264998,
+      "updated_at": 1792153264999,
       "created_at": 1792066210644,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -22852,26 +22857,31 @@
       "id": "3071822764417158009",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 5,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "大阪【未解禁】",
+      "title": "『ふるまっくす vol.1』🎤11:20~11:40📸11:45~12:45",
       "headline": "",
-      "note": "",
+      "note": "『ふるまっくす vol.1』\n\n🗓️ 10月18日(日)\n📍 北堀江club vijon\n\n🎤 11:20〜11:40\n📸 11:45~12:45\n\n🎫 優先 ¥2,000 / 一般 ¥1,000\n（各＋1D代）\n\n🎟️ チケットはこちら⬇️\ntiget.net/events/531454\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/fca9/2026-10-16/0-1792153834265.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/fca9/2026-10-16/0-1792153834265.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 2171169,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -22893,8 +22903,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791357809372,
-      "display_updated_at": 1791357809372,
-      "updated_at": 1791357809372,
+      "display_updated_at": 1792153920551,
+      "updated_at": 1792153920552,
       "created_at": 1791357809372,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -22965,17 +22975,17 @@
       "id": "3031219728519202964",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 5,
+        "label_id": 7,
         "public_calendar_id": 1000504002,
-        "name": "ライブ",
-        "color": 2171169,
-        "order": 2,
-        "updated_at": 1772261467216,
+        "name": "特別衣装日",
+        "color": 15949708,
+        "order": 7,
+        "updated_at": 1792153400051,
         "created_at": 1739887373969
       },
-      "title": "【IDOL TRIBE】🎤19:00~19:20📸19:25~20:25",
+      "title": "🏃‍♂️【IDOL TRIBE】🎤19:00~19:20📸19:25~20:25",
       "headline": "",
-      "note": "『IDOL TRIBE』\n\n🗓️10/22(木)\n📍心斎橋VARON\n⏰OPEN 17:00 / START 17:20\n\n🎤19:00〜19:20\n📸並行物販C 19:25〜20:25\n\n🎫一般¥1,000 / 前方¥2,000\n※別途2Drink\n\n公式Xフォロー＆告知ポストのRPで各種チケット500円キャッシュバック✨\n\n🔗 https://tiget.net/events/529761\n\n #永遠のセツナLIVE情報",
+      "note": "『IDOL TRIBE』\n\n＼☩🤍特別衣装day🤍☩／\n特別衣装日限定！💪🎌🏃\n20秒写メ取り放題¥2,000\n\n🗓️10/22(木)\n📍心斎橋VARON\n⏰OPEN 17:00 / START 17:20\n\n🎤19:00〜19:20\n📸並行物販C 19:25〜20:25\n\n🎫一般¥1,000 / 前方¥2,000\n※別途2Drink\n\n公式Xフォロー＆告知ポストのRPで各種チケット500円キャッシュバック✨\n\n🔗 https://tiget.net/events/529761\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
@@ -22994,7 +23004,7 @@
       },
       "videos": [],
       "status": 1,
-      "color": 2171169,
+      "color": 15949708,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -23016,8 +23026,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1786517550309,
-      "display_updated_at": 1792065158795,
-      "updated_at": 1792065158796,
+      "display_updated_at": 1792153412602,
+      "updated_at": 1792153412602,
       "created_at": 1786517550309,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -23319,12 +23329,12 @@
       "id": "3031219866964790055",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 5,
+        "label_id": 7,
         "public_calendar_id": 1000504002,
-        "name": "ライブ",
-        "color": 2171169,
-        "order": 2,
-        "updated_at": 1772261467216,
+        "name": "特別衣装日",
+        "color": 15949708,
+        "order": 7,
+        "updated_at": 1792153400051,
         "created_at": 1739887373969
       },
       "title": "①👻🎃 『HALLOWEEN OSAKA IDOL』🎤08:40~09:00📸09:15~10:15",
@@ -23348,7 +23358,7 @@
       },
       "videos": [],
       "status": 1,
-      "color": 2171169,
+      "color": 15949708,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -23370,8 +23380,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1786517566814,
-      "display_updated_at": 1792066161489,
-      "updated_at": 1792066161489,
+      "display_updated_at": 1792153425574,
+      "updated_at": 1792153425575,
       "created_at": 1786517566814,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -23383,12 +23393,12 @@
       "id": "3071824343237068957",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 5,
+        "label_id": 7,
         "public_calendar_id": 1000504002,
-        "name": "ライブ",
-        "color": 2171169,
-        "order": 2,
-        "updated_at": 1772261467216,
+        "name": "特別衣装日",
+        "color": 15949708,
+        "order": 7,
+        "updated_at": 1792153400051,
         "created_at": 1739887373969
       },
       "title": "②👻🎃 『HALLOWEEN OSAKA IDOL』🎤16:00~16:20📸16:35~17:35",
@@ -23412,7 +23422,7 @@
       },
       "videos": [],
       "status": 1,
-      "color": 2171169,
+      "color": 15949708,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -23434,8 +23444,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791357997582,
-      "display_updated_at": 1792066148792,
-      "updated_at": 1792066148793,
+      "display_updated_at": 1792153434710,
+      "updated_at": 1792153434711,
       "created_at": 1791357997583,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -23447,12 +23457,12 @@
       "id": "3077765160774601376",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 7,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "特別衣装日",
+        "color": 15949708,
+        "order": 7,
+        "updated_at": 1792153400051,
         "created_at": 1739887373969
       },
       "title": "👻🎃大阪【未解禁】",
@@ -23466,7 +23476,7 @@
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 15949708,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -23488,8 +23498,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792066198220,
-      "display_updated_at": 1792066198220,
-      "updated_at": 1792066198221,
+      "display_updated_at": 1792153442252,
+      "updated_at": 1792153442263,
       "created_at": 1792066198221,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -23555,15 +23565,15 @@
       "id": "3071829018325747750",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 6,
+        "label_id": 5,
         "public_calendar_id": 1000504002,
-        "name": "重要ライブ",
-        "color": 15153979,
-        "order": 3,
-        "updated_at": 1772261467291,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "🔥重要ライブ🔥【未解禁】",
+      "title": "兵庫【未解禁】",
       "headline": "",
       "note": "",
       "link_url": "",
@@ -23574,7 +23584,7 @@
       },
       "videos": [],
       "status": 1,
-      "color": 15153979,
+      "color": 2171169,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -23596,8 +23606,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791358554896,
-      "display_updated_at": 1791358579315,
-      "updated_at": 1791358579316,
+      "display_updated_at": 1792154164150,
+      "updated_at": 1792154164150,
       "created_at": 1791358554896,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -23609,17 +23619,17 @@
       "id": "3071200954352863367",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 5,
+        "label_id": 6,
         "public_calendar_id": 1000504002,
-        "name": "ライブ",
-        "color": 2171169,
-        "order": 2,
-        "updated_at": 1772261467216,
+        "name": "重要ライブ",
+        "color": 15153979,
+        "order": 3,
+        "updated_at": 1772261467291,
         "created_at": 1739887373969
       },
       "title": "【VIVID SOUND CIRCUIT】",
       "headline": "",
-      "note": "【VIVID SOUND CIRCUIT】\n\n🗓11月30日(月)\n📍FANJ twice / アメリカ村DROP / アメリカ村BEYOND / ナンバーゲート / AtlantiQs / panhead groove\n⏰OPEN TBS / START TBS\n🎫優先 ¥3,000 / 一般入場無料‼️\n🔗 ticketdive.com/event/VIVIDSOU…\n\n※タイムテーブルは後日公開‼️\n\n #永遠のセツナLIVE情報",
+      "note": "【VIVID SOUND CIRCUIT】\n\n🗓11月30日(月)\n📍FANJ twice / アメリカ村DROP / アメリカ村BEYOND / ナンバーゲート / AtlantiQs / panhead groove\n⏰OPEN TBS / START TBS\n🎫優先 ¥3,000 / 一般入場無料‼️\n🔗https://ticketdive.com/event/VIVIDSOUNDCIRCUIT1130\n\n※タイムテーブルは後日公開‼️\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
@@ -23633,7 +23643,7 @@
       },
       "videos": [],
       "status": 1,
-      "color": 2171169,
+      "color": 15153979,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -23655,8 +23665,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791283683836,
-      "display_updated_at": 1791283683836,
-      "updated_at": 1791283683837,
+      "display_updated_at": 1792154130907,
+      "updated_at": 1792154130908,
       "created_at": 1791283683837,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -42747,7 +42757,7 @@
       "display_updated_at": 1791997248324,
       "updated_at": 1791997248325,
       "created_at": 1791447198629,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -42765,13 +42775,18 @@
         "updated_at": 1791946210754,
         "created_at": 1748759551166
       },
-      "title": "ライブ",
+      "title": "Live BAR BK🎤20:05〜20:25📸21:30〜22:30",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/0c2c/2026-10-16/0-1792151070797.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/0c2c/2026-10-16/0-1792151070797.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
@@ -42798,8 +42813,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791447206290,
-      "display_updated_at": 1791447206290,
-      "updated_at": 1791447206291,
+      "display_updated_at": 1792151071338,
+      "updated_at": 1792151071338,
       "created_at": 1791447206291,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -43006,7 +43021,7 @@
         "updated_at": 1791946210754,
         "created_at": 1748759551166
       },
-      "title": "ナンバーゲート",
+      "title": "ナンバーゲート🎤18:00〜18:15📸18:30〜19:30",
       "headline": "",
       "note": "",
       "link_url": "",
@@ -43044,8 +43059,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789454084953,
-      "display_updated_at": 1789454084953,
-      "updated_at": 1789454084954,
+      "display_updated_at": 1792152252261,
+      "updated_at": 1792152252262,
       "created_at": 1789454084954,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -43675,6 +43690,65 @@
       "display_updated_at": 1792125897314,
       "updated_at": 1792125897315,
       "created_at": 1792125897315,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "&youth!",
+      "_calendar_id": "andyouthchannel"
+    },
+    {
+      "id": "3078492730566861497",
+      "public_calendar_id": 1001305048,
+      "public_calendar_label": {
+        "label_id": 7,
+        "public_calendar_id": 1001305048,
+        "name": "",
+        "color": 15949708,
+        "order": 1,
+        "updated_at": 1791946210754,
+        "created_at": 1748759551166
+      },
+      "title": "ナンバーゲート",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/5e3c/2026-10-16/0-1792152930679.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5e3c/2026-10-16/0-1792152930679.jpg"
+          }
+        ],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 15949708,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1795132800000,
+      "end_at": 1795132800000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1795219199000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/andyouthchannel/3078492730566861497",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1792152931298,
+      "display_updated_at": 1792152931298,
+      "updated_at": 1792152931299,
+      "created_at": 1792152931299,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
@@ -59900,26 +59974,31 @@
       "id": "3072055424734319782",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『DINNER and LIVE!!』",
       "headline": "",
-      "note": "",
+      "note": "🗓10月17日(土)\n『DINNER and LIVE!!』\n📍Live Bar BK\n⏱OPEN 19:30/ START 19:45\n💰予約：¥3,000\n当日：¥4,000\n※チケット代にカレー1杯が含まれています。\n🎫https://t-dv.com/DINNER1017\n➡️10/17 19:45迄\n\n🎤19:45〜20:05\n📸21:30〜22:30\n\n🩵お目当て特典🩵\nお目当て券1枚+1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/41c6/2026-10-16/0-1792180367009.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/41c6/2026-10-16/0-1792180367009.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -59941,8 +60020,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791385544643,
-      "display_updated_at": 1791385544643,
-      "updated_at": 1791385544643,
+      "display_updated_at": 1792180367789,
+      "updated_at": 1792180367790,
       "created_at": 1791385544643,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -60018,26 +60097,31 @@
       "id": "3071720805837166261",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 2,
-        "updated_at": 1783055743328,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】未解禁",
+      "title": "【大阪】『ふるまっくす vol.1』",
       "headline": "",
-      "note": "",
+      "note": "🗓10月18日(日)\n『ふるまっくす vol.1』\n📍北堀江club vijon\n⏱OPEN 11:00/ START 11:20\n💰優先：¥2,000\n一般：1,000\n+1D\n🎫https://tiget.net/events/531454\n➡️10/16 18:00〜\n\n🎤12:00〜12:20\n📸12:25〜13:25\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/69ba/2026-10-16/0-1792184087284.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/69ba/2026-10-16/0-1792184087284.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -60059,8 +60143,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791345654962,
-      "display_updated_at": 1791345654962,
-      "updated_at": 1791345654963,
+      "display_updated_at": 1792184088183,
+      "updated_at": 1792184088184,
       "created_at": 1791345654963,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -60141,17 +60225,22 @@
       },
       "title": "【大阪】『AURORA FES』",
       "headline": "",
-      "note": "🗓10月22日(木)\n『AURORA FES』\n📍ナンバーゲート\n⏱OPEN 16:40/ START 17:00\n💰前方エリア：¥2,500\n一般：¥1,000\n当日：+¥1,000\n+各1D\n🎫https://tiget.net/events/522141\n\nタイムテーブルは後日解禁..🩵\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
+      "note": "🗓10月22日(木)\n『AURORA FES』\n📍ナンバーゲート\n⏱OPEN 16:40/ START 17:00\n💰前方エリア：¥2,500\n一般：¥1,000\n当日：+¥1,000\n+各1D\n🎫https://tiget.net/events/522141\n\n🎤17:45〜18:00\n📸18:30〜19:30（5F第3スタジオ）\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/66cf/2026-09-16/0-1789579842059.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/66cf/2026-09-16/0-1789579842059.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/3a6c/2026-10-16/0-1792180530634.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/3a6c/2026-10-16/0-1792180530634.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/96e4/2026-10-16/0-1792180532083.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/96e4/2026-10-16/0-1792180532083.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -60177,8 +60266,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1784686067838,
-      "display_updated_at": 1789579842740,
-      "updated_at": 1789579842741,
+      "display_updated_at": 1792180532965,
+      "updated_at": 1792180532966,
       "created_at": 1784686067840,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -60420,26 +60509,36 @@
       "id": "3057311142207149800",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 2,
-        "updated_at": 1783055743328,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
       "title": "【大阪】『TUNE~心斎橋circuit~』",
       "headline": "",
-      "note": "🗓10月25日(日)\n『TUNE~心斎橋circuit~』\n📍OSAKARUIDO\n⏱OPEN 11:00/ START 11:20\n💰優先エリア：¥4,000（＋1D)\n一般エリア：¥2,000（＋1D）\n※2会場共通チケット(サーキット)\n\n🎤16:45〜17:10\n📸17:15〜18:15\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
+      "note": "🗓10月25日(日)\n『TUNE~心斎橋circuit~』\n📍OSAKARUIDO\n⏱OPEN 10:35/ START 10:55\n💰優先エリア：¥4,000（＋1D)\n一般エリア：¥2,000（＋1D）\n※2会場共通チケット(サーキット)\n🎫https://ticketdive.com/event/2026_1025_TUNE\n➡️10/15 21:30〜10/25 10:20\n\n🎤16:45〜17:10\n📸17:15〜18:15\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/24cd/2026-10-16/0-1792182059715.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/24cd/2026-10-16/0-1792182059715.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/c833/2026-10-16/0-1792182064103.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c833/2026-10-16/0-1792182064103.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -60461,9 +60560,63 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789627889198,
-      "display_updated_at": 1791940255514,
-      "updated_at": 1791940255515,
+      "display_updated_at": 1792182224523,
+      "updated_at": 1792182224524,
       "created_at": 1789627889200,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "Serenade",
+      "_calendar_id": "s1220"
+    },
+    {
+      "id": "3078715374457968531",
+      "public_calendar_id": 1002727029,
+      "public_calendar_label": {
+        "label_id": 1,
+        "public_calendar_id": 1002727029,
+        "name": "未解禁",
+        "color": 3067015,
+        "order": 2,
+        "updated_at": 1783055743328,
+        "created_at": 1762145257427
+      },
+      "title": "【大阪】未解禁",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 3067015,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1792972800000,
+      "end_at": 1792972800000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1793059199000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/s1220/3078715374457968531",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1792179472518,
+      "display_updated_at": 1792179472518,
+      "updated_at": 1792179472518,
+      "created_at": 1792179472518,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
@@ -60700,26 +60853,36 @@
       "id": "3058522766867813414",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『HALLOWEEN OSAKA IDOL』",
       "headline": "",
-      "note": "",
+      "note": "🗓10月31日(土)\n『HALLOWEEN OSAKA IDOL』\n📍ナンバーゲート\n⏱OPEN 8:20/ START 8:40\n💰優先：¥2,500 (+1D)\n一般：¥1,500 (+1D)\n🎫https://t-dv.com/HALLOWEENOSAKAIDOL1031\n➡️10/16 18:00〜 10/31 08:40\n\n🎤9:20〜9:40\n📸9:55〜10:55\n\n🎤19:10〜19:30\n📸19:45〜20:45\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/b29d/2026-10-16/0-1792181081071.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/b29d/2026-10-16/0-1792181081071.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/f47f/2026-10-16/0-1792181083269.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/f47f/2026-10-16/0-1792181083269.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -60741,8 +60904,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789772326113,
-      "display_updated_at": 1789772326113,
-      "updated_at": 1789772326113,
+      "display_updated_at": 1792181100369,
+      "updated_at": 1792181100370,
       "created_at": 1789772326113,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -60762,13 +60925,18 @@
         "updated_at": 1783958191190,
         "created_at": 1762145257427
       },
-      "title": "【撮影会】",
+      "title": "【撮影会】『Serenade秋の撮影会・お散歩会』",
       "headline": "",
-      "note": "場所・時間等の詳細は後日解禁します..🩵",
+      "note": "🗓11/1(月)11:00〜\n『Serenade秋の撮影会・お散歩会』\n📍靭公園\n1枠：¥6,000\n※お一人様2枠まで\n衣装：私服\n購入リンク：https://colorpuro.base.shop/categories/7045428\n➡️10/17 21:00〜\n\nSerenadeと一緒に秋の思い出作りましょう🍁🍂",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/0c07/2026-10-16/0-1792156654609.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/0c07/2026-10-16/0-1792156654609.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
@@ -60795,8 +60963,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789118068729,
-      "display_updated_at": 1789118907940,
-      "updated_at": 1789118907952,
+      "display_updated_at": 1792158702201,
+      "updated_at": 1792158702202,
       "created_at": 1789118068739,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -60978,13 +61146,18 @@
         "updated_at": 1783958191190,
         "created_at": 1762145257427
       },
-      "title": "【オフ会】",
+      "title": "【オフ会】『Serenadeと作る！カレーオフ会🍛』",
       "headline": "",
-      "note": "",
+      "note": "『Serenadeと作る！カレーオフ会🍛』\n\n日程：11/14(土)\n場所・時間などの詳細は後日発表します🩵\n\n※予約なども後日解禁となりますので、しばらくお待ちください。",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/757b/2026-10-16/0-1792155775233.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/757b/2026-10-16/0-1792155775233.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
@@ -61011,8 +61184,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791694895097,
-      "display_updated_at": 1791694895097,
-      "updated_at": 1791694895098,
+      "display_updated_at": 1792155800483,
+      "updated_at": 1792155800484,
       "created_at": 1791694895098,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -61202,8 +61375,8 @@
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/04a4/2026-10-07/0-1791346082984.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/04a4/2026-10-07/0-1791346082984.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/b555/2026-10-16/0-1792183761361.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/b555/2026-10-16/0-1792183761361.jpg"
           }
         ],
         "overview": []
@@ -61232,8 +61405,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787542775156,
-      "display_updated_at": 1791346083801,
-      "updated_at": 1791346083814,
+      "display_updated_at": 1792183762213,
+      "updated_at": 1792183762214,
       "created_at": 1787542775157,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -65898,25 +66071,30 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『AURORA FES 3DAYS SP -DAY2-』",
       "headline": "",
-      "note": "",
+      "note": "『AURORA FES 3DAYS SP -DAY2-』\n\n2026年11月19日（木）\n📍ナンバーゲート\n\n前方エリア 2,500円 / 一般 500円 / 当日 +1,000円（+1DRINK600円）\n\ntiget.net/events/531369",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/8259/2026-10-16/0-1792161632582.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/8259/2026-10-16/0-1792161632582.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "#G8「NUMBER GATE」",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.668794,
+      "location_lon": 135.498817,
       "all_day": true,
       "start_at": 1795046400000,
       "end_at": 1795046400000,
@@ -65931,10 +66109,10 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792024312799,
-      "display_updated_at": 1792024312799,
-      "updated_at": 1792024312800,
+      "display_updated_at": 1792161732210,
+      "updated_at": 1792161732210,
       "created_at": 1792024312800,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
@@ -65952,25 +66130,30 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『AURORA FES 3DAYS SP -DAY3-』",
       "headline": "",
-      "note": "",
+      "note": "『AURORA FES 3DAYS SP -DAY3-』\n\n2026年11月20日（金）\n📍ナンバーゲート\n\n前方エリア 2,500円 / 一般 500円 / 当日 +1,000円（+1DRINK600円）\n\ntiget.net/events/531370",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/fbb3/2026-10-16/0-1792161703135.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/fbb3/2026-10-16/0-1792161703135.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "#G8「NUMBER GATE」",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.668794,
+      "location_lon": 135.498817,
       "all_day": true,
       "start_at": 1795132800000,
       "end_at": 1795132800000,
@@ -65985,10 +66168,10 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792024326644,
-      "display_updated_at": 1792024326644,
-      "updated_at": 1792024326645,
+      "display_updated_at": 1792161704017,
+      "updated_at": 1792161704018,
       "created_at": 1792024326645,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
@@ -66284,8 +66467,8 @@
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/c311/2026-10-05/0-1791210928834.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c311/2026-10-05/0-1791210928834.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/ddd1/2026-10-16/0-1792161753556.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/ddd1/2026-10-16/0-1792161753556.jpg"
           }
         ],
         "overview": []
@@ -66314,8 +66497,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1788355311804,
-      "display_updated_at": 1791210929962,
-      "updated_at": 1791210929972,
+      "display_updated_at": 1792161754477,
+      "updated_at": 1792161754478,
       "created_at": 1788355311805,
       "interest_count": 0,
       "public_calendar_hashtags": [],
