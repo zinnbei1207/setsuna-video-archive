@@ -23127,7 +23127,7 @@
       "display_updated_at": 1789887673814,
       "updated_at": 1789887673829,
       "created_at": 1789887673829,
-      "interest_count": 1,
+      "interest_count": 2,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "永遠のセツナ",
@@ -23191,7 +23191,7 @@
       "display_updated_at": 1792065736827,
       "updated_at": 1792065736828,
       "created_at": 1789887687059,
-      "interest_count": 1,
+      "interest_count": 2,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "永遠のセツナ",
@@ -65074,7 +65074,7 @@
       "display_updated_at": 1791025292975,
       "updated_at": 1791025292975,
       "created_at": 1785492786166,
-      "interest_count": 3,
+      "interest_count": 4,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
@@ -65664,17 +65664,22 @@
       },
       "title": "『超！Lovely SP』",
       "headline": "",
-      "note": "『超！Lovely SP』\n\n2026年11月7日（土）\n📍ナンバーゲート\n\nタイムテーブル未定💭\n\n前方エリア 3,000円 / 一般 1,000円 \n当日 +1,000円（+1DRINK600円）\n\nt-dv.com/SLSP_1107",
+      "note": "『超！Lovely SP』\n\n2026年11月7日（土）\n📍ナンバーゲート\n\n🔔Mell Bell出演 / 16:55-17:15\n📸特典会 / 17:30-18:30\n\n前方エリア 3,000円 / 一般 1,000円 / 当日 +1,000円（+1DRINK600円）",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/f844/2026-10-08/0-1791465711025.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/f844/2026-10-08/0-1791465711025.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/e329/2026-10-16/0-1792108933120.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/e329/2026-10-16/0-1792108933120.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/fa71/2026-10-16/0-1792108935050.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/fa71/2026-10-16/0-1792108935050.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -65700,8 +65705,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789731662189,
-      "display_updated_at": 1791465711657,
-      "updated_at": 1791465711658,
+      "display_updated_at": 1792108937457,
+      "updated_at": 1792108937475,
       "created_at": 1789731662189,
       "interest_count": 0,
       "public_calendar_hashtags": [],
