@@ -23127,7 +23127,7 @@
       "display_updated_at": 1789887673814,
       "updated_at": 1789887673829,
       "created_at": 1789887673829,
-      "interest_count": 1,
+      "interest_count": 2,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "永遠のセツナ",
@@ -23191,7 +23191,7 @@
       "display_updated_at": 1792065736827,
       "updated_at": 1792065736828,
       "created_at": 1789887687059,
-      "interest_count": 1,
+      "interest_count": 2,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "永遠のセツナ",
@@ -42808,7 +42808,66 @@
       "_calendar_id": "andyouthchannel"
     },
     {
-      "id": "3072569458541158895",
+      "id": "3078266516610704094",
+      "public_calendar_id": 1001305048,
+      "public_calendar_label": {
+        "label_id": 7,
+        "public_calendar_id": 1001305048,
+        "name": "",
+        "color": 15949708,
+        "order": 1,
+        "updated_at": 1791946210754,
+        "created_at": 1748759551166
+      },
+      "title": "北堀江club vijon🎤11:40〜12:00📸12:05〜13:05",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/01e1/2026-10-16/0-1792125963876.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/01e1/2026-10-16/0-1792125963876.jpg"
+          }
+        ],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 15949708,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1792281600000,
+      "end_at": 1792281600000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1792367999000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/andyouthchannel/3078266516610704094",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1792125964493,
+      "display_updated_at": 1792125964493,
+      "updated_at": 1792125964494,
+      "created_at": 1792125964494,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "&youth!",
+      "_calendar_id": "andyouthchannel"
+    },
+    {
+      "id": "3078267720006853089",
       "public_calendar_id": 1001305048,
       "public_calendar_label": {
         "label_id": 7,
@@ -42827,14 +42886,14 @@
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/838f/2026-10-08/0-1791446820226.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/838f/2026-10-08/0-1791446820226.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/51d6/2026-10-16/0-1792126104830.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/51d6/2026-10-16/0-1792126104830.jpg"
           }
         ],
         "overview": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/ced6/2026-10-08/0-1791446821465.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/ced6/2026-10-08/0-1791446821465.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/d28f/2026-10-16/0-1792126107043.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d28f/2026-10-16/0-1792126107043.jpg"
           }
         ]
       },
@@ -42858,21 +42917,21 @@
       "region_timezone": "Asia/Tokyo",
       "period_closed": null,
       "period_note": null,
-      "url": "https://timetr.ee/p/andyouthchannel/3072569458541158895",
+      "url": "https://timetr.ee/p/andyouthchannel/3078267720006853089",
       "attachment": {},
       "parent_id": "",
-      "publish_at": 1791446822248,
-      "display_updated_at": 1791446822248,
-      "updated_at": 1791446822248,
-      "created_at": 1791446822248,
-      "interest_count": 1,
+      "publish_at": 1792126107950,
+      "display_updated_at": 1792126107950,
+      "updated_at": 1792126107964,
+      "created_at": 1792126107964,
+      "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
       "_calendar_id": "andyouthchannel"
     },
     {
-      "id": "3072570518701826338",
+      "id": "3078267939570278574",
       "public_calendar_id": 1001305048,
       "public_calendar_label": {
         "label_id": 7,
@@ -42891,14 +42950,14 @@
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/a4a2/2026-10-08/0-1791446946996.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/a4a2/2026-10-08/0-1791446946996.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/62fb/2026-10-16/0-1792126132438.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/62fb/2026-10-16/0-1792126132438.jpg"
           }
         ],
         "overview": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/880e/2026-10-08/0-1791446948111.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/880e/2026-10-08/0-1791446948111.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/da9f/2026-10-16/0-1792126133441.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/da9f/2026-10-16/0-1792126133441.jpg"
           }
         ]
       },
@@ -42922,13 +42981,13 @@
       "region_timezone": "Asia/Tokyo",
       "period_closed": null,
       "period_note": null,
-      "url": "https://timetr.ee/p/andyouthchannel/3072570518701826338",
+      "url": "https://timetr.ee/p/andyouthchannel/3078267939570278574",
       "attachment": {},
       "parent_id": "",
-      "publish_at": 1791446948629,
-      "display_updated_at": 1791446948629,
-      "updated_at": 1791446948629,
-      "created_at": 1791446948629,
+      "publish_at": 1792126134123,
+      "display_updated_at": 1792126134123,
+      "updated_at": 1792126134124,
+      "created_at": 1792126134124,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
@@ -43558,6 +43617,65 @@
       "updated_at": 1791946418416,
       "created_at": 1791946418416,
       "interest_count": 1,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "&youth!",
+      "_calendar_id": "andyouthchannel"
+    },
+    {
+      "id": "3078265953072407427",
+      "public_calendar_id": 1001305048,
+      "public_calendar_label": {
+        "label_id": 7,
+        "public_calendar_id": 1001305048,
+        "name": "",
+        "color": 15949708,
+        "order": 1,
+        "updated_at": 1791946210754,
+        "created_at": 1748759551166
+      },
+      "title": "大阪・藤井寺市役所前ふれあい広場",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/3e07/2026-10-16/0-1792125896544.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/3e07/2026-10-16/0-1792125896544.jpg"
+          }
+        ],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 15949708,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1794700800000,
+      "end_at": 1794700800000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1794787199000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/andyouthchannel/3078265953072407427",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1792125897314,
+      "display_updated_at": 1792125897314,
+      "updated_at": 1792125897315,
+      "created_at": 1792125897315,
+      "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -65074,7 +65192,7 @@
       "display_updated_at": 1791025292975,
       "updated_at": 1791025292975,
       "created_at": 1785492786166,
-      "interest_count": 3,
+      "interest_count": 4,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
@@ -65664,17 +65782,22 @@
       },
       "title": "『超！Lovely SP』",
       "headline": "",
-      "note": "『超！Lovely SP』\n\n2026年11月7日（土）\n📍ナンバーゲート\n\nタイムテーブル未定💭\n\n前方エリア 3,000円 / 一般 1,000円 \n当日 +1,000円（+1DRINK600円）\n\nt-dv.com/SLSP_1107",
+      "note": "『超！Lovely SP』\n\n2026年11月7日（土）\n📍ナンバーゲート\n\n🔔Mell Bell出演 / 16:55-17:15\n📸特典会 / 17:30-18:30\n\n前方エリア 3,000円 / 一般 1,000円 / 当日 +1,000円（+1DRINK600円）",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/f844/2026-10-08/0-1791465711025.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/f844/2026-10-08/0-1791465711025.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/e329/2026-10-16/0-1792108933120.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/e329/2026-10-16/0-1792108933120.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/fa71/2026-10-16/0-1792108935050.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/fa71/2026-10-16/0-1792108935050.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -65700,8 +65823,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789731662189,
-      "display_updated_at": 1791465711657,
-      "updated_at": 1791465711658,
+      "display_updated_at": 1792108937457,
+      "updated_at": 1792108937475,
       "created_at": 1789731662189,
       "interest_count": 0,
       "public_calendar_hashtags": [],
