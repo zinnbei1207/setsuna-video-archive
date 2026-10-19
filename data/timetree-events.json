@@ -60212,6 +60212,60 @@
       "_calendar_id": "s1220"
     },
     {
+      "id": "3080504480414422865",
+      "public_calendar_id": 1002727029,
+      "public_calendar_label": {
+        "label_id": 10,
+        "public_calendar_id": 1002727029,
+        "name": "ライブ予定(未確定)",
+        "color": 11766748,
+        "order": 3,
+        "updated_at": 1783055743335,
+        "created_at": 1762145257427
+      },
+      "title": "【大阪】ライブ予定",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 11766748,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1792540800000,
+      "end_at": 1792540800000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1792627199000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/s1220/3080504480414422865",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1792392750568,
+      "display_updated_at": 1792392750568,
+      "updated_at": 1792392750569,
+      "created_at": 1792392750569,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "Serenade",
+      "_calendar_id": "s1220"
+    },
+    {
       "id": "3015856140012082954",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
@@ -60966,7 +61020,7 @@
       "display_updated_at": 1792158702201,
       "updated_at": 1792158702202,
       "created_at": 1789118068739,
-      "interest_count": 1,
+      "interest_count": 2,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "Serenade",
@@ -65673,25 +65727,35 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『IDOL TRIBE』",
       "headline": "",
-      "note": "",
+      "note": "『IDOL TRIBE』\n\n2026年10月30日（金）\n📍梅田BANGBOO\n\n🔔Mell Bell出演 / 20:00-20:20\n📸特典会 / 21:40-22:40\n\n前方 /￥2,000\n一般 /￥1,000\n\n10/19 22:00受付開始\ntiget.net/events/532146",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/21cf/2026-10-19/0-1792414482890.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/21cf/2026-10-19/0-1792414482890.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/ab77/2026-10-19/0-1792414483742.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/ab77/2026-10-19/0-1792414483742.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "梅田 BANGBOO",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.702955,
+      "location_lon": 135.503032,
       "all_day": true,
       "start_at": 1793318400000,
       "end_at": 1793318400000,
@@ -65706,8 +65770,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1788069611293,
-      "display_updated_at": 1788069611293,
-      "updated_at": 1788069611300,
+      "display_updated_at": 1792414484444,
+      "updated_at": 1792414484445,
       "created_at": 1788069611300,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -65729,20 +65793,20 @@
       },
       "title": "『HALLOWEEN OSAKA IDOL』",
       "headline": "",
-      "note": "『HALLOWEEN OSAKA IDOL』\n\n2026年10月31日(土)\n📍ナンバーゲート\n\n🔔Mell Bell出演\n①10:45-11:05\n②14:55-15:15 \n\n📸特典会 \n①11:20-12:20\n②15:30-16:30\n\n優先 ¥2,500 / 一般 ¥1,500 (+1D)\n【予約】\nt-dv.com/HALLOWEENOSAKA…\n→10/16 18:00〜 10/31 08:40",
+      "note": "『HALLOWEEN OSAKA IDOL』\n\n2026年10月31日(土)\n📍ナンバーゲート\n\n🔔Mell Bell出演\n①10:45-11:05\n②13:30-13:50\n\n📸特典会 \n①11:20-12:20\n②14:05-15:05\n\n優先 ¥2,500 / 一般 ¥1,500 (+1D)\n【予約】\nt-dv.com/HALLOWEENOSAKA…\n→10/16 18:00〜 10/31 08:40",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/a39a/2026-10-15/0-1792055816443.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/a39a/2026-10-15/0-1792055816443.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/59b3/2026-10-19/0-1792414945026.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/59b3/2026-10-19/0-1792414945026.jpg"
           }
         ],
         "overview": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/85f2/2026-10-15/0-1792055818796.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/85f2/2026-10-15/0-1792055818796.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/868b/2026-10-19/0-1792414946792.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/868b/2026-10-19/0-1792414946792.jpg"
           }
         ]
       },
@@ -65770,8 +65834,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1785492800178,
-      "display_updated_at": 1792055819445,
-      "updated_at": 1792055819446,
+      "display_updated_at": 1792414947634,
+      "updated_at": 1792414947635,
       "created_at": 1785492800178,
       "interest_count": 0,
       "public_calendar_hashtags": [],
