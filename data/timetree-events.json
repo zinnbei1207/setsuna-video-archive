@@ -43266,14 +43266,32 @@
         "updated_at": 1791946210754,
         "created_at": 1748759551166
       },
-      "title": "ライブ",
+      "title": "ドン・キホーテ梅田🎤15:15〜15:30📸15:35〜16:15",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/394d/2026-10-20/0-1792497018785.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/394d/2026-10-20/0-1792497018785.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/a606/2026-10-20/0-1792497020236.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/a606/2026-10-20/0-1792497020236.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/837e/2026-10-20/0-1792497022302.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/837e/2026-10-20/0-1792497022302.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/e07a/2026-10-20/0-1792497023488.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/e07a/2026-10-20/0-1792497023488.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -43299,8 +43317,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791946085857,
-      "display_updated_at": 1791946085857,
-      "updated_at": 1791946085858,
+      "display_updated_at": 1792497024297,
+      "updated_at": 1792497024298,
       "created_at": 1791946085858,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -43546,14 +43564,28 @@
         "updated_at": 1791946210754,
         "created_at": 1748759551166
       },
-      "title": "ライブ",
+      "title": "🎃梅田BANGBOO 🎤21:10〜21:30📸21:40〜22:40",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/f7e1/2026-10-20/0-1792497088862.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/f7e1/2026-10-20/0-1792497088862.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/417c/2026-10-20/0-1792497090281.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/417c/2026-10-20/0-1792497090281.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/571a/2026-10-20/0-1792497092880.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/571a/2026-10-20/0-1792497092880.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -43579,8 +43611,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791946159362,
-      "display_updated_at": 1791946159362,
-      "updated_at": 1791946159363,
+      "display_updated_at": 1792497105249,
+      "updated_at": 1792497105264,
       "created_at": 1791946159363,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -60333,31 +60365,26 @@
       "id": "3080504480414422865",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 3,
+        "label_id": 10,
         "public_calendar_id": 1002727029,
-        "name": "解禁済み",
-        "color": 4698871,
-        "order": 1,
-        "updated_at": 1783055743311,
+        "name": "ライブ予定(未確定)",
+        "color": 11766748,
+        "order": 3,
+        "updated_at": 1783055743335,
         "created_at": 1762145257427
       },
-      "title": "【大阪】『DaDaDa』",
+      "title": "【大阪】ライブ予定",
       "headline": "",
-      "note": "🗓10月21日(水)\n『DaDaDa』\n📍OSAKA MUSE\n⏱OPEN 17:45/ START 18:00\n💰優先：¥2,000 (+1D)\n一般：¥1,000 (+1D)\n🎫https://t-dv.com/DaDaDa1021\n➡️10/20 22:00〜 10/21 18:00\n\n🎤19:00〜19:20\n📸20:50〜21:50\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
+      "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/9e14/2026-10-20/0-1792492840972.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/9e14/2026-10-20/0-1792492840972.jpg"
-          }
-        ],
+        "cover": [],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 4698871,
+      "color": 11766748,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -60379,8 +60406,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792392750568,
-      "display_updated_at": 1792492841615,
-      "updated_at": 1792492841616,
+      "display_updated_at": 1792392750568,
+      "updated_at": 1792392750569,
       "created_at": 1792392750569,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -60814,22 +60841,17 @@
       },
       "title": "【大阪】『SCLIVE -Halloween-』",
       "headline": "",
-      "note": "🗓10月28日(水)\n『SCLIVE -Halloween-』\n📍Yogibo HOLY MOUNTAIN\n⏱OPEN 17:40/ START 18:00\n💰優先：¥2,500\n一般：¥1,000\n女性：¥500\n+1D\n🎫https://t-dv.com/SCLIVEHalloween1028\n\n🎤17:50〜18:05\n📸18:10〜19:00\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n衣装：ハロウィン特別衣装🎃\n\n#SerenadeLIVE情報",
+      "note": "🗓10月28日(水)\n『SCLIVE -Halloween-』\n📍Yogibo HOLY MOUNTAIN & META VALLY\n⏱OPEN 17:40/ START 18:00\n💰優先：¥2,500\n一般：¥1,000\n女性：¥500\n+1D\n🎫https://t-dv.com/SCLIVEHalloween1028\n\nタイムテーブルは後日解禁..🩵\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n衣装：ハロウィン特別衣装🎃\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/3a14/2026-10-20/0-1792458381594.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/3a14/2026-10-20/0-1792458381594.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/fc0b/2026-10-05/0-1791184668621.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/fc0b/2026-10-05/0-1791184668621.jpg"
           }
         ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/6c63/2026-10-20/0-1792458390889.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6c63/2026-10-20/0-1792458390889.jpg"
-          }
-        ]
+        "overview": []
       },
       "videos": [],
       "status": 1,
@@ -60855,8 +60877,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792330200000,
-      "display_updated_at": 1792458391884,
-      "updated_at": 1792458391897,
+      "display_updated_at": 1792330200000,
+      "updated_at": 1792330011837,
       "created_at": 1789773129657,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -60868,40 +60890,26 @@
       "id": "3024807288383329983",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 3,
+        "label_id": 1,
         "public_calendar_id": 1002727029,
-        "name": "解禁済み",
-        "color": 4698871,
-        "order": 1,
-        "updated_at": 1783055743311,
+        "name": "未解禁",
+        "color": 3067015,
+        "order": 2,
+        "updated_at": 1783055743328,
         "created_at": 1762145257427
       },
-      "title": "【大阪】『IDOL TRIBE』",
+      "title": "【大阪】未解禁",
       "headline": "",
-      "note": "🗓10月30日(金)\n『IDOL TRIBE』\n📍梅田BANGBOO\n⏱OPEN 16:30/START 16:50\n💰前方：¥2,000\n一般：¥1,000\n当日¥500\n+1D\n🎫https://tiget.net/events/532146\n\n🎤17:30〜17:50\n📸17:55〜18:55\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
+      "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/5346/2026-10-20/0-1792458067128.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5346/2026-10-20/0-1792458067128.jpg"
-          }
-        ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/1a75/2026-10-20/0-1792458070089.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/1a75/2026-10-20/0-1792458070089.jpg"
-          },
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/01aa/2026-10-20/0-1792458071829.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/01aa/2026-10-20/0-1792458071829.jpg"
-          }
-        ]
+        "cover": [],
+        "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 4698871,
+      "color": 3067015,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -60923,8 +60931,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1785753127876,
-      "display_updated_at": 1792458072628,
-      "updated_at": 1792458072641,
+      "display_updated_at": 1785753127876,
+      "updated_at": 1785753127877,
       "created_at": 1785753127877,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -61059,20 +61067,20 @@
       },
       "title": "【大阪】『HALLOWEEN OSAKA IDOL』",
       "headline": "",
-      "note": "🗓10月31日(土)\n『HALLOWEEN OSAKA IDOL』\n📍ナンバーゲート\n⏱OPEN 8:20/ START 8:40\n💰優先：¥2,500 (+1D)\n一般：¥1,500 (+1D)\n🎫https://t-dv.com/HALLOWEENOSAKAIDOL1031\n➡️10/16 18:00〜 10/31 08:40\n\n🎤9:20〜9:40\n📸9:55〜10:55\n\n🎤12:10〜12:30\n📸12:45〜13:45\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n衣装：ハロウィン特別衣装🎃\n\n#SerenadeLIVE情報",
+      "note": "🗓10月31日(土)\n『HALLOWEEN OSAKA IDOL』\n📍ナンバーゲート\n⏱OPEN 8:20/ START 8:40\n💰優先：¥2,500 (+1D)\n一般：¥1,500 (+1D)\n🎫https://t-dv.com/HALLOWEENOSAKAIDOL1031\n➡️10/16 18:00〜 10/31 08:40\n\n🎤9:20〜9:40\n📸9:55〜10:55\n\n🎤19:10〜19:30\n📸19:45〜20:45\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n衣装：ハロウィン特別衣装🎃\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/e374/2026-10-20/0-1792458722822.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/e374/2026-10-20/0-1792458722822.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/b29d/2026-10-16/0-1792181081071.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/b29d/2026-10-16/0-1792181081071.jpg"
           }
         ],
         "overview": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/84e6/2026-10-20/0-1792458726948.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/84e6/2026-10-20/0-1792458726948.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/f47f/2026-10-16/0-1792181083269.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/f47f/2026-10-16/0-1792181083269.jpg"
           }
         ]
       },
@@ -61100,8 +61108,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792330200000,
-      "display_updated_at": 1792458727623,
-      "updated_at": 1792458727624,
+      "display_updated_at": 1792330200000,
+      "updated_at": 1792330059881,
       "created_at": 1789772326113,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -61280,31 +61288,26 @@
       "id": "3073046852537013860",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 3,
+        "label_id": 1,
         "public_calendar_id": 1002727029,
-        "name": "解禁済み",
-        "color": 4698871,
-        "order": 1,
-        "updated_at": 1783055743311,
+        "name": "未解禁",
+        "color": 3067015,
+        "order": 2,
+        "updated_at": 1783055743328,
         "created_at": 1762145257427
       },
-      "title": "【大阪】『EBISUBASHI IDOL LIVE VOL.7』",
+      "title": "【大阪】未解禁",
       "headline": "",
-      "note": "🗓11月13日(金)\n『EBISUBASHI IDOL LIVE VOL.7』\n📍TSUTAYA EBISUBASHI イベントスペース\n⏱OPEN 18:30/ START 19:00\n💰詳細は下記のリンクをご確認お願いします。\n🎫https://cloud-pass.jp/get/c4e9456af3fdef9c6c3b2afc5531932d37ca74c6d15d122384319548c4ed29a5\n\n🩵お目当て特典🩵\n優先(前方)：お目当て券1枚+1P\n一般(後方)：1P\n\n#SerenadeLIVE情報",
+      "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/44a4/2026-10-20/0-1792459348447.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/44a4/2026-10-20/0-1792459348447.jpg"
-          }
-        ],
+        "cover": [],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 4698871,
+      "color": 3067015,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -61326,8 +61329,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791503732047,
-      "display_updated_at": 1792459348990,
-      "updated_at": 1792459348991,
+      "display_updated_at": 1791503732047,
+      "updated_at": 1791503732048,
       "created_at": 1791503732048,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -65648,25 +65651,30 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『IDOL TRIBE』",
       "headline": "",
-      "note": "",
+      "note": "『IDOL TRIBE』\n\n2026年10月24日(土)\n📍ドン・キホーテ梅田本店\n\n🔔Mell Bell出演 / 13:00-13:15\n📸特典会 / 13:50-14:30\n\n観覧無料\n撮影PASS/1000円\n応援ブレスレット/1000円",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/9f4c/2026-10-20/0-1792507676008.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/9f4c/2026-10-20/0-1792507676008.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "ドン・キホーテ 梅田本店",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.703258,
+      "location_lon": 135.501041,
       "all_day": true,
       "start_at": 1792800000000,
       "end_at": 1792800000000,
@@ -65681,8 +65689,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789282957806,
-      "display_updated_at": 1789282957806,
-      "updated_at": 1789282957806,
+      "display_updated_at": 1792507691580,
+      "updated_at": 1792507691581,
       "created_at": 1789282957806,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -65887,14 +65895,14 @@
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/21cf/2026-10-19/0-1792414482890.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/21cf/2026-10-19/0-1792414482890.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/8985/2026-10-20/0-1792509543698.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/8985/2026-10-20/0-1792509543698.jpg"
           }
         ],
         "overview": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/ab77/2026-10-19/0-1792414483742.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/ab77/2026-10-19/0-1792414483742.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/22bc/2026-10-20/0-1792509545655.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/22bc/2026-10-20/0-1792509545655.jpg"
           }
         ]
       },
@@ -65922,8 +65930,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1788069611293,
-      "display_updated_at": 1792414484444,
-      "updated_at": 1792414484445,
+      "display_updated_at": 1792509546355,
+      "updated_at": 1792509546356,
       "created_at": 1788069611300,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -66061,25 +66069,30 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『aiDolce料理対決vol.99～永遠のセツナ＆Mell Bell～ 』",
       "headline": "",
-      "note": "",
+      "note": "『aiDolce料理対決vol.99～永遠のセツナ＆Mell Bell～ 』\n\n2026年11月1日(日)\n📍 aiDolce/神戸三宮\n\nOP 12:00 / ST 12:30\n\n前売 4,500円(当日＋500円)\n※ワンプレートのお食事・ワンドリンク代込み\n\nt-dv.com/1101cook\n10/21 20:00~",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/741c/2026-10-20/0-1792503063126.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/741c/2026-10-20/0-1792503063126.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "aiDolce",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.695553,
+      "location_lon": 135.196404,
       "all_day": true,
       "start_at": 1793491200000,
       "end_at": 1793491200000,
@@ -66094,8 +66107,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792061673806,
-      "display_updated_at": 1792061673806,
-      "updated_at": 1792061673807,
+      "display_updated_at": 1792503063756,
+      "updated_at": 1792503063757,
       "created_at": 1792061673807,
       "interest_count": 0,
       "public_calendar_hashtags": [],
