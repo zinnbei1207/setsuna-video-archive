@@ -142,5 +142,41 @@
     "postStatus": "未設定",
     "storage": "",
     "memo": ""
+  },
+  {
+    "id": 425,
+    "sourceSheet": "その他のデータ",
+    "sourceNo": 18,
+    "group": "その他",
+    "date": "2026-04-25",
+    "filename": "VID20260425145947.mp4",
+    "content": "2026.04.25 ブレリミ（イベント名未確認）",
+    "place": "",
+    "kind": "その他",
+    "disc": "",
+    "discStatus": "",
+    "queue": null,
+    "editStatus": "未設定",
+    "postStatus": "未設定",
+    "storage": "",
+    "memo": "ユーザー確認：ブレリミの映像。保存先: 0425_live/ブレリミ/VID20260425145947.mp4。サブHDD 2026年フォルダの一覧に存在。イベント名・会場・ディスク保存状況は未確認。"
+  },
+  {
+    "id": 426,
+    "sourceSheet": "その他のデータ",
+    "sourceNo": 19,
+    "group": "その他",
+    "date": "2026-04-25",
+    "filename": "VID20260425151013.mp4",
+    "content": "2026.04.25 ブレリミ（イベント名未確認）",
+    "place": "",
+    "kind": "その他",
+    "disc": "",
+    "discStatus": "",
+    "queue": null,
+    "editStatus": "未設定",
+    "postStatus": "未設定",
+    "storage": "",
+    "memo": "ユーザー確認：ブレリミの映像。保存先: 0425_live/ブレリミ/VID20260425151013.mp4。サブHDD 2026年フォルダの一覧に存在。イベント名・会場・ディスク保存状況は未確認。"
   }
 ]
