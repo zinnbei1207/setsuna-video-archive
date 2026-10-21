@@ -22965,7 +22965,7 @@
       "display_updated_at": 1791283085444,
       "updated_at": 1791283085445,
       "created_at": 1791283085445,
-      "interest_count": 0,
+      "interest_count": 2,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "永遠のセツナ",
@@ -23098,26 +23098,31 @@
       "id": "3059490302320117817",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 5,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "大阪【未解禁】",
+      "title": "『夜の新世界でライブやりまんねん！』🎤19:35~19:55📸20:20~21:20",
       "headline": "",
-      "note": "",
+      "note": "『夜の新世界でライブやりまんねん！』\n\n🗓️10月24日(土)\n📍TMDホール\n⏰OPEN 16:00 / START 16:30\n🎫前方 ¥1,500 / 一般 ¥500\n※各1ドリンク代別・当日各＋¥500\n\n🎤19:35〜19:55\n📸20:20〜21:20（終演後C）\n\n🎁ご来場者全員におつまみプレゼント！\n\n🎫t-dv.com/tmd1024_2\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/aa3d/2026-10-21/0-1792592069116.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/aa3d/2026-10-21/0-1792592069116.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 2171169,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -23139,8 +23144,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789887665327,
-      "display_updated_at": 1789887665327,
-      "updated_at": 1789887665328,
+      "display_updated_at": 1792592069734,
+      "updated_at": 1792592069735,
       "created_at": 1789887665328,
       "interest_count": 2,
       "public_calendar_hashtags": [],
@@ -23152,26 +23157,44 @@
       "id": "3059490373514234676",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 5,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "大阪【未解禁】",
+      "title": "【IDOL TRIBE】🎤16:20~16:35📸16:55~17:55",
       "headline": "",
-      "note": "",
+      "note": "【IDOL TRIBE】\n\n🗓️10月24日(土)\n📍ドン・キホーテ梅田本店\n🎤START 13:00\n🎫観覧無料（撮影PASS ¥1,000）\n\n🎤16:20~16:35\n📸16:55~17:55\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/cee8/2026-10-21/0-1792592152869.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/cee8/2026-10-21/0-1792592152869.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/a076/2026-10-21/0-1792592153671.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/a076/2026-10-21/0-1792592153671.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/a2f3/2026-10-21/0-1792592154582.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/a2f3/2026-10-21/0-1792592154582.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/c045/2026-10-21/0-1792592155272.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c045/2026-10-21/0-1792592155272.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 2171169,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -23193,8 +23216,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789887673814,
-      "display_updated_at": 1789887673814,
-      "updated_at": 1789887673829,
+      "display_updated_at": 1792592155894,
+      "updated_at": 1792592155895,
       "created_at": 1789887673829,
       "interest_count": 2,
       "public_calendar_hashtags": [],
@@ -23624,26 +23647,31 @@
       "id": "3071824482831894650",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 3,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "イベント",
+        "color": 4698871,
+        "order": 4,
+        "updated_at": 1772261467304,
         "created_at": 1739887373969
       },
-      "title": "大阪【未解禁】",
+      "title": "『aiDolce料理対決 vol.99』",
       "headline": "",
-      "note": "",
+      "note": "『aiDolce料理対決 vol.99』\n〜永遠のセツナ＆Mell Bell〜\n\n🗓11月1日(日) \n📍aiDolce（神戸三宮）\n🎫 前売 ¥4,500 / 当日 ¥5,000\n※ワンプレートのお食事・ワンドリンク代込み🍽️\n\n🥟 12:30〜14:00 お料理タイム\n🍴 14:00〜14:30 試食タイム\n📸 14:30〜15:30 特典会（私服＆エプロン姿）\n\nチケットリンクこちら⬇️\n🔗 ticketdive.com/event/1101cook\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/f4bb/2026-10-21/0-1792591996540.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/f4bb/2026-10-21/0-1792591996540.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -23665,8 +23693,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791358014223,
-      "display_updated_at": 1791358014223,
-      "updated_at": 1791358014224,
+      "display_updated_at": 1792591997726,
+      "updated_at": 1792591997738,
       "created_at": 1791358014224,
       "interest_count": 0,
       "public_calendar_hashtags": [],
