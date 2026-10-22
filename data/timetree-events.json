@@ -43476,14 +43476,32 @@
         "updated_at": 1791946210754,
         "created_at": 1748759551166
       },
-      "title": "ライブ",
+      "title": "スパワールド🎤16:10〜16:30📸16:35〜17:35",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/fc35/2026-10-22/0-1792682134405.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/fc35/2026-10-22/0-1792682134405.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/75df/2026-10-22/0-1792682136233.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/75df/2026-10-22/0-1792682136233.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/00b5/2026-10-22/0-1792682137440.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/00b5/2026-10-22/0-1792682137440.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/d2cd/2026-10-22/0-1792682138369.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d2cd/2026-10-22/0-1792682138369.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -43509,8 +43527,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791946123015,
-      "display_updated_at": 1791946123015,
-      "updated_at": 1791946123016,
+      "display_updated_at": 1792682139174,
+      "updated_at": 1792682139187,
       "created_at": 1791946123016,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -43802,6 +43820,70 @@
       "updated_at": 1791946418416,
       "created_at": 1791946418416,
       "interest_count": 1,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "&youth!",
+      "_calendar_id": "andyouthchannel"
+    },
+    {
+      "id": "3082932613054161135",
+      "public_calendar_id": 1001305048,
+      "public_calendar_label": {
+        "label_id": 7,
+        "public_calendar_id": 1001305048,
+        "name": "",
+        "color": 15949708,
+        "order": 1,
+        "updated_at": 1791946210754,
+        "created_at": 1748759551166
+      },
+      "title": "明石公園 西芝生広場🎤12:05～12:25📸並行物販",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/1f1c/2026-10-22/0-1792682203959.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/1f1c/2026-10-22/0-1792682203959.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/61b7/2026-10-22/0-1792682205954.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/61b7/2026-10-22/0-1792682205954.jpg"
+          }
+        ]
+      },
+      "videos": [],
+      "status": 1,
+      "color": 15949708,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1793664000000,
+      "end_at": 1793664000000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1793750399000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/andyouthchannel/3082932613054161135",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1792682206535,
+      "display_updated_at": 1792682206535,
+      "updated_at": 1792682206535,
+      "created_at": 1792682206535,
+      "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -60581,26 +60663,44 @@
       "id": "3037181397545113491",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 2,
-        "updated_at": 1783055743328,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】未解禁",
+      "title": "【大阪】『IDOL TRIBE』",
       "headline": "",
-      "note": "",
+      "note": "🗓10月24日(土)\n『IDOL TRIBE』\n📍ドン・キホーテ梅田本店\n⏱START13:00\n💰観覧無料！\n撮影PASS(1000円)\n応援ブレスレット(1000円)\n\n🎤15:15〜15:30\n📸15:35〜16:15\n\n※撮影PASSをお持ちでない方は撮影NGです。\n応援ブレスレットについては、3枚目の画像をご確認お願いします。\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/2bda/2026-10-22/0-1792671806834.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2bda/2026-10-22/0-1792671806834.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/e5ac/2026-10-22/0-1792671811114.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/e5ac/2026-10-22/0-1792671811114.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/7036/2026-10-22/0-1792671814094.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/7036/2026-10-22/0-1792671814094.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/62b2/2026-10-22/0-1792671818878.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/62b2/2026-10-22/0-1792671818878.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -60622,8 +60722,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787228236638,
-      "display_updated_at": 1787228236638,
-      "updated_at": 1787228236639,
+      "display_updated_at": 1792671819722,
+      "updated_at": 1792671819736,
       "created_at": 1787228236639,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -60941,18 +61041,18 @@
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/5346/2026-10-20/0-1792458067128.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5346/2026-10-20/0-1792458067128.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/edc4/2026-10-22/0-1792671930826.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/edc4/2026-10-22/0-1792671930826.jpg"
           }
         ],
         "overview": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/1a75/2026-10-20/0-1792458070089.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/1a75/2026-10-20/0-1792458070089.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/d834/2026-10-22/0-1792671936701.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d834/2026-10-22/0-1792671936701.jpg"
           },
           {
-            "url": "https://attachments.timetreeapp.com/public_event/01aa/2026-10-20/0-1792458071829.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/01aa/2026-10-20/0-1792458071829.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/b990/2026-10-22/0-1792671938802.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/b990/2026-10-22/0-1792671938802.jpg"
           }
         ]
       },
@@ -60980,8 +61080,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1785753127876,
-      "display_updated_at": 1792458072628,
-      "updated_at": 1792458072641,
+      "display_updated_at": 1792671939356,
+      "updated_at": 1792671939357,
       "created_at": 1785753127877,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -65871,6 +65971,60 @@
       "_calendar_id": "mellbell_0719"
     },
     {
+      "id": "3082707685322359149",
+      "public_calendar_id": 1006291040,
+      "public_calendar_label": {
+        "label_id": 10,
+        "public_calendar_id": 1006291040,
+        "name": "",
+        "color": 11766748,
+        "order": 1,
+        "updated_at": 1784985580350,
+        "created_at": 1784303552628
+      },
+      "title": "ライブ予定🎀🔔",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 11766748,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1792886400000,
+      "end_at": 1792886400000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1792972799000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/mellbell_0719/3082707685322359149",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1792655393061,
+      "display_updated_at": 1792655393061,
+      "updated_at": 1792655393061,
+      "created_at": 1792655393061,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "MellBell",
+      "_calendar_id": "mellbell_0719"
+    },
+    {
       "id": "3067622465590100331",
       "public_calendar_id": 1006291040,
       "public_calendar_label": {
@@ -66397,6 +66551,65 @@
       "_calendar_id": "mellbell_0719"
     },
     {
+      "id": "3082849180704669707",
+      "public_calendar_id": 1006291040,
+      "public_calendar_label": {
+        "label_id": 10,
+        "public_calendar_id": 1006291040,
+        "name": "",
+        "color": 11766748,
+        "order": 1,
+        "updated_at": 1784985580350,
+        "created_at": 1784303552628
+      },
+      "title": "『リリシック学園 竹森琴音生誕祭 -対バン編-』",
+      "headline": "",
+      "note": "『リリシック学園 竹森琴音生誕祭 -対バン編-』\n\n2026年11月15日(日)\n📍大阪RUIDO\n\n🔔Mell Bell出演 / 12:20-12:40\n📸特典会 / 12:50-13:50\n\n優先2,500円(+1D) / 一般1,000円(＋1D)　※当日各+500円\ntiget.net/events/532510\n10/23(金)21:00~",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/9bd0/2026-10-22/0-1792672259876.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/9bd0/2026-10-22/0-1792672259876.jpg"
+          }
+        ],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 11766748,
+      "location_name": "OSAKA RUIDO",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": 34.676937,
+      "location_lon": 135.501365,
+      "all_day": true,
+      "start_at": 1794700800000,
+      "end_at": 1794700800000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1794787199000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/mellbell_0719/3082849180704669707",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1792672260624,
+      "display_updated_at": 1792672260624,
+      "updated_at": 1792672260625,
+      "created_at": 1792672260625,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "MellBell",
+      "_calendar_id": "mellbell_0719"
+    },
+    {
       "id": "3077413800396293087",
       "public_calendar_id": 1006291040,
       "public_calendar_label": {
@@ -66634,25 +66847,30 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『DREAM IDOL in 梅田BANGBOO』",
       "headline": "",
-      "note": "",
+      "note": "『DREAM IDOL in 梅田BANGBOO』\n\n2026年 11月28日（土）\n📍梅田BANGBOO\n\n【OPEN】9:30\n【START】10:00\n\n・女性：500円\n・一般：1,900円\n・優先：3,000円\n\nt-dv.com/DREAMIDOLinUME…\n2026/10/23 22:00 〜 11/28 10:00",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/b4b5/2026-10-22/0-1792702159447.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/b4b5/2026-10-22/0-1792702159447.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "梅田 BANGBOO",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.702955,
+      "location_lon": 135.503032,
       "all_day": true,
       "start_at": 1795824000000,
       "end_at": 1795824000000,
@@ -66667,8 +66885,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1790857188595,
-      "display_updated_at": 1790857188595,
-      "updated_at": 1790857188595,
+      "display_updated_at": 1792702160222,
+      "updated_at": 1792702160223,
       "created_at": 1790857188595,
       "interest_count": 0,
       "public_calendar_hashtags": [],
