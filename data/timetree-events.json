@@ -43819,7 +43819,7 @@
         "updated_at": 1791946210754,
         "created_at": 1748759551166
       },
-      "title": "大阪・藤井寺市役所前ふれあい広場",
+      "title": "大阪・藤井寺市役所前ふれあい広場🎤11:45〜12:00📸12:10〜13:10",
       "headline": "",
       "note": "",
       "link_url": "",
@@ -43831,7 +43831,12 @@
             "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/3e07/2026-10-16/0-1792125896544.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/ee82/2026-10-22/0-1792639815586.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/ee82/2026-10-22/0-1792639815586.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -43857,8 +43862,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792125897314,
-      "display_updated_at": 1792125897314,
-      "updated_at": 1792125897315,
+      "display_updated_at": 1792639816421,
+      "updated_at": 1792639816422,
       "created_at": 1792125897315,
       "interest_count": 1,
       "public_calendar_hashtags": [],
