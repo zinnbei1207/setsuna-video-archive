@@ -23147,7 +23147,7 @@
       "display_updated_at": 1792592069734,
       "updated_at": 1792592069735,
       "created_at": 1789887665328,
-      "interest_count": 3,
+      "interest_count": 2,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "永遠のセツナ",
@@ -43399,7 +43399,7 @@
       "display_updated_at": 1792491459935,
       "updated_at": 1792491459936,
       "created_at": 1791946095088,
-      "interest_count": 1,
+      "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -60735,31 +60735,26 @@
       "id": "3055259412556535761",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 3,
+        "label_id": 1,
         "public_calendar_id": 1002727029,
-        "name": "解禁済み",
-        "color": 4698871,
-        "order": 1,
-        "updated_at": 1783055743311,
+        "name": "未解禁",
+        "color": 3067015,
+        "order": 2,
+        "updated_at": 1783055743328,
         "created_at": 1762145257427
       },
-      "title": "【大阪】『夜の新世界でライブやりまんねん！』",
+      "title": "【大阪】未解禁",
       "headline": "",
-      "note": "🗓10月24日(土)\n『夜の新世界でライブやりまんねん！』\n📍TMDホール\n⏱OPEN / START \n💰前方：¥1,500\n一般：¥500\n+1D\n当日各+¥500\n🎫https://t-dv.com/tmd1024_2\n➡️10/20 22:30〜\n\n🎤18:35〜18:55\n📸19:05〜20:05\n\n🩵お目当て特典🩵\n前方：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
+      "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/973e/2026-10-23/0-1792732180677.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/973e/2026-10-23/0-1792732180677.jpg"
-          }
-        ],
+        "cover": [],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 4698871,
+      "color": 3067015,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -60781,8 +60776,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789383303964,
-      "display_updated_at": 1792732181386,
-      "updated_at": 1792732181387,
+      "display_updated_at": 1789383303964,
+      "updated_at": 1789383303965,
       "created_at": 1789383303965,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -60794,44 +60789,26 @@
       "id": "3037181456307312209",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 3,
+        "label_id": 1,
         "public_calendar_id": 1002727029,
-        "name": "解禁済み",
-        "color": 4698871,
-        "order": 1,
-        "updated_at": 1783055743311,
+        "name": "未解禁",
+        "color": 3067015,
+        "order": 2,
+        "updated_at": 1783055743328,
         "created_at": 1762145257427
       },
-      "title": "【大阪】『IDOL TRIBE』",
+      "title": "【大阪】未解禁",
       "headline": "",
-      "note": "🗓10月25日(日)\n『IDOL TRIBE』\n📍スパワールド\n⏱START14:00\n💰観覧無料！\n前方エリア(1000円)\n撮影PASS(1000円)\n応援ブレスレット(1000円)\n\n🎤14:00〜14:20\n📸14:25〜15:25\n\n※撮影PASSをお持ちでない方は撮影NGです。\n\n#SerenadeLIVE情報",
+      "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/0a4f/2026-10-23/0-1792735118454.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/0a4f/2026-10-23/0-1792735118454.jpg"
-          }
-        ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/5048/2026-10-23/0-1792735119215.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5048/2026-10-23/0-1792735119215.jpg"
-          },
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/1454/2026-10-23/0-1792735120091.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/1454/2026-10-23/0-1792735120091.jpg"
-          },
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/6465/2026-10-23/0-1792735120770.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6465/2026-10-23/0-1792735120770.jpg"
-          }
-        ]
+        "cover": [],
+        "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 4698871,
+      "color": 3067015,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -60853,8 +60830,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1787228243643,
-      "display_updated_at": 1792735121495,
-      "updated_at": 1792735121495,
+      "display_updated_at": 1787228243643,
+      "updated_at": 1787228243644,
       "created_at": 1787228243644,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -60930,40 +60907,26 @@
       "id": "3078715374457968531",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 3,
+        "label_id": 1,
         "public_calendar_id": 1002727029,
-        "name": "解禁済み",
-        "color": 4698871,
-        "order": 1,
-        "updated_at": 1783055743311,
+        "name": "未解禁",
+        "color": 3067015,
+        "order": 2,
+        "updated_at": 1783055743328,
         "created_at": 1762145257427
       },
-      "title": "【大阪】『IDOL TRIBE』",
+      "title": "【大阪】未解禁",
       "headline": "",
-      "note": "🗓10月26日(月)\n『IDOL TRIBE』\n📍ドン・キホーテ梅田本店\n⏱START19:00\n💰観覧無料！\n撮影PASS(1000円)\n応援ブレスレット(1000円)\n\n🎤19:20〜19:40\n📸20:05〜21:05\n\n※撮影PASSをお持ちでない方は撮影NGです。\n応援ブレスレットについては、3枚目の画像をご確認お願いします。\n\n#SerenadeLIVE情報",
+      "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/6f55/2026-10-23/0-1792736064067.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6f55/2026-10-23/0-1792736064067.jpg"
-          }
-        ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/5d74/2026-10-23/0-1792736065256.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5d74/2026-10-23/0-1792736065256.jpg"
-          },
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/3a09/2026-10-23/0-1792736065988.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/3a09/2026-10-23/0-1792736065988.jpg"
-          }
-        ]
+        "cover": [],
+        "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 4698871,
+      "color": 3067015,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -60985,8 +60948,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792179472518,
-      "display_updated_at": 1792736066604,
-      "updated_at": 1792736066605,
+      "display_updated_at": 1792179472518,
+      "updated_at": 1792179472518,
       "created_at": 1792179472518,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -61052,65 +61015,6 @@
       "display_updated_at": 1792458391884,
       "updated_at": 1792458391897,
       "created_at": 1789773129657,
-      "interest_count": 0,
-      "public_calendar_hashtags": [],
-      "campaign": null,
-      "_group": "Serenade",
-      "_calendar_id": "s1220"
-    },
-    {
-      "id": "3083409737129776722",
-      "public_calendar_id": 1002727029,
-      "public_calendar_label": {
-        "label_id": 3,
-        "public_calendar_id": 1002727029,
-        "name": "解禁済み",
-        "color": 4698871,
-        "order": 1,
-        "updated_at": 1783055743311,
-        "created_at": 1762145257427
-      },
-      "title": "【大阪】『ハロウィン 前前前夜』",
-      "headline": "",
-      "note": "🗓10月28日(水)\n『ハロウィン 前前前夜』\n📍Live Bar BK\n⏱OPEN 19:30/ START 19:50\n💰予約：¥2,000 (+1D)\n当日：¥3,000 (+1D)\n🎫https://t-dv.com/HALLOWEEN1028\n➡️10/23 22:00～10/28 19:50\n\n🎤20:20〜20:50\n📸20:50〜21:50\n\n🩵お目当て特典🩵\nお目当て券1枚+1P\n\n衣装：ハロウィン衣装🎃\n\n#SerenadeLIVE情報",
-      "link_url": "",
-      "overview": "",
-      "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/40d8/2026-10-23/0-1792739083477.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/40d8/2026-10-23/0-1792739083477.jpg"
-          }
-        ],
-        "overview": []
-      },
-      "videos": [],
-      "status": 1,
-      "color": 4698871,
-      "location_name": "",
-      "location_address": null,
-      "location_access": null,
-      "location_url": null,
-      "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
-      "all_day": true,
-      "start_at": 1793145600000,
-      "end_at": 1793145600000,
-      "start_timezone": "UTC",
-      "end_timezone": "UTC",
-      "recurrences": null,
-      "until_at": 1793231999000,
-      "region_timezone": "Asia/Tokyo",
-      "period_closed": null,
-      "period_note": null,
-      "url": "https://timetr.ee/p/s1220/3083409737129776722",
-      "attachment": {},
-      "parent_id": "",
-      "publish_at": 1792739084157,
-      "display_updated_at": 1792739493570,
-      "updated_at": 1792739493572,
-      "created_at": 1792739084158,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
@@ -61425,36 +61329,26 @@
       "id": "3065514472943245227",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 3,
+        "label_id": 1,
         "public_calendar_id": 1002727029,
-        "name": "解禁済み",
-        "color": 4698871,
-        "order": 1,
-        "updated_at": 1783055743311,
+        "name": "未解禁",
+        "color": 3067015,
+        "order": 2,
+        "updated_at": 1783055743328,
         "created_at": 1762145257427
       },
-      "title": "【大阪】『第17回 明石肉フェスタ』",
+      "title": "【大阪】未解禁",
       "headline": "",
-      "note": "🗓11月3日(火・祝)\n『第17回 明石肉フェスタ』\n📍兵庫県立明石公園 西芝生広場\n⏱10:00〜17:00\n💰入場無料！\nステージ前方観覧エリア：¥2,000\n\n🎤11:15〜11:35\n📸11:35〜12:35\n\n#SerenadeLIVE情報",
+      "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/d204/2026-10-23/0-1792737828794.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d204/2026-10-23/0-1792737828794.jpg"
-          }
-        ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/da0d/2026-10-23/0-1792737829598.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/da0d/2026-10-23/0-1792737829598.jpg"
-          }
-        ]
+        "cover": [],
+        "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 4698871,
+      "color": 3067015,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -61476,8 +61370,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1790605802428,
-      "display_updated_at": 1792737830494,
-      "updated_at": 1792737830495,
+      "display_updated_at": 1790605802428,
+      "updated_at": 1790605802428,
       "created_at": 1790605802428,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -66509,11 +66403,16 @@
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/edf5/2026-10-23/0-1792745810549.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/edf5/2026-10-23/0-1792745810549.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/e329/2026-10-16/0-1792108933120.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/e329/2026-10-16/0-1792108933120.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/fa71/2026-10-16/0-1792108935050.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/fa71/2026-10-16/0-1792108935050.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -66539,8 +66438,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1789731662189,
-      "display_updated_at": 1792745811380,
-      "updated_at": 1792745811381,
+      "display_updated_at": 1792108937457,
+      "updated_at": 1792108937475,
       "created_at": 1789731662189,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -66597,6 +66496,60 @@
       "updated_at": 1791476185933,
       "created_at": 1791476185933,
       "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "MellBell",
+      "_calendar_id": "mellbell_0719"
+    },
+    {
+      "id": "3079164492903448887",
+      "public_calendar_id": 1006291040,
+      "public_calendar_label": {
+        "label_id": 10,
+        "public_calendar_id": 1006291040,
+        "name": "",
+        "color": 11766748,
+        "order": 1,
+        "updated_at": 1784985580350,
+        "created_at": 1784303552628
+      },
+      "title": "ライブ予定🎀🔔",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 11766748,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1794355200000,
+      "end_at": 1794355200000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1794441599000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/mellbell_0719/3079164492903448887",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1792233011609,
+      "display_updated_at": 1792233011609,
+      "updated_at": 1792233011610,
+      "created_at": 1792233011610,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
