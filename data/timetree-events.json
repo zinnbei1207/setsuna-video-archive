@@ -23429,26 +23429,31 @@
       "id": "3071823064226007140",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 5,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "【仮】大阪【未解禁】",
+      "title": "【Being an idol fan?】🎤18:55~19:15📸19:40~20:40",
       "headline": "",
-      "note": "",
+      "note": "【Being an idol fan?】\n\n🗓️10月26日(月)\n📍アメリカ村 BEYOND\n\n⏰OPEN 18:00 / START 18:15\n\n🎤18:55~19:15\n📸19:40~20:40\n\n🎫優先 ¥2,000 / 一般 ¥1,000\n🔗 t-dv.com/BeingAnIdolFan…\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/55bb/2026-10-26/0-1792987959981.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/55bb/2026-10-26/0-1792987959981.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 2171169,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -23470,8 +23475,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791357845112,
-      "display_updated_at": 1791357845112,
-      "updated_at": 1791357845112,
+      "display_updated_at": 1792987960669,
+      "updated_at": 1792987960670,
       "created_at": 1791357845112,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -23732,14 +23737,28 @@
         "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "兵庫【未解禁】",
+      "title": "【第17回 明石肉フェスタ🥩🔥】🎤11:40~12:00📸12:05~13:05",
       "headline": "",
-      "note": "",
+      "note": "【第17回 明石肉フェスタ🥩🔥】\n\n🗓️11月3日(火・祝)\n📍明石公園 西芝生広場\n\n🎤11:40〜12:00\n📸12:05~13:05\n\n🎫入場無料‼️（※イベントはチケット制です）\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/30e9/2026-10-26/0-1792988143388.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/30e9/2026-10-26/0-1792988143388.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/7dac/2026-10-26/0-1792988144027.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/7dac/2026-10-26/0-1792988144027.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/4d8c/2026-10-26/0-1792988144798.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/4d8c/2026-10-26/0-1792988144798.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -23765,8 +23784,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791358554896,
-      "display_updated_at": 1792154164150,
-      "updated_at": 1792154164150,
+      "display_updated_at": 1792988145495,
+      "updated_at": 1792988145496,
       "created_at": 1791358554896,
       "interest_count": 1,
       "public_calendar_hashtags": [],
