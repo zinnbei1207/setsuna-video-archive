@@ -62044,7 +62044,7 @@
       },
       "title": "【大阪】『IDOL TRIBE』",
       "headline": "",
-      "note": "🗓10月30日(金)\n『IDOL TRIBE』\n📍梅田BANGBOO\n⏱OPEN 16:30/START 16:50\n💰前方：¥2,000\n一般：¥1,000\n当日¥500\n+1D\n🎫https://tiget.net/events/532146\n\n🎤17:30〜17:50\n📸17:55〜18:55\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
+      "note": "🗓10月30日(金)\n『IDOL TRIBE』\n📍梅田BANGBOO\n⏱OPEN 16:30/START 16:50\n💰前方：¥2,000\n一般：¥1,000\n当日¥500\n+1D\n🎫https://tiget.net/events/532146\n\nこちらのライブですが、配信も同時に行います。\nご購入はこちらからお願いします⬇️\n\nツイキャス配信：¥1,500　\nhttps://premier.twitcasting.tv/bangbooinfo/shopcart/460379\n\n🎤17:30〜17:50\n📸17:55〜18:55\n\n🩵お目当て特典🩵\n前方：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
@@ -62089,8 +62089,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1785753127876,
-      "display_updated_at": 1792671939356,
-      "updated_at": 1792671939357,
+      "display_updated_at": 1793237891180,
+      "updated_at": 1793237891181,
       "created_at": 1785753127877,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -62118,8 +62118,8 @@
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/dce4/2026-10-02/0-1790937043505.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/dce4/2026-10-02/0-1790937043505.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/97e8/2026-10-29/0-1793237986934.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/97e8/2026-10-29/0-1793237986934.jpg"
           }
         ],
         "overview": []
@@ -62148,63 +62148,9 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1790336623738,
-      "display_updated_at": 1790937044093,
-      "updated_at": 1790937044095,
+      "display_updated_at": 1793237987467,
+      "updated_at": 1793237987469,
       "created_at": 1790336623740,
-      "interest_count": 0,
-      "public_calendar_hashtags": [],
-      "campaign": null,
-      "_group": "Serenade",
-      "_calendar_id": "s1220"
-    },
-    {
-      "id": "3021159851278062998",
-      "public_calendar_id": 1002727029,
-      "public_calendar_label": {
-        "label_id": 1,
-        "public_calendar_id": 1002727029,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 2,
-        "updated_at": 1783055743328,
-        "created_at": 1762145257427
-      },
-      "title": "【大阪】未解禁",
-      "headline": "",
-      "note": "衣装：ハロウィン特別衣装🎃",
-      "link_url": "",
-      "overview": "",
-      "images": {
-        "cover": [],
-        "overview": []
-      },
-      "videos": [],
-      "status": 1,
-      "color": 3067015,
-      "location_name": "",
-      "location_address": null,
-      "location_access": null,
-      "location_url": null,
-      "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
-      "all_day": true,
-      "start_at": 1793404800000,
-      "end_at": 1793404800000,
-      "start_timezone": "UTC",
-      "end_timezone": "UTC",
-      "recurrences": null,
-      "until_at": 1793491199000,
-      "region_timezone": "Asia/Tokyo",
-      "period_closed": null,
-      "period_note": null,
-      "url": "https://timetr.ee/p/s1220/3021159851278062998",
-      "attachment": {},
-      "parent_id": "",
-      "publish_at": 1792330200000,
-      "display_updated_at": 1792330200000,
-      "updated_at": 1792330037725,
-      "created_at": 1785318319491,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
@@ -62269,6 +62215,78 @@
       "display_updated_at": 1792458727623,
       "updated_at": 1792458727624,
       "created_at": 1789772326113,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "Serenade",
+      "_calendar_id": "s1220"
+    },
+    {
+      "id": "3087597462162625692",
+      "public_calendar_id": 1002727029,
+      "public_calendar_label": {
+        "label_id": 3,
+        "public_calendar_id": 1002727029,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
+        "created_at": 1762145257427
+      },
+      "title": "【大阪】『IDOL TRIBE』",
+      "headline": "",
+      "note": "🗓10月31日(土)\n『IDOL TRIBE』\n📍うえほんまちハイハイタウン\n⏱START 13:20\n💰観覧無料！\n前方エリア(1000円)\n撮影PASS(1000円)\n応援ブレスレット(1000円)\n\n🎤15:00〜15:20\n📸15:25〜16:25\n\n衣装：ハロウィン特別衣装🎃\n\n※撮影PASSをお持ちでない方は撮影NGです。\n\n#SerenadeLIVE情報",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/8109/2026-10-29/0-1793238297506.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/8109/2026-10-29/0-1793238297506.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/b22b/2026-10-29/0-1793238298179.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/b22b/2026-10-29/0-1793238298179.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/dedc/2026-10-29/0-1793238298683.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/dedc/2026-10-29/0-1793238298683.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/b926/2026-10-29/0-1793238299275.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/b926/2026-10-29/0-1793238299275.jpg"
+          }
+        ]
+      },
+      "videos": [],
+      "status": 1,
+      "color": 4698871,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1793404800000,
+      "end_at": 1793404800000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1793491199000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/s1220/3087597462162625692",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1793238299883,
+      "display_updated_at": 1793238299883,
+      "updated_at": 1793238299884,
+      "created_at": 1793238299884,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
