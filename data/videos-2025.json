@@ -1,23 +1,5 @@
 [
   {
-    "id": 139,
-    "sourceSheet": "2025",
-    "sourceNo": 1,
-    "group": "永遠のセツナ",
-    "date": "2025-07-12",
-    "filename": "0712.MOV",
-    "content": "2025.07.12のライブ映像　草津エイスクエア特設ステージ",
-    "place": "草津エイスクエア特設ステージ",
-    "kind": "ライブ映像",
-    "disc": "０００１",
-    "discStatus": "済",
-    "queue": null,
-    "editStatus": "未設定",
-    "postStatus": "未設定",
-    "storage": "",
-    "memo": ""
-  },
-  {
     "id": 140,
     "sourceSheet": "2025",
     "sourceNo": 2,
@@ -65,24 +47,6 @@
     "kind": "推しカメ",
     "disc": "",
     "discStatus": "未",
-    "queue": null,
-    "editStatus": "未設定",
-    "postStatus": "未設定",
-    "storage": "",
-    "memo": ""
-  },
-  {
-    "id": 143,
-    "sourceSheet": "2025",
-    "sourceNo": 5,
-    "group": "永遠のセツナ",
-    "date": "2025-07-02",
-    "filename": "0702.MOV",
-    "content": "2025.07.02のライブ映像　ポルックス",
-    "place": "ポルックスシアター",
-    "kind": "ライブ映像",
-    "disc": "０００２",
-    "discStatus": "済",
     "queue": null,
     "editStatus": "未設定",
     "postStatus": "未設定",
@@ -1023,7 +987,7 @@
     "editStatus": "未設定",
     "postStatus": "未設定",
     "storage": "",
-    "memo": ""
+    "memo": "旧ディスク「０００２」にも保存（旧台帳ID143から統合）。"
   },
   {
     "id": 196,
@@ -1077,7 +1041,7 @@
     "editStatus": "未設定",
     "postStatus": "未設定",
     "storage": "",
-    "memo": ""
+    "memo": "旧ディスク「０００１」にも保存（旧台帳ID139から統合）。"
   },
   {
     "id": 199,
