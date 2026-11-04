@@ -242,5 +242,25 @@
   "set061": {
     "book": 1,
     "slot": 61
+  },
+  "you01": {
+    "book": 2,
+    "slot": 1
+  },
+  "you02": {
+    "book": 2,
+    "slot": 2
+  },
+  "you03": {
+    "book": 2,
+    "slot": 3
+  },
+  "you04": {
+    "book": 2,
+    "slot": 4
+  },
+  "you05": {
+    "book": 2,
+    "slot": 5
   }
 }
