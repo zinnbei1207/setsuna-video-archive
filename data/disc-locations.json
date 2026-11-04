@@ -262,5 +262,29 @@
   "you05": {
     "book": 2,
     "slot": 5
+  },
+  "sere01": {
+    "book": 2,
+    "slot": 6
+  },
+  "sere02": {
+    "book": 2,
+    "slot": 7
+  },
+  "sere03": {
+    "book": 2,
+    "slot": 8
+  },
+  "sere04": {
+    "book": 2,
+    "slot": 9
+  },
+  "sere05": {
+    "book": 2,
+    "slot": 10
+  },
+  "sere06": {
+    "book": 2,
+    "slot": 11
   }
 }
