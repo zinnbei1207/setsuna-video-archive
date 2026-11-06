@@ -23863,7 +23863,7 @@
       "display_updated_at": 1793200424045,
       "updated_at": 1793200424046,
       "created_at": 1793200063952,
-      "interest_count": 1,
+      "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "永遠のセツナ",
@@ -63252,7 +63252,7 @@
       "display_updated_at": 1792800191438,
       "updated_at": 1792800191438,
       "created_at": 1792800191438,
-      "interest_count": 1,
+      "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "Serenade",
@@ -69891,22 +69891,17 @@
       },
       "title": "『AURORA FES 3DAYS SP -DAY2-』",
       "headline": "",
-      "note": "『AURORA FES 3DAYS SP -DAY2-』\n\n2026年11月19日（木）\n📍ナンバーゲート\n\n🔔MellBell出演 / 18:50-19:10\n📸特典会 / 19:30-20:30\n\n前方エリア 2,500円 / 一般 500円\n当日 +1,000円（+1DRINK600円）\ntiget.net/events/531369",
+      "note": "『AURORA FES 3DAYS SP -DAY2-』\n\n2026年11月19日（木）\n📍ナンバーゲート\n\n前方エリア 2,500円 / 一般 500円 / 当日 +1,000円（+1DRINK600円）\n\ntiget.net/events/531369",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/dfd9/2026-11-05/0-1793880753600.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/dfd9/2026-11-05/0-1793880753600.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/2518/2026-10-17/0-1792210659327.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2518/2026-10-17/0-1792210659327.jpg"
           }
         ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/4649/2026-11-05/0-1793880754551.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/4649/2026-11-05/0-1793880754551.jpg"
-          }
-        ]
+        "overview": []
       },
       "videos": [],
       "status": 1,
@@ -69932,8 +69927,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792024312799,
-      "display_updated_at": 1793880755288,
-      "updated_at": 1793880755289,
+      "display_updated_at": 1792210660810,
+      "updated_at": 1792210660826,
       "created_at": 1792024312800,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -69955,22 +69950,17 @@
       },
       "title": "『AURORA FES 3DAYS SP -DAY3-』",
       "headline": "",
-      "note": "『AURORA FES 3DAYS SP -DAY3-』\n\n2026年11月20日（金）\n📍ナンバーゲート\n\n🔔MellBell出演 / 18:10-18:30\n📸特典会 / 18:45-19:45\n\n前方エリア 2,500円 / 一般 500円 / 当日 +1,000円（+1DRINK600円）\n\ntiget.net/events/531370",
+      "note": "『AURORA FES 3DAYS SP -DAY3-』\n\n2026年11月20日（金）\n📍ナンバーゲート\n\n前方エリア 2,500円 / 一般 500円 / 当日 +1,000円（+1DRINK600円）\n\ntiget.net/events/531370",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/2524/2026-11-05/0-1793880815693.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2524/2026-11-05/0-1793880815693.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/fbb3/2026-10-16/0-1792161703135.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/fbb3/2026-10-16/0-1792161703135.jpg"
           }
         ],
-        "overview": [
-          {
-            "url": "https://attachments.timetreeapp.com/public_event/889d/2026-11-05/0-1793880817028.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/889d/2026-11-05/0-1793880817028.jpg"
-          }
-        ]
+        "overview": []
       },
       "videos": [],
       "status": 1,
@@ -69996,8 +69986,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792024326644,
-      "display_updated_at": 1793880817699,
-      "updated_at": 1793880817714,
+      "display_updated_at": 1792161704017,
+      "updated_at": 1792161704018,
       "created_at": 1792024326645,
       "interest_count": 2,
       "public_calendar_hashtags": [],
