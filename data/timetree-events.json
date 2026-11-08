@@ -45240,7 +45240,7 @@
       "display_updated_at": 1793621272158,
       "updated_at": 1793621272159,
       "created_at": 1793621272159,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -45299,7 +45299,7 @@
       "display_updated_at": 1794038572077,
       "updated_at": 1794038572078,
       "created_at": 1793621286869,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -45417,7 +45417,7 @@
       "display_updated_at": 1793621331069,
       "updated_at": 1793621331070,
       "created_at": 1793621331070,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -63618,14 +63618,14 @@
       },
       "title": "【大阪】『Parallel World』",
       "headline": "",
-      "note": "🗓11月8日(日)\n『Parallel World』\n📍Bigtwin Diner SHOVEL\n⏱OPEN 11:00/ START 11:20\n💰前方エリア：¥1,500\n一般エリア：¥500\n当日券各＋¥500\n+1D\n🎫https://t-dv.com/wUvT6Yq83EZUzM52436O\n\n🎤11:40〜12:00\n📸13:20〜14:20\n\n🩵お目当て特典🩵\n前方：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
+      "note": "🗓11月8日(日)\n『Parallel World』\n📍Bigtwin Diner SHOVEL\n⏱OPEN 11:00/ START 11:20\n💰前方エリア：¥1,500\n一般エリア：¥500\n当日券各＋¥500\n+1D\n🎫https://t-dv.com/wUvT6Yq83EZUzM52436O\n\n🎤11:40〜12:00\n📸12:00〜13:00\n\n🩵お目当て特典🩵\n前方：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/596e/2026-11-07/0-1794047093424.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/596e/2026-11-07/0-1794047093424.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/cdb6/2026-11-07/0-1794090888626.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/cdb6/2026-11-07/0-1794090888626.jpg"
           }
         ],
         "overview": []
@@ -63654,8 +63654,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1794047093821,
-      "display_updated_at": 1794048713467,
-      "updated_at": 1794048713468,
+      "display_updated_at": 1794090889142,
+      "updated_at": 1794090889143,
       "created_at": 1794047093822,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -63667,26 +63667,31 @@
       "id": "3083924112504640970",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『SHOW IN OSAKA』",
       "headline": "",
-      "note": "",
+      "note": "🗓️11月9日(月)\n『SHOW IN OSAKA』\n📍Live Bar BK\n⏱OPEN 18:00 / START 18:20\n💰予約：¥1,500\n当日：¥2,500\n+1D\n🎫t-dv.com/SIO1109\n➡️11/8 18:00 〜 11/9 18:20\n\n🎤19:05〜19:25\n📸19:30〜20:30\n\n🩵お目当て特典🩵\n予約：お目当て券1枚+1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/d6d9/2026-11-08/0-1794143483491.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d6d9/2026-11-08/0-1794143483491.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -63708,8 +63713,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792800402480,
-      "display_updated_at": 1792800402480,
-      "updated_at": 1792800402481,
+      "display_updated_at": 1794143484104,
+      "updated_at": 1794143484106,
       "created_at": 1792800402481,
       "interest_count": 0,
       "public_calendar_hashtags": [],
