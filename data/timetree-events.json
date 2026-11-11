@@ -45648,7 +45648,7 @@
       "display_updated_at": 1791446876218,
       "updated_at": 1791446876218,
       "created_at": 1791446876218,
-      "interest_count": 1,
+      "interest_count": 2,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -64129,26 +64129,31 @@
       "id": "3096388182902167238",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『SHOW IN OSAKA』",
       "headline": "",
-      "note": "",
+      "note": "🗓11月17日(火)\n『SHOW IN OSAKA』\n📍Live Bar BK\n⏱OPEN 19:00/ START 19:20\n💰予約：¥1,500 (+1D)\n当日：¥2,500 (+1D)\n🎫https://t-dv.com/LBBK1117\n➡️11/12 22:00 〜 11/17 19:20\n\n🎤20:40〜21:00\n📸21:00〜22:00\n\n🩵お目当て特典🩵\n予約：お目当て券1枚+1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/64b4/2026-11-11/0-1794403411877.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/64b4/2026-11-11/0-1794403411877.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -64170,8 +64175,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1794286235457,
-      "display_updated_at": 1794286235457,
-      "updated_at": 1794286235458,
+      "display_updated_at": 1794403412408,
+      "updated_at": 1794403412409,
       "created_at": 1794286235458,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -70439,14 +70444,14 @@
       },
       "title": "『押忍フェス』",
       "headline": "",
-      "note": "『押忍フェス』\n\n2026年11月14日(土)\n📍湊町リバープレイス\n\nSTART 11:00\n\n観覧無料！\n撮影チケット:1,000円\n※スマホでの撮影は無料です\n優先エリア観覧チケット:1,000円\n“推す”チケット:1,000円(推しからのサイン入り色紙プレゼント)",
+      "note": "『押忍フェス』\n\n2026年11月14日(土)\n📍湊町リバープレイス\n\n🔔MellBell 出演/12:10~12:25\n📸特典会/12:30~13:30\n\n観覧無料！\n撮影チケット:1,000円\n※スマホでの撮影は無料です\n優先エリア観覧チケット:1,000円\n“推す”チケット:1,000円(推しからのサイン入り色紙プレゼント)",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/e7c2/2026-11-07/0-1794018594440.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/e7c2/2026-11-07/0-1794018594440.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/c625/2026-11-11/0-1794402238867.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c625/2026-11-11/0-1794402238867.jpg"
           }
         ],
         "overview": []
@@ -70475,8 +70480,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1794018595301,
-      "display_updated_at": 1794018595301,
-      "updated_at": 1794018595302,
+      "display_updated_at": 1794402239483,
+      "updated_at": 1794402239486,
       "created_at": 1794018595302,
       "interest_count": 2,
       "public_calendar_hashtags": [],
@@ -70614,25 +70619,30 @@
         "updated_at": 1784985580350,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『SHOW IN OSAKA』",
       "headline": "",
-      "note": "",
+      "note": "『SHOW IN OSAKA』 \n\n2026年11月17日(火)\n📍Live Bar BK\n\n🔔MellBell出演 / 20:00-20:20\n📸特典会/ 21:00-22:00\n\n予約 1,500円 / 当日 2,500円 (+1D)\nt-dv.com/LBBK1117\n※2026/11/12 22:00 〜 11/17 19:20\n\nお目当て特典あり🎁⋆*",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/6e1a/2026-11-11/0-1794402167802.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6e1a/2026-11-11/0-1794402167802.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "Music&Sound Live Bar BK",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.671196,
+      "location_lon": 135.497473,
       "all_day": true,
       "start_at": 1794873600000,
       "end_at": 1794873600000,
@@ -70647,8 +70657,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1794271584657,
-      "display_updated_at": 1794271584657,
-      "updated_at": 1794271584658,
+      "display_updated_at": 1794402168469,
+      "updated_at": 1794402168470,
       "created_at": 1794271584658,
       "interest_count": 0,
       "public_calendar_hashtags": [],
