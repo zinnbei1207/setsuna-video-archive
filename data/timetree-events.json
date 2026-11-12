@@ -45081,7 +45081,7 @@
         "updated_at": 1791946210754,
         "created_at": 1748759551166
       },
-      "title": "湊町リバープレイス",
+      "title": "湊町リバープレイス🎤11:15〜11:30📸11:40〜12:40",
       "headline": "",
       "note": "",
       "link_url": "",
@@ -45093,7 +45093,12 @@
             "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/bcb0/2026-11-09/0-1794218015141.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/2f0f/2026-11-11/0-1794427514155.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2f0f/2026-11-11/0-1794427514155.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -45119,8 +45124,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1794218015554,
-      "display_updated_at": 1794218015554,
-      "updated_at": 1794218015556,
+      "display_updated_at": 1794427514704,
+      "updated_at": 1794427514707,
       "created_at": 1794218015556,
       "interest_count": 1,
       "public_calendar_hashtags": [],
