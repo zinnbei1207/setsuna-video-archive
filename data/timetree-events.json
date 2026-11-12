@@ -24017,9 +24017,9 @@
         "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "【押忍フェス】",
+      "title": "【押忍フェス】🎤13:35~13:50📸14:00~15:00",
       "headline": "",
-      "note": "『押忍フェス』\n\n📍湊町リバープレイス\n🗓11/14(土)\n⏰START 11:00\n🎟️観覧無料‼️\n\n【各種チケット】\n・優先エリア観覧：¥1,000\n・撮影チケット：¥1,000\n・“推す”チケット：¥1,000\n（推しからのサイン入り色紙プレゼント🎁）\n\n📸スマホ撮影は無料！\n\n※タイムテーブル後日解禁‼️\n #永遠のセツナLIVE情報",
+      "note": "『押忍フェス』\n\n📍湊町リバープレイス\n🗓11/14(土)\n⏰START 11:00\n🎟️観覧無料‼️\n\n【各種チケット】\n・優先エリア観覧：¥1,000\n・撮影チケット：¥1,000\n・“推す”チケット：¥1,000\n（推しからのサイン入り色紙プレゼント🎁）\n\n📸スマホ撮影は無料！\n\n🎤13:35~13:50\n📸14:00~15:00\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
@@ -24029,7 +24029,12 @@
             "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2711/2026-11-07/0-1794037988055.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/b164/2026-11-12/0-1794487413566.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/b164/2026-11-12/0-1794487413566.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -24055,8 +24060,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1794037988589,
-      "display_updated_at": 1794037988589,
-      "updated_at": 1794037988590,
+      "display_updated_at": 1794487414058,
+      "updated_at": 1794487414062,
       "created_at": 1794037988590,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -24068,26 +24073,31 @@
       "id": "3087278776594926483",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 5,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "【仮】大阪【未解禁】",
+      "title": "①『SHOW IN OSAKA』🎤10:05~10:20📸10:55~11:55",
       "headline": "",
-      "note": "",
+      "note": "『SHOW IN OSAKA』\n\n🗓 11/15(日)\n📍Live Bar BK\n⏰ OPEN 09:30 / START 09:50\n\n🎤10:05〜10:20\n📸10:55~11:55\n\n🎫予約 ¥1,500 / 当日 ¥2,500（+1D）\n🔗 t-dv.com/SIO1115_1\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/650f/2026-11-12/0-1794489175221.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/650f/2026-11-12/0-1794489175221.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 2171169,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -24109,9 +24119,68 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1793200309603,
-      "display_updated_at": 1793200392508,
-      "updated_at": 1793200392509,
+      "display_updated_at": 1794489175708,
+      "updated_at": 1794489175710,
       "created_at": 1793200309604,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "永遠のセツナ",
+      "_calendar_id": "setsuna"
+    },
+    {
+      "id": "3098091014616451132",
+      "public_calendar_id": 1000504002,
+      "public_calendar_label": {
+        "label_id": 5,
+        "public_calendar_id": 1000504002,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
+        "created_at": 1739887373969
+      },
+      "title": "②『FEEL』🎤15:40~16:00📸17:05~18:05",
+      "headline": "",
+      "note": "『FEEL』\n\n🗓11/15(日) \n📍Live Bar BK\n⏰ OPEN 15:20 / START 15:40\n\n🎤15:40~16:00\n📸17:05~18:05\n\n🎫予約 ¥1,500 / 当日 ¥2,500（+1D）\n🔗 t-dv.com/FEEL1115_1\n\n #永遠のセツナLIVE情報",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/d5ac/2026-11-12/0-1794489228301.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d5ac/2026-11-12/0-1794489228301.jpg"
+          }
+        ],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 2171169,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1794700800000,
+      "end_at": 1794700800000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1794787199000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/setsuna/3098091014616451132",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1794489228816,
+      "display_updated_at": 1794489238536,
+      "updated_at": 1794489238537,
+      "created_at": 1794489228818,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
@@ -24186,26 +24255,31 @@
       "id": "3087279048679426331",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 5,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "【仮】大阪【未解禁】",
+      "title": "『SHOW IN OSAKA』🎤19:20~19:40📸21:00~22:00",
       "headline": "",
-      "note": "",
+      "note": "『SHOW IN OSAKA』\n\n🗓11/17(火)\n📍Live Bar BK\n⏰ OPEN 19:00 / START 19:20\n\n🎤19:20~19:40\n📸21:00~22:00\n\n🎫予約 ¥1,500 / 当日 ¥2,500（+1D）\n🔗 t-dv.com/LBBK1117\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/225a/2026-11-12/0-1794487774514.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/225a/2026-11-12/0-1794487774514.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 2171169,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -24227,8 +24301,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1793200342038,
-      "display_updated_at": 1793200342038,
-      "updated_at": 1793200342048,
+      "display_updated_at": 1794487774999,
+      "updated_at": 1794487774999,
       "created_at": 1793200342048,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -24782,6 +24856,60 @@
       "_calendar_id": "setsuna"
     },
     {
+      "id": "3097971964263467843",
+      "public_calendar_id": 1000504002,
+      "public_calendar_label": {
+        "label_id": 6,
+        "public_calendar_id": 1000504002,
+        "name": "重要ライブ",
+        "color": 15153979,
+        "order": 3,
+        "updated_at": 1772261467291,
+        "created_at": 1739887373969
+      },
+      "title": "東京【未解禁】",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 15153979,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1796515200000,
+      "end_at": 1796515200000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1796601599000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/setsuna/3097971964263467843",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1794475036909,
+      "display_updated_at": 1794475036909,
+      "updated_at": 1794475036912,
+      "created_at": 1794475036912,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "永遠のセツナ",
+      "_calendar_id": "setsuna"
+    },
+    {
       "id": "3094365426999298292",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
@@ -24793,13 +24921,18 @@
         "updated_at": 1772261467291,
         "created_at": 1739887373969
       },
-      "title": "大阪【未解禁】",
+      "title": "【ELLA 生誕祭2026 】🎂❤️",
       "headline": "",
-      "note": "",
+      "note": "🚨🔥重要LIVE🔥🚨\n\n＼＼ 【ELLA 生誕祭2026 】🎂❤️／／\n\n🗓12月9日(水)\n📍心斎橋SUNHALL\n🎫 優先 ¥2,000 / 一般 ¥500（各+1D）\n🔗 tiget.net/events/537649\n▶️11日20:00より~チケ発\n\n🎁エターナルスタンプ🎁\n優先お目当て…3ポイント‼️\n一般お目当て…2ポイント‼️\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/5e0b/2026-11-12/0-1794487562460.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5e0b/2026-11-12/0-1794487562460.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
@@ -24826,8 +24959,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1794045104163,
-      "display_updated_at": 1794045104163,
-      "updated_at": 1794045104164,
+      "display_updated_at": 1794487562866,
+      "updated_at": 1794487562867,
       "created_at": 1794045104164,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -24849,7 +24982,7 @@
       },
       "title": "【COLORFUL FESTA COUNTDOWN 26→27】",
       "headline": "",
-      "note": "🌈🎉超激アツ重要年越しLIVE🎉🌈\n\n【COLORFUL FESTA COUNTDOWN 26→27】\n\n🗓12/31(木)\n📍 梅田BANGBOO\n⏰ OPEN 21:30 / START 22:00\n🎁お目当て特典🈶\n🔗tiget.net/events/534310\n10/29(木) 20:00〜\n\n🎟️ 前方 ¥2,500（抽選）\n🎟️ 一般 ¥1,500（先着）\n🎟️ 手売り ¥1,300\n\nチケット販売につきまして2枚目の画像を必ずご確認ください🙇‍♀️\n\n【前方エリア抽選販売】(前方21〜)\n10月29日(木)20時〜11月1日(日)23時59分\n\n【前方エリア当選発表】\n11月2日(月)20時\n\n【一般エリア 先着販売】\n10月29日(木)20時〜12月30日(水)23時59分\n\n #永遠のセツナLIVE情報\n\n🌟 楽曲シャッフル企画開催！\n🌟 超重大発表あり！！",
+      "note": "🌈🎉超激アツ重要年越しLIVE🎉🌈\n\n【COLORFUL FESTA COUNTDOWN 26→27】\n\n🗓12/31(木)\n📍 梅田BANGBOO\n⏰ OPEN 21:30 / START 22:00\n🎁お目当て特典🈶\n🔗tiget.net/events/534310\n\n🎟️ 前方 ¥2,500（抽選）\n🎟️ 一般 ¥1,500（先着）\n🎟️ 手売り ¥1,300\n\nチケット販売につきまして2枚目の画像を必ずご確認ください🙇‍♀️\n\n【前方エリア抽選販売】(前方21〜)\n10月29日(木)20時〜11月1日(日)23時59分\n\n【前方エリア当選発表】\n11月2日(月)20時\n\n【一般エリア 先着販売】\n10月29日(木)20時〜12月30日(水)23時59分\n\n【⭐️お知らせ🌈】\n\nCOLORFUL FESTA COUNTDOWN 26→27 \nカンパが、今回もBASEにて\n販売決定しました❕💐\n\nスタンドフラワーにも充てられるのでぜひご協力よろしくお願いいたします₍ᐢ⑅•ᴗ•⑅ᐢ₎♡\n\n⭐️ご購入はこちらから⬇️\n🔗https://colorpuro.base.shop/categories/6512369\n\n⭐️販売期間\n11/13(金)20:00〜12/26(土)23:59迄\n\n #永遠のセツナLIVE情報\n\n🌟 楽曲シャッフル企画開催！\n🌟 超重大発表あり！！",
       "link_url": "",
       "overview": "",
       "images": {
@@ -24863,6 +24996,10 @@
           {
             "url": "https://attachments.timetreeapp.com/public_event/5c09/2026-10-28/0-1793198720678.jpg",
             "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5c09/2026-10-28/0-1793198720678.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/f2ff/2026-11-12/0-1794489492611.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/f2ff/2026-11-12/0-1794489492611.jpg"
           }
         ]
       },
@@ -24890,8 +25027,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1793198721111,
-      "display_updated_at": 1793198721111,
-      "updated_at": 1793198721112,
+      "display_updated_at": 1794489493143,
+      "updated_at": 1794489493144,
       "created_at": 1793198721112,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -45127,7 +45264,7 @@
       "display_updated_at": 1794427514704,
       "updated_at": 1794427514707,
       "created_at": 1794218015556,
-      "interest_count": 1,
+      "interest_count": 2,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -63972,7 +64109,7 @@
       },
       "title": "【オフ会】『Serenadeと作る！カレーオフ会🍛』",
       "headline": "",
-      "note": "『Serenadeと作る！カレーオフ会🍛』\n\n🗓11/14 (土) 11:00〜\n📍大阪市立信太山青少年野外活動センター\n※開始10分前までにお集まりいただきますようお願いします。\n\nスケジュール⬇️\n11:00現地集合\n11:00-13:00 班に分かれてカレー作り\n13:00-15:00 自由時間\n\n推しと２人きりの自由時間あり！\n※お目当て券使用可能\n\n💰¥5,000\n10/29(木) 20:00〜限定20個販売となります。\n🔗https://colorpuro.base.shop/categories/7045428\n\n※複数購入の場合譲渡可能です。\n譲渡の場合はSerenade公式DMに譲渡先の方のお名前お送りください。",
+      "note": "『Serenadeと作る！カレーオフ会🍛』\n\n🗓11/14 (土) 11:00〜\n📍大阪市立信太山青少年野外活動センター\n※開始10分前までにお集まりいただきますようお願いします。\n\n集合場所⬇️\n📍バリアフリーサイト\n\nスケジュール⬇️\n11:00現地集合\n11:00-13:00 班に分かれてカレー作り\n13:00-15:00 自由時間\n\n推しと２人きりの自由時間あり！\n※お目当て券使用可能\n\n💰¥5,000\n10/29(木) 20:00〜限定20個販売となります。\n🔗https://colorpuro.base.shop/categories/7045428\n\n※複数購入の場合譲渡可能です。\n譲渡の場合はSerenade公式DMに譲渡先の方のお名前お送りください。\n\n食べ物、飲み物持ち込み自由です！(お酒OK)\n鉄板あり(カレー以外の食材の用意はないため持ち込みがおすすめ！)",
       "link_url": "",
       "overview": "",
       "images": {
@@ -63982,7 +64119,12 @@
             "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/757b/2026-10-16/0-1792155775233.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/11f7/2026-11-12/0-1794475591257.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/11f7/2026-11-12/0-1794475591257.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -64007,9 +64149,9 @@
       "url": "https://timetr.ee/p/s1220/3074650444427548185",
       "attachment": {},
       "parent_id": "",
-      "publish_at": 1793188800000,
-      "display_updated_at": 1793195218590,
-      "updated_at": 1793195218591,
+      "publish_at": 1794483000000,
+      "display_updated_at": 1794483000000,
+      "updated_at": 1794475591680,
       "created_at": 1791694895098,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -64021,26 +64163,31 @@
       "id": "3083923237858039790",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『FEEL』",
       "headline": "",
-      "note": "",
+      "note": "🗓11月15日(日)\n『FEEL』\n📍Live Bar BK\n⏱OPEN 18:30/ START 18:50\n💰予約：¥1,500 (+1D)\n当日：¥2,500 (+1D)\n🎫https://t-dv.com/FEEL1115_2\n➡️11/13 22:30～ 11/15 18:50\n\n🎤19:30〜19:50\n📸20:20〜21:20\n\n🩵お目当て特典🩵\nお目当て券1枚+1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/d100/2026-11-12/0-1794484411227.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d100/2026-11-12/0-1794484411227.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -64061,10 +64208,69 @@
       "url": "https://timetr.ee/p/s1220/3083923237858039790",
       "attachment": {},
       "parent_id": "",
-      "publish_at": 1792800298214,
-      "display_updated_at": 1792800298214,
-      "updated_at": 1792800298215,
+      "publish_at": 1794488400000,
+      "display_updated_at": 1794488400000,
+      "updated_at": 1794484411753,
       "created_at": 1792800298215,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "Serenade",
+      "_calendar_id": "s1220"
+    },
+    {
+      "id": "3098266325107725876",
+      "public_calendar_id": 1002727029,
+      "public_calendar_label": {
+        "label_id": 3,
+        "public_calendar_id": 1002727029,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
+        "created_at": 1762145257427
+      },
+      "title": "【大阪】『FEEL』",
+      "headline": "",
+      "note": "🗓11月15日(日)\n『FEEL』\n📍Live Bar BK\n⏱OPEN 15:20/ START 15:40\n💰予約：¥1,500 (+1D)\n当日：¥2,500 (+1D)\n🎫https://t-dv.com/FEEL1115_1\n➡️11/13 22:00～ 11/15 15:40\n\n🎤16:20〜16:40\n📸17:05〜18:05\n\n🩵お目当て特典🩵\nお目当て券1枚+1P\n\n#SerenadeLIVE情報",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/c422/2026-11-12/0-1794510126846.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c422/2026-11-12/0-1794510126846.jpg"
+          }
+        ],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 4698871,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1794700800000,
+      "end_at": 1794700800000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1794787199000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/s1220/3098266325107725876",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1794510127455,
+      "display_updated_at": 1794510127455,
+      "updated_at": 1794510127459,
+      "created_at": 1794510127459,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
@@ -70548,6 +70754,65 @@
       "updated_at": 1793007569244,
       "created_at": 1792672260625,
       "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "MellBell",
+      "_calendar_id": "mellbell_0719"
+    },
+    {
+      "id": "3098123613300162742",
+      "public_calendar_id": 1006291040,
+      "public_calendar_label": {
+        "label_id": 10,
+        "public_calendar_id": 1006291040,
+        "name": "",
+        "color": 11766748,
+        "order": 1,
+        "updated_at": 1784985580350,
+        "created_at": 1784303552628
+      },
+      "title": "『FEEL』",
+      "headline": "",
+      "note": "『FEEL』\n\n2026年11月15(日)\n📍 Live Bar BK\n\n🎀MellBell出演 / 16:00-16:20 📸特典会 / 17:05-18:05\n\n予約 1,500円 / 当日 2,500円 (+1D) t-dv.com/FEEL1115_1\n→11/13 22:00～ 11/15 15:40\n\nお目当て特典あり🎁⋆*",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/d271/2026-11-12/0-1794493114257.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d271/2026-11-12/0-1794493114257.jpg"
+          }
+        ],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 11766748,
+      "location_name": "Music&Sound Live Bar BK",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": 34.671196,
+      "location_lon": 135.497473,
+      "all_day": true,
+      "start_at": 1794700800000,
+      "end_at": 1794700800000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1794787199000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/mellbell_0719/3098123613300162742",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1794493114882,
+      "display_updated_at": 1794493114882,
+      "updated_at": 1794493114885,
+      "created_at": 1794493114885,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
