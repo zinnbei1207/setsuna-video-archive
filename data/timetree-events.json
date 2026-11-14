@@ -64954,26 +64954,31 @@
       "id": "3083923539990533759",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『未来革命』",
       "headline": "",
-      "note": "",
+      "note": "🗓11月29日(日)\n『未来革命』\n📍心斎橋VARON\n⏱OPEN 8:30/ START 8:45\n💰優先：2,500 (+1D)\n一般：¥2,000 (+1D)\n🎫https://t-dv.com/MiraiKakumei1129\n➡️11/15 22:00〜 11/29 08:45\n\n🎤10:15〜10:30\n📸10:45〜11:45\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/6254/2026-11-14/0-1794687140717.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6254/2026-11-14/0-1794687140717.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -64995,8 +65000,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792800334231,
-      "display_updated_at": 1792800334231,
-      "updated_at": 1792800334232,
+      "display_updated_at": 1794687141216,
+      "updated_at": 1794687141222,
       "created_at": 1792800334232,
       "interest_count": 0,
       "public_calendar_hashtags": [],
