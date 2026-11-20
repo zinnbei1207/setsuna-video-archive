@@ -64951,22 +64951,22 @@
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/cf99/2026-11-16/0-1794811786437.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/cf99/2026-11-16/0-1794811786437.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/3d28/2026-11-20/0-1795145308344.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/3d28/2026-11-20/0-1795145308344.jpg"
           }
         ],
         "overview": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/11c3/2026-11-16/0-1794811787121.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/11c3/2026-11-16/0-1794811787121.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/b1ce/2026-11-20/0-1795145309011.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/b1ce/2026-11-20/0-1795145309011.jpg"
           },
           {
-            "url": "https://attachments.timetreeapp.com/public_event/851b/2026-11-16/0-1794811787543.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/851b/2026-11-16/0-1794811787543.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/26ae/2026-11-20/0-1795145309561.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/26ae/2026-11-20/0-1795145309561.jpg"
           },
           {
-            "url": "https://attachments.timetreeapp.com/public_event/4f56/2026-11-16/0-1794811788002.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/4f56/2026-11-16/0-1794811788002.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/a1db/2026-11-20/0-1795145310314.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/a1db/2026-11-20/0-1795145310314.jpg"
           }
         ]
       },
@@ -64994,8 +64994,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1794826800000,
-      "display_updated_at": 1794826800000,
-      "updated_at": 1794811788539,
+      "display_updated_at": 1795145310872,
+      "updated_at": 1795145310886,
       "created_at": 1794558927252,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -65174,26 +65174,36 @@
       "id": "3075888315952125188",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 2,
-        "updated_at": 1783055743328,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】未解禁",
+      "title": "【大阪】『ラーメンEXPO』",
       "headline": "",
-      "note": "",
+      "note": "🗓11月28日(土)\n『ラーメンEXPO』\n📍万博記念公園 お祭り広場\n⏱OPEN 11:30\n💰観覧無料！\n\n🎤15:00〜15:20\n📸15:25〜16:25\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/7dc2/2026-11-20/0-1795139463908.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/7dc2/2026-11-20/0-1795139463908.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/a889/2026-11-20/0-1795139464796.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/a889/2026-11-20/0-1795139464796.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -65215,8 +65225,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791842460882,
-      "display_updated_at": 1791842460882,
-      "updated_at": 1791842460891,
+      "display_updated_at": 1795139465338,
+      "updated_at": 1795139465339,
       "created_at": 1791842460891,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -65346,7 +65356,7 @@
       },
       "title": "【大阪】『未来革命』",
       "headline": "",
-      "note": "🗓11月29日(日)\n『未来革命』\n📍心斎橋VARON\n⏱OPEN 8:30/ START 8:45\n💰優先：2,500 (+1D)\n一般：¥2,000 (+1D)\n🎫https://t-dv.com/MiraiKakumei1129\n➡️11/15 22:00〜 11/29 08:45\n\n🎤10:15〜10:30\n📸10:45〜11:45\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
+      "note": "🗓11月29日(日)\n『未来革命』\n📍心斎橋VARON\n⏱OPEN 8:30/ START 8:45\n💰優先：2,500 (+1D)\n一般：¥2,000 (+1D)\n🎫https://t-dv.com/MiraiKakumei1129\n➡️11/15 22:00〜 11/29 08:45\n\nSerenade①\n🎤10:15〜10:30\n📸10:45〜11:45\n\nSerenade②\n🎤16:05〜16:20\n📸16:35〜17:35\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
@@ -65356,7 +65366,12 @@
             "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6254/2026-11-14/0-1794687140717.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/2153/2026-11-20/0-1795140375941.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2153/2026-11-20/0-1795140375941.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -65382,8 +65397,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792800334231,
-      "display_updated_at": 1794687141216,
-      "updated_at": 1794687141222,
+      "display_updated_at": 1795140376476,
+      "updated_at": 1795140376478,
       "created_at": 1792800334232,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -65454,26 +65469,31 @@
       "id": "3083924534745225176",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『アイドル好きで何がわるい』",
       "headline": "",
-      "note": "",
+      "note": "🗓12月2日(水)\n『アイドル好きで何がわるい』\n📍FANJ twice\n⏱OPEN 18:20/ START 18:40\n💰優先：¥2,000 (+1D)\n一般：¥0 (+1D)\n🎫 https://t-dv.com/IdolSukideNanigawarui1202\n➡️11/19 22:00〜 12/02 18:40\n\n🎤18:40〜19:00\n📸19:10〜20:10\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/6370/2026-11-20/0-1795140813501.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6370/2026-11-20/0-1795140813501.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -65495,8 +65515,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792800452816,
-      "display_updated_at": 1792800452816,
-      "updated_at": 1792800452816,
+      "display_updated_at": 1795140813982,
+      "updated_at": 1795140813984,
       "created_at": 1792800452816,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -66053,26 +66073,36 @@
       "id": "3075888395669067422",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 2,
-        "updated_at": 1783055743328,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】未解禁",
+      "title": "【大阪】『ラーメンEXPO』",
       "headline": "",
-      "note": "",
+      "note": "🗓12月29日(火)\n『ラーメンEXPO』\n📍万博記念公園 お祭り広場\n⏱OPEN 11:30\n💰観覧無料！\n\n🎤15:20〜15:40\n📸15:45〜16:45\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/fe69/2026-11-20/0-1795139579857.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/fe69/2026-11-20/0-1795139579857.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/76c1/2026-11-20/0-1795139581408.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/76c1/2026-11-20/0-1795139581408.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -66094,8 +66124,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791842470385,
-      "display_updated_at": 1791842470385,
-      "updated_at": 1791842470386,
+      "display_updated_at": 1795139581896,
+      "updated_at": 1795139581900,
       "created_at": 1791842470386,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -66107,26 +66137,36 @@
       "id": "3075888477457994794",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 2,
-        "updated_at": 1783055743328,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】未解禁",
+      "title": "【大阪】『ラーメンEXPO』",
       "headline": "",
-      "note": "",
+      "note": "🗓12月30日(水)\n『ラーメンEXPO』\n📍万博記念公園 お祭り広場\n⏱OPEN 11:30\n💰観覧無料！\n\n🎤12:10〜12:30\n📸12:35〜13:35\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/296e/2026-11-20/0-1795139816765.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/296e/2026-11-20/0-1795139816765.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/77f4/2026-11-20/0-1795139819020.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/77f4/2026-11-20/0-1795139819020.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -66148,8 +66188,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791842480135,
-      "display_updated_at": 1791842480135,
-      "updated_at": 1791842480135,
+      "display_updated_at": 1795139819428,
+      "updated_at": 1795139819429,
       "created_at": 1791842480135,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -67953,7 +67993,7 @@
       "display_updated_at": 1788839742889,
       "updated_at": 1788839742891,
       "created_at": 1784621074680,
-      "interest_count": 1,
+      "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
@@ -70059,7 +70099,7 @@
       "display_updated_at": 1791025292975,
       "updated_at": 1791025292975,
       "created_at": 1785492786166,
-      "interest_count": 5,
+      "interest_count": 4,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
@@ -71381,7 +71421,7 @@
       "display_updated_at": 1793950249552,
       "updated_at": 1793950249553,
       "created_at": 1792850761800,
-      "interest_count": 1,
+      "interest_count": 2,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
@@ -71440,7 +71480,7 @@
       "display_updated_at": 1794402168469,
       "updated_at": 1794402168470,
       "created_at": 1794271584658,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
@@ -71658,14 +71698,14 @@
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/193e/2026-11-19/0-1795090874953.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/193e/2026-11-19/0-1795090874953.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/cf12/2026-11-20/0-1795147417712.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/cf12/2026-11-20/0-1795147417712.jpg"
           }
         ],
         "overview": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/dbc7/2026-11-19/0-1795090876740.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/dbc7/2026-11-19/0-1795090876740.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/2c5e/2026-11-20/0-1795147418973.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2c5e/2026-11-20/0-1795147418973.jpg"
           }
         ]
       },
@@ -71693,8 +71733,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791808322388,
-      "display_updated_at": 1795090877250,
-      "updated_at": 1795090877251,
+      "display_updated_at": 1795147419653,
+      "updated_at": 1795147419654,
       "created_at": 1791808322399,
       "interest_count": 0,
       "public_calendar_hashtags": [],
