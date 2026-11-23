@@ -46006,7 +46006,7 @@
       "display_updated_at": 1794218026778,
       "updated_at": 1794218026779,
       "created_at": 1794218026779,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "&youth!",
@@ -46196,7 +46196,7 @@
         "updated_at": 1791946210754,
         "created_at": 1748759551166
       },
-      "title": "梅田BANGBOO",
+      "title": "梅田BANGBOO 🎤10:15〜10:30📸10:35〜11:35",
       "headline": "",
       "note": "",
       "link_url": "",
@@ -46208,7 +46208,12 @@
             "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/a99a/2026-11-15/0-1794749068745.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/6298/2026-11-23/0-1795444831075.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6298/2026-11-23/0-1795444831075.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -46234,8 +46239,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1793791138118,
-      "display_updated_at": 1794749069297,
-      "updated_at": 1794749069298,
+      "display_updated_at": 1795444831599,
+      "updated_at": 1795444831601,
       "created_at": 1793791138118,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -65135,26 +65140,31 @@
       "id": "3083802035382506944",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 2,
-        "updated_at": 1783055743328,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】未解禁",
+      "title": "【大阪】『Hattori de Live』",
       "headline": "",
-      "note": "",
+      "note": "🗓11月28日(土)\n『Hattori de Live』\n📍服部緑地音楽堂\n⏱OPEN 11:30/ START 12:00\n💰前方：¥4,000\n一般：¥2,000\n🎫https://t-dv.com/hattori1128\n➡️11/23 22:00〜\n\nタイムテーブルは後日解禁..🩵\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+2P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/6ee5/2026-11-23/0-1795420924281.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6ee5/2026-11-23/0-1795420924281.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -65176,8 +65186,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792785849753,
-      "display_updated_at": 1792785849753,
-      "updated_at": 1792785849754,
+      "display_updated_at": 1795420925469,
+      "updated_at": 1795420925484,
       "created_at": 1792785849754,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -65533,26 +65543,31 @@
       "id": "3083924745869711221",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 10,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "ライブ予定(未確定)",
-        "color": 11766748,
-        "order": 3,
-        "updated_at": 1783055743335,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】ライブ予定",
+      "title": "【大阪】『SCLIVE』",
       "headline": "",
-      "note": "",
+      "note": "🗓12月9日(水)\n『SCLIVE』\n📍BananaHall\n⏱OPEN 16:30/ START 16:50\n💰優先：¥2,500\n一般：¥1,500 \n女性：¥500\n+1D\n🎫https://t-dv.com/SCLIVE1209\n➡️2026/11/24 22:00 〜 12/09 16:50\n\n🎤16:50〜17:05\n📸17:10〜18:10\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般，女性：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/be13/2026-11-23/0-1795421223676.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/be13/2026-11-23/0-1795421223676.jpg"
+          }
+        ],
         "overview": []
       },
       "videos": [],
       "status": 1,
-      "color": 11766748,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -65573,9 +65588,9 @@
       "url": "https://timetr.ee/p/s1220/3083924745869711221",
       "attachment": {},
       "parent_id": "",
-      "publish_at": 1792800477983,
-      "display_updated_at": 1792800477983,
-      "updated_at": 1792800477984,
+      "publish_at": 1795438800000,
+      "display_updated_at": 1795438800000,
+      "updated_at": 1795421224205,
       "created_at": 1792800477984,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -66152,7 +66167,7 @@
       "display_updated_at": 1793196150124,
       "updated_at": 1793196150125,
       "created_at": 1781326859206,
-      "interest_count": 4,
+      "interest_count": 5,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "Serenade",
@@ -71859,7 +71874,7 @@
       "display_updated_at": 1795064584566,
       "updated_at": 1795064584569,
       "created_at": 1790857188595,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "MellBell",
@@ -72172,25 +72187,35 @@
         "updated_at": 1784985580439,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『AURORA FES』",
       "headline": "",
-      "note": "",
+      "note": "『AURORA FES』\n\n2026年12月4日（金）\n📍ナンバーゲート\n\n🔔出演 / 20:20-20:40\n📸特典会 / 21:20-22:20\n\n前方エリア 2,500円 / 一般 1,000円 / 当日 +1,000円（+1DRINK600円）\n\ntiget.net/events/537591\n\nお目当てあり🎁⋆*",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/d1fa/2026-11-23/0-1795405228845.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/d1fa/2026-11-23/0-1795405228845.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/f3d6/2026-11-23/0-1795405230445.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/f3d6/2026-11-23/0-1795405230445.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
       "color": 16482167,
-      "location_name": "",
+      "location_name": "#G8「NUMBER GATE」",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.668794,
+      "location_lon": 135.498817,
       "all_day": true,
       "start_at": 1796342400000,
       "end_at": 1796342400000,
@@ -72205,8 +72230,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1794215439636,
-      "display_updated_at": 1794215439636,
-      "updated_at": 1794215439638,
+      "display_updated_at": 1795405231094,
+      "updated_at": 1795405231108,
       "created_at": 1794215439638,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -72341,17 +72366,22 @@
       },
       "title": "『DREAMIDOL in梅田BANGBO』",
       "headline": "",
-      "note": "『DREAMIDOL in梅田BANGBOO』\n\n2026年12月12日（土）\n📍梅田BANGBOO\n\nOPEN：9:20\nSTART：9:50\n\n一般1900円/優先3000円\n※当日料金＋500円\n\nhttps://ticketdive.com/event/DREAMIDOL_2026_1212\n11月16日22:00～12月12日9:15\n\nお目当て特典あり🎁⋆*",
+      "note": "『DREAMIDOL in梅田BANGBOO』\n\n2026年12月12日（土）\n📍梅田BANGBOO\n\n🔔MellBell出演 / 10:00-10:15　\n📸特典会 / 10:20-11:20\n\n一般1900円/優先3000円\n※当日料金＋500円\n\nhttps://ticketdive.com/event/DREAMIDOL_2026_1212\n11月16日22:00～12月12日9:15\n\nお目当て特典あり🎁⋆*",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/6475/2026-11-16/0-1794794338139.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6475/2026-11-16/0-1794794338139.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/830a/2026-11-23/0-1795405118437.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/830a/2026-11-23/0-1795405118437.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/edf9/2026-11-23/0-1795405120349.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/edf9/2026-11-23/0-1795405120349.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -72377,8 +72407,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791808413535,
-      "display_updated_at": 1795064701349,
-      "updated_at": 1795064701353,
+      "display_updated_at": 1795405120962,
+      "updated_at": 1795405120963,
       "created_at": 1791808413536,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -73009,6 +73039,60 @@
       "display_updated_at": 1794312923549,
       "updated_at": 1794312923551,
       "created_at": 1794312923551,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "MellBell",
+      "_calendar_id": "mellbell_0719"
+    },
+    {
+      "id": "3105934340144595396",
+      "public_calendar_id": 1006291040,
+      "public_calendar_label": {
+        "label_id": 8,
+        "public_calendar_id": 1006291040,
+        "name": "",
+        "color": 16482167,
+        "order": 9,
+        "updated_at": 1784985580439,
+        "created_at": 1784303552628
+      },
+      "title": "ライブ予定🎀🔔",
+      "headline": "",
+      "note": "",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [],
+        "overview": []
+      },
+      "videos": [],
+      "status": 1,
+      "color": 16482167,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1800144000000,
+      "end_at": 1800144000000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1800230399000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/mellbell_0719/3105934340144595396",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1795424226080,
+      "display_updated_at": 1795424226080,
+      "updated_at": 1795424226082,
+      "created_at": 1795424226082,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
