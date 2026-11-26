@@ -65160,17 +65160,22 @@
       },
       "title": "【大阪】『Hattori de Live』",
       "headline": "",
-      "note": "🗓11月28日(土)\n『Hattori de Live』\n📍服部緑地音楽堂\n⏱OPEN 11:30/ START 12:00\n💰前方：¥4,000\n一般：¥2,000\n🎫https://t-dv.com/hattori1128\n➡️11/23 22:00〜\n\nタイムテーブルは後日解禁..🩵\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+2P\n一般：1P\n\n#SerenadeLIVE情報",
+      "note": "🗓11月28日(土)\n『Hattori de Live』\n📍服部緑地音楽堂\n⏱OPEN 11:30/ START 12:00\n💰前方：¥4,000\n一般：¥2,000\n🎫https://t-dv.com/hattori1128\n➡️11/23 22:00〜\n\n🎤12:00〜12:20\n📸12:30〜13:30\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+2P\n一般：1P\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
         "cover": [
           {
-            "url": "https://attachments.timetreeapp.com/public_event/6ee5/2026-11-23/0-1795420924281.jpg",
-            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/6ee5/2026-11-23/0-1795420924281.jpg"
+            "url": "https://attachments.timetreeapp.com/public_event/4fec/2026-11-25/0-1795618887298.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/4fec/2026-11-25/0-1795618887298.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/9484/2026-11-25/0-1795618891144.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/9484/2026-11-25/0-1795618891144.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -65196,8 +65201,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792785849753,
-      "display_updated_at": 1795420925469,
-      "updated_at": 1795420925484,
+      "display_updated_at": 1795618891961,
+      "updated_at": 1795618891966,
       "created_at": 1792785849754,
       "interest_count": 2,
       "public_calendar_hashtags": [],
@@ -65209,26 +65214,44 @@
       "id": "3073046242559382914",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 3,
         "public_calendar_id": 1002727029,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 2,
-        "updated_at": 1783055743328,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
         "created_at": 1762145257427
       },
-      "title": "【大阪】未解禁",
+      "title": "【大阪】『SONG TRIBE』",
       "headline": "",
-      "note": "",
+      "note": "🗓11月29日(日)\n『SONG TRIBE』\n📍スパワールド\n⏱START12:10\n💰観覧無料！\n前方エリア(1000円)\n撮影PASS(1000円)\n応援ブレスレット(1000円)\n\n🎤13:40〜14:00\n📸14:05〜15:05\n\n※撮影PASSをお持ちでない方は撮影NGです。\n\n#SerenadeLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/e0d6/2026-11-26/0-1795671059374.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/e0d6/2026-11-26/0-1795671059374.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/a62f/2026-11-26/0-1795671060021.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/a62f/2026-11-26/0-1795671060021.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/5e74/2026-11-26/0-1795671060530.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/5e74/2026-11-26/0-1795671060530.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/cdc7/2026-11-26/0-1795671061108.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/cdc7/2026-11-26/0-1795671061108.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 4698871,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -65250,8 +65273,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1791503659332,
-      "display_updated_at": 1791503659332,
-      "updated_at": 1791503659333,
+      "display_updated_at": 1795671061651,
+      "updated_at": 1795671061652,
       "created_at": 1791503659333,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -65769,7 +65792,7 @@
       "display_updated_at": 1794826800000,
       "updated_at": 1794825120930,
       "created_at": 1792785863970,
-      "interest_count": 1,
+      "interest_count": 2,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "Serenade",
@@ -65823,7 +65846,7 @@
       "display_updated_at": 1795496940930,
       "updated_at": 1795496940932,
       "created_at": 1795496940932,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "Serenade",
@@ -65931,7 +65954,7 @@
       "display_updated_at": 1792800385795,
       "updated_at": 1792800385798,
       "created_at": 1792800385798,
-      "interest_count": 0,
+      "interest_count": 1,
       "public_calendar_hashtags": [],
       "campaign": null,
       "_group": "Serenade",
@@ -72086,23 +72109,33 @@
       },
       "title": "ライブ予定🎀🔔",
       "headline": "",
-      "note": "",
+      "note": "『IDOL TRIBE』\n\n2026年11月29日(日)\n📍スパワールド\n\n🔔Mell Bell出演/ 12:30-12:50\n📸特典会 / 12:55-13:55\n\n観覧無料\n撮影PASS / 1000円\n前方エリア/ 1000円\n応援ブレスレット/ 1000円",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/4cc1/2026-11-25/0-1795612755462.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/4cc1/2026-11-25/0-1795612755462.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/e945/2026-11-25/0-1795612756504.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/e945/2026-11-25/0-1795612756504.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
       "color": 11766748,
-      "location_name": "",
+      "location_name": "SPAWORLD",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.649988,
+      "location_lon": 135.50558,
       "all_day": true,
       "start_at": 1795910400000,
       "end_at": 1795910400000,
@@ -72117,8 +72150,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1792850847314,
-      "display_updated_at": 1792850847314,
-      "updated_at": 1792850847315,
+      "display_updated_at": 1795612757068,
+      "updated_at": 1795612757073,
       "created_at": 1792850847315,
       "interest_count": 0,
       "public_calendar_hashtags": [],
