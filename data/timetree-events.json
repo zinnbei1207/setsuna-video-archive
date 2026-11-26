@@ -24627,9 +24627,9 @@
         "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "【Hattori de Live】",
+      "title": "【Hattori de Live】🎤14:45~15:05📸15:15~16:15",
       "headline": "",
-      "note": "【Hattori de Live】\n\n🗓 11月28日(土)\n📍 服部緑地野外音楽堂\n\n⏰ OPEN 11:30 / START 12:00\n※タイムテーブル後日解禁‼️\n\n🎫 前方 ¥4,000 / 一般 ¥2,000\n（入場時別途1D必須）\n\n🎟 チケットはこちら⬇️\nt-dv.com/hattori1128",
+      "note": "【Hattori de Live】\n\n🗓 11月28日(土)\n📍 服部緑地野外音楽堂\n\n⏰ OPEN 11:30 / START 12:00\n\n🎤14:45~15:05\n📸15:15~16:15\n\n🎫 前方 ¥4,000 / 一般 ¥2,000\n（入場時別途1D必須）\n\n🎟 チケットはこちら⬇️\nt-dv.com/hattori1128",
       "link_url": "",
       "overview": "",
       "images": {
@@ -24665,8 +24665,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1793200830739,
-      "display_updated_at": 1795524253574,
-      "updated_at": 1795524253575,
+      "display_updated_at": 1795682813220,
+      "updated_at": 1795682813222,
       "created_at": 1793200830740,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -24678,26 +24678,36 @@
       "id": "3087283298952218904",
       "public_calendar_id": 1000504002,
       "public_calendar_label": {
-        "label_id": 1,
+        "label_id": 5,
         "public_calendar_id": 1000504002,
-        "name": "未解禁",
-        "color": 3067015,
-        "order": 1,
-        "updated_at": 1772261423569,
+        "name": "ライブ",
+        "color": 2171169,
+        "order": 2,
+        "updated_at": 1772261467216,
         "created_at": 1739887373969
       },
-      "title": "大阪【未解禁】",
+      "title": "【SONG TRIBE】🎤12:10~12:30📸12:35~13:35",
       "headline": "",
-      "note": "",
+      "note": "【SONG TRIBE】\n\n🗓 11月29日(日)\n📍 スパワールド\n\n🎤12:10〜12:30\n📸12:35〜13:35\n\n🎫 観覧無料‼️\n・前方PASS：1,000円（ブロック別）\n・撮影PASS：1,000円\n・応援ブレスレット：1,000円\n\n #永遠のセツナLIVE情報",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/ff12/2026-11-26/0-1795682744865.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/ff12/2026-11-26/0-1795682744865.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/c0a9/2026-11-26/0-1795682745531.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c0a9/2026-11-26/0-1795682745531.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
-      "color": 3067015,
+      "color": 2171169,
       "location_name": "",
       "location_address": null,
       "location_access": null,
@@ -24719,8 +24729,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1793200848710,
-      "display_updated_at": 1793200848710,
-      "updated_at": 1793200848711,
+      "display_updated_at": 1795682745936,
+      "updated_at": 1795682745938,
       "created_at": 1793200848711,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -45980,14 +45990,32 @@
         "updated_at": 1791946210754,
         "created_at": 1748759551166
       },
-      "title": "ライブ",
+      "title": "スパワールド🎤17:20〜17:40📸17:45〜18:45",
       "headline": "",
       "note": "",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/fe0f/2026-11-26/0-1795718566026.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/fe0f/2026-11-26/0-1795718566026.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/2ec2/2026-11-26/0-1795718566950.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2ec2/2026-11-26/0-1795718566950.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/2aa1/2026-11-26/0-1795718567668.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/2aa1/2026-11-26/0-1795718567668.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/89cc/2026-11-26/0-1795718568529.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/89cc/2026-11-26/0-1795718568529.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -46013,8 +46041,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1794218026778,
-      "display_updated_at": 1794218026778,
-      "updated_at": 1794218026779,
+      "display_updated_at": 1795718569053,
+      "updated_at": 1795718569055,
       "created_at": 1794218026779,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -71907,60 +71935,6 @@
       "display_updated_at": 1795528285741,
       "updated_at": 1795528285742,
       "created_at": 1792850817519,
-      "interest_count": 0,
-      "public_calendar_hashtags": [],
-      "campaign": null,
-      "_group": "MellBell",
-      "_calendar_id": "mellbell_0719"
-    },
-    {
-      "id": "3084347116282282238",
-      "public_calendar_id": 1006291040,
-      "public_calendar_label": {
-        "label_id": 10,
-        "public_calendar_id": 1006291040,
-        "name": "",
-        "color": 11766748,
-        "order": 1,
-        "updated_at": 1784985580350,
-        "created_at": 1784303552628
-      },
-      "title": "ライブ予定🎀🔔",
-      "headline": "",
-      "note": "",
-      "link_url": "",
-      "overview": "",
-      "images": {
-        "cover": [],
-        "overview": []
-      },
-      "videos": [],
-      "status": 1,
-      "color": 11766748,
-      "location_name": "",
-      "location_address": null,
-      "location_access": null,
-      "location_url": null,
-      "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
-      "all_day": true,
-      "start_at": 1795737600000,
-      "end_at": 1795737600000,
-      "start_timezone": "UTC",
-      "end_timezone": "UTC",
-      "recurrences": null,
-      "until_at": 1795823999000,
-      "region_timezone": "Asia/Tokyo",
-      "period_closed": null,
-      "period_note": null,
-      "url": "https://timetr.ee/p/mellbell_0719/3084347116282282238",
-      "attachment": {},
-      "parent_id": "",
-      "publish_at": 1792850828460,
-      "display_updated_at": 1792850828460,
-      "updated_at": 1792850828460,
-      "created_at": 1792850828460,
       "interest_count": 0,
       "public_calendar_hashtags": [],
       "campaign": null,
