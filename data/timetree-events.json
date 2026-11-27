@@ -46121,7 +46121,7 @@
         "updated_at": 1791946210754,
         "created_at": 1748759551166
       },
-      "title": "🗼東京遠征🗼動員重要ライブ🔥SPARK2026",
+      "title": "🗼東京遠征🗼動員重要ライブ🔥SPARK2026 📍パークス秋葉原🎤19:20〜19:35📸19:40〜20:40",
       "headline": "",
       "note": "",
       "link_url": "",
@@ -46133,7 +46133,12 @@
             "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/3339/2026-11-16/0-1794838693761.jpg"
           }
         ],
-        "overview": []
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/ce4e/2026-11-27/0-1795807170442.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/ce4e/2026-11-27/0-1795807170442.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
@@ -46159,8 +46164,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1794838694185,
-      "display_updated_at": 1794838694185,
-      "updated_at": 1794838694185,
+      "display_updated_at": 1795807204486,
+      "updated_at": 1795807204491,
       "created_at": 1794838694185,
       "interest_count": 0,
       "public_calendar_hashtags": [],
@@ -65375,6 +65380,74 @@
       "_calendar_id": "s1220"
     },
     {
+      "id": "3039819937873516445",
+      "public_calendar_id": 1002727029,
+      "public_calendar_label": {
+        "label_id": 3,
+        "public_calendar_id": 1002727029,
+        "name": "解禁済み",
+        "color": 4698871,
+        "order": 1,
+        "updated_at": 1783055743311,
+        "created_at": 1762145257427
+      },
+      "title": "【大阪】『VIVID SOUND CIRCUIT』",
+      "headline": "",
+      "note": "🗓11月30日(月)\n『VIVID SOUND CIRCUIT』\n📍FANJ twice / アメリカ村DROP / アメリカ村BEYOND / ナンバーゲート / AtlantiQs / panhead groove\n⏱‪OPEN TBS/ START TBS\n💰優先：¥3,000\n一般：¥0\n🎫https://t-dv.com/VIVIDSOUNDCIRCUIT1130\n【先行抽選】10/06 22:00〜 10/20 22:00\n【一般販売】10/21 20:00〜 11/30 20:30\n\n📍PANHEAD GROOVE\n\n🎤13:00〜13:20\n📸13:30〜14:30\n\n📍ナンバーゲート\n\n🎤14:50〜15:05\n📸15:15〜16:15\n\n🩵お目当て特典🩵\n優先：お目当て券1枚+1P\n一般：1P\n\n#SerenadeLIVE情報",
+      "link_url": "",
+      "overview": "",
+      "images": {
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/b555/2026-10-16/0-1792183761361.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/b555/2026-10-16/0-1792183761361.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/01cb/2026-11-27/0-1795774149426.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/01cb/2026-11-27/0-1795774149426.jpg"
+          },
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/7e76/2026-11-27/0-1795774157036.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/7e76/2026-11-27/0-1795774157036.jpg"
+          }
+        ]
+      },
+      "videos": [],
+      "status": 1,
+      "color": 4698871,
+      "location_name": "",
+      "location_address": null,
+      "location_access": null,
+      "location_url": null,
+      "location_note": null,
+      "location_lat": null,
+      "location_lon": null,
+      "all_day": true,
+      "start_at": 1795996800000,
+      "end_at": 1795996800000,
+      "start_timezone": "UTC",
+      "end_timezone": "UTC",
+      "recurrences": null,
+      "until_at": 1796083199000,
+      "region_timezone": "Asia/Tokyo",
+      "period_closed": null,
+      "period_note": null,
+      "url": "https://timetr.ee/p/s1220/3039819937873516445",
+      "attachment": {},
+      "parent_id": "",
+      "publish_at": 1795770000000,
+      "display_updated_at": 1795774157461,
+      "updated_at": 1795774157461,
+      "created_at": 1787542775157,
+      "interest_count": 0,
+      "public_calendar_hashtags": [],
+      "campaign": null,
+      "_group": "Serenade",
+      "_calendar_id": "s1220"
+    },
+    {
       "id": "3083924534745225176",
       "public_calendar_id": 1002727029,
       "public_calendar_label": {
@@ -72088,7 +72161,7 @@
       },
       "title": "『VIVID SOUND CIRCUIT』",
       "headline": "",
-      "note": "『VIVID SOUND CIRCUIT』\n\n2026年11月30日(月)\n📍FANJ twice / アメリカ村DROP / アメリカ村BEYOND / ナンバーゲート / AtlantiQs / panhead groove\n\nタイムテーブル未定💭\n\n優先 ¥3,000 / 一般無料\n先行抽選10/06 22:00〜10/20 22:00\nhttps://ticketdive.com/event/VIVIDSOUNDCIRCUIT1130",
+      "note": "『VIVID SOUND CIRCUIT』\n\n2026年11月30日(月)\n\n📍AtlantiQs \n🔔Mell Bell出演/ 16:30-16:50\n📸特典会 / 17:00-18:00(特典会12)\n\n📍アメリカ村BEYOND\n🔔Mell Bell出演/ 18:15-18:35\n📸特典会 / 18:45-19:45(特典会4)\n\n優先 ¥3,000 / 一般無料\n先行抽選10/06 22:00〜10/20 22:00\nhttps://ticketdive.com/event/VIVIDSOUNDCIRCUIT1130",
       "link_url": "",
       "overview": "",
       "images": {
@@ -72124,8 +72197,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1788355311804,
-      "display_updated_at": 1795064639135,
-      "updated_at": 1795064639136,
+      "display_updated_at": 1795773365742,
+      "updated_at": 1795773365756,
       "created_at": 1788355311805,
       "interest_count": 1,
       "public_calendar_hashtags": [],
@@ -72273,25 +72346,35 @@
         "updated_at": 1784985580439,
         "created_at": 1784303552628
       },
-      "title": "ライブ予定🎀🔔",
+      "title": "『未来革命』",
       "headline": "",
-      "note": "",
+      "note": "『未来革命』\n\n2026年12月6日(日)\n📍 心斎橋 VARON\n\n①出演🔔\n09:15-09:30\n(09:40-10:40/並行A)\n\n②出演🔔\n14:25-14:40 \n(14:50-15:50/並行D)\n\n優先 ¥2,500 / 一般 ¥2,000 (+1D)\nhttps://ticketdive.com/event/MiraiKakumei1206\n→11/28 18:00〜 12/06 08:15",
       "link_url": "",
       "overview": "",
       "images": {
-        "cover": [],
-        "overview": []
+        "cover": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/abce/2026-11-27/0-1795773264898.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/abce/2026-11-27/0-1795773264898.jpg"
+          }
+        ],
+        "overview": [
+          {
+            "url": "https://attachments.timetreeapp.com/public_event/c2bf/2026-11-27/0-1795773266836.jpg",
+            "thumbnail_url": "https://attachments.timetreeapp.com/public_event_s/c2bf/2026-11-27/0-1795773266836.jpg"
+          }
+        ]
       },
       "videos": [],
       "status": 1,
       "color": 16482167,
-      "location_name": "",
+      "location_name": "心斎橋 VARON",
       "location_address": null,
       "location_access": null,
       "location_url": null,
       "location_note": null,
-      "location_lat": null,
-      "location_lon": null,
+      "location_lat": 34.675477,
+      "location_lon": 135.499605,
       "all_day": true,
       "start_at": 1796515200000,
       "end_at": 1796515200000,
@@ -72306,8 +72389,8 @@
       "attachment": {},
       "parent_id": "",
       "publish_at": 1794564584164,
-      "display_updated_at": 1794564584164,
-      "updated_at": 1794564584176,
+      "display_updated_at": 1795773417527,
+      "updated_at": 1795773417528,
       "created_at": 1794564584176,
       "interest_count": 0,
       "public_calendar_hashtags": [],
